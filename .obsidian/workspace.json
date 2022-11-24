@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md"
+                "file": "README.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +170,9 @@
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "6f9f6332342dacd2",
+  "active": "ade753063cf7569e",
   "lastOpenFiles": [
+    "daily_notes/24 Nov 2022.md",
     "daily_notes/11/24_2022.md",
     "2022-11-24.md"
   ]
