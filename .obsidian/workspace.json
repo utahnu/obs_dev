@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "76b3b9cba05dbd01",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c94d0d7a5c0f855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade753063cf7569e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/11/24_2022.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "ed2ca7540311f3cb"
+          }
+        ]
+      },
+      {
+        "id": "a562a7d81a8c4311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9f6332342dacd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/11/24_2022.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ed2ca7540311f3cb"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f65eeb5b6e5edbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "32076d3c128749ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a907b9189592d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "445d0fc65d3d2b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8089072efaa33cfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "afbf28199f99273f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7107a73b9b66790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c44b3b67624abd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily_notes/11/24_2022.md"
+              }
+            }
+          },
+          {
+            "id": "e2a5bbfd842853f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9e39806aeaf0b791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08557acb7aa3ddf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily_notes/11/24_2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "728ec59041e4c6f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily_notes/11/24_2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfba98eee391d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "active": "ade753063cf7569e",
+  "lastOpenFiles": [
+    "2022-11-24.md"
+  ]
+}

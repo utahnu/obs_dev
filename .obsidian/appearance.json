@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "color"
+  ],
+  "theme": "moonstone",
+  "interfaceFontFamily": "SF Pro Display",
+  "textFontFamily": "Crimson Text",
+  "monospaceFontFamily": "Fira Code"
+}
