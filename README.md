@@ -3,14 +3,14 @@
 
 ## *This repository is the collection of notes taken on Obsidian (in markdown) on obs_vault2.*
 
-## Contents of obs_vault1
+## Contents of obs_vault2
 
 - Daily notes:
 	- This folder contains .md files that correspond to that daily note. The daily note will contain links to the notes created that day, and information about the agenda and the tasks for that day.
 
 ## Notes for use
 
-### Git & Github:
+### Git & GitHub:
 This note space is attached to a local repository and a github repository. With the use of plugin *Obsidian Git*, the command palette (brought up by using the command ctrl+p) can be used to commit, push, and do other commands. 
 The main Obsidian Git commands I use are:
 	`Commit all changes` and `Push`.
