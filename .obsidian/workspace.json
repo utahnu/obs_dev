@@ -4,32 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9c94d0d7a5c0f855",
+        "id": "e704fa4f36bc2f05",
         "type": "tabs",
         "children": [
           {
-            "id": "ade753063cf7569e",
+            "id": "18945df862cae287",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/24 Nov 2022.md",
+                "mode": "source",
+                "source": true
+              }
             },
-            "group": "ed2ca7540311f3cb"
+            "group": "771f09e877cd9fd6"
           }
         ]
       },
       {
-        "id": "a562a7d81a8c4311",
+        "id": "f0145b621a835b70",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9f6332342dacd2",
+            "id": "6a90c969a967cb3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/24 Nov 2022.md",
+                "mode": "preview",
+                "source": true
+              }
             },
-            "group": "ed2ca7540311f3cb"
+            "group": "771f09e877cd9fd6"
           }
         ]
       }
@@ -90,13 +98,16 @@
       {
         "id": "e7107a73b9b66790",
         "type": "tabs",
+        "dimension": 34.43396226415094,
         "children": [
           {
             "id": "d0c44b3b67624abd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily_notes/24 Nov 2022.md"
+              }
             }
           },
           {
@@ -113,29 +124,15 @@
       {
         "id": "9e39806aeaf0b791",
         "type": "tabs",
+        "dimension": 27.641509433962266,
         "children": [
-          {
-            "id": "08557acb7aa3ddf7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "728ec59041e4c6f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily_notes/24 Nov 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +150,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "5971ea38a8cd8a19",
+        "type": "tabs",
+        "dimension": 37.924528301886795,
+        "children": [
+          {
+            "id": "08557acb7aa3ddf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily_notes/24 Nov 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "6a907b9189592d3d",
+  "active": "18945df862cae287",
   "lastOpenFiles": [
     "README.md",
     "daily_notes/24 Nov 2022.md",
+    "obsidian_dev2/README.md",
     "daily_notes/11/24_2022.md",
     "2022-11-24.md"
   ]
