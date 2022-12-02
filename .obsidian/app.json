@@ -2,9 +2,9 @@
   "livePreview": false,
   "spellcheck": true,
   "pdfExportSettings": {
-    "pageSize": "Legal",
+    "pageSize": "A5",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 90
+    "margin": "1",
+    "downscalePercent": 100
   }
 }
