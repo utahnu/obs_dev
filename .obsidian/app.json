@@ -1,4 +1,10 @@
 {
   "livePreview": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 90
+  }
 }

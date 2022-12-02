@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18945df862cae287",
+            "id": "95f88338cfef251a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "lights.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "771f09e877cd9fd6"
+            "group": "6f1adb86285e279c"
           }
         ]
       },
       {
-        "id": "f0145b621a835b70",
+        "id": "62036a6cd5a9b54e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a90c969a967cb3f",
+            "id": "48e94602593ca8ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "lights.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "771f09e877cd9fd6"
+            "group": "6f1adb86285e279c"
           }
         ]
       }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md"
+                "file": "lights.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "lights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/24 Nov 2022.md",
+                "file": "lights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +179,11 @@
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "18945df862cae287",
+  "active": "95f88338cfef251a",
   "lastOpenFiles": [
-    "README.md",
+    "lights.md",
     "daily_notes/24 Nov 2022.md",
+    "README.md",
     "obsidian_dev2/README.md",
     "daily_notes/11/24_2022.md",
     "2022-11-24.md"
