@@ -11,14 +11,23 @@
             "id": "95f88338cfef251a",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "6f1adb86285e279c"
+          },
+          {
+            "id": "694d5f8bb96f1b34",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "lights.md",
+                "file": "daily_notes/05 Dec 2022.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "6f1adb86285e279c"
+            "group": "4591cd048327c4f0"
           }
         ]
       },
@@ -32,12 +41,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lights.md",
+                "file": "music101_tag/Music for 18 Musicians - Steve Reich (1974-76).md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "6f1adb86285e279c"
+          },
+          {
+            "id": "0c4925c7d1883518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/05 Dec 2022.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "4591cd048327c4f0"
           }
         ]
       }
@@ -51,6 +73,7 @@
       {
         "id": "32076d3c128749ba",
         "type": "tabs",
+        "dimension": 59.62264150943396,
         "children": [
           {
             "id": "6a907b9189592d3d",
@@ -63,12 +86,23 @@
             }
           },
           {
+            "id": "bfba98eee391d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "445d0fc65d3d2b54",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#music101",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,30 +120,12 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "right": {
-    "id": "afbf28199f99273f",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "e7107a73b9b66790",
+        "id": "19f85720bbe31ec5",
         "type": "tabs",
-        "dimension": 34.43396226415094,
+        "dimension": 40.37735849056604,
         "children": [
-          {
-            "id": "d0c44b3b67624abd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "lights.md"
-              }
-            }
-          },
           {
             "id": "e2a5bbfd842853f7",
             "type": "leaf",
@@ -118,51 +134,35 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "afbf28199f99273f",
+    "type": "split",
+    "children": [
       {
-        "id": "9e39806aeaf0b791",
+        "id": "e7107a73b9b66790",
         "type": "tabs",
-        "dimension": 27.641509433962266,
+        "dimension": 50.84905660377359,
         "children": [
           {
-            "id": "728ec59041e4c6f6",
+            "id": "d0c44b3b67624abd",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "lights.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           },
-          {
-            "id": "bfba98eee391d6a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5971ea38a8cd8a19",
-        "type": "tabs",
-        "dimension": 37.924528301886795,
-        "children": [
           {
             "id": "08557acb7aa3ddf7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +173,39 @@
               }
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b66220a3c59f2f46",
+        "type": "tabs",
+        "dimension": 49.15094339622642,
+        "children": [
+          {
+            "id": "728ec59041e4c6f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "95f88338cfef251a",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "lights.md",
+    "music101_tag/Music for 18 Musicians - Steve Reich (1974-76).md",
+    "music101_tag/Minimalism and Steve Reich.md",
+    "daily_notes/05 Dec 2022.md",
     "daily_notes/24 Nov 2022.md",
     "README.md",
+    "light_tag/lights.md",
     "obsidian_dev2/README.md",
     "daily_notes/11/24_2022.md",
     "2022-11-24.md"
