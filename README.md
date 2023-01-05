@@ -16,7 +16,7 @@
 This note space is attached to a local repository and a github repository. With the use of plugin *Obsidian Git*, the command palette (brought up by using the command ctrl+p) can be used to commit, push, and other such commands. 
 The main Obsidian Git commands I use most often are:
 	`Commit all changes` and `Push`.
-I use these two commands on a single branch in the repository. Later I may work on using different branches, but for now I feel like just using a single repository per vault. 
+I use these two commands on a single branch in the repository. Later I may work on using different branches. 
 
 #### codespaces:
 I also have the option of editing my notes on the web with a *github codespace*, and I would be doing so in VS code.
