@@ -3,8 +3,8 @@
     /*─────────Original Obsidian Variables──────────*/
     --background-primary: var(--color-l-white);
     --background-primary-alt: var(--color-l-gray-10);
-    --background-secondary: var(--color-l-gray-20);
-    --background-secondary-alt: var(--color-l-gray-20);
+    --background-secondary: var(--color-l-gray-30);
+    --background-secondary-alt: var(--color-l-gray-30);
     --background-modifier-border: var(--color-l-gray-40);
     --background-modifier-form-field: var(--color-l-gray-30);
     --background-modifier-form-field-highlighted: var(--color-l-gray-40);
@@ -36,21 +36,21 @@
     /*──────────The PRIMARY Color Palette for Light Theme──────────*/
     --color-l-solarized_base2: hsl(44, 11%, 93%);
     --color-l-solarized_base3: hsl(44, 10%, 99%);
-    --color-l-whiter: hsl(36, 36%, 96.9%);
-    --color-l-white: hsl(35, 36%, 95%);
+    --color-l-whiter: hsl(34, 36%, 96.9%);
+    --color-l-white: hsl(34, 36%, 95%);
     --color-l-gray: var(--color-l-gray-50);
-    --color-l-gray-10: hsl(36, 37%, 92%);
-    --color-l-gray-20: hsl(35, 35%, 90%);
+    --color-l-gray-10: hsl(34, 37%, 92%);
+    --color-l-gray-20: hsl(34, 35%, 90%);
     --color-l-gray-30: hsl(34, 36%, 88%);
-    --color-l-gray-40: hsl(36, 37%, 83%);
+    --color-l-gray-40: hsl(34, 37%, 83%);
     --color-l-gray-50: hsl(34, 37%, 70%);
     --color-l-gray-60: hsl(34, 28%, 60%);
-    --color-l-gray-70: hsl(31, 23%, 50%);
+    --color-l-gray-70: hsl(34, 23%, 50%);
     --color-l-gray-80: hsl(34, 27%, 40%);
     --color-l-gray-90: hsl(34, 30%, 37%);
-    --color-l-gray-100: hsl(35, 32%, 30%);
-    --color-l-black: hsl(31, 45%, 20%);
-    --color-l-blacker: hsl(32, 55%, 12%);
+    --color-l-gray-100: hsl(34, 32%, 30%);
+    --color-l-black: hsl(34, 45%, 20%);
+    --color-l-blacker: hsl(34, 55%, 12%);
     --color-l-shadow-10: rgba(168, 160, 148, 0.8);
     --color-l-shadow-50: rgba(180, 172, 161, 0.3);
     --color-l-shadow-100: rgba(75, 70, 64, 0.2);

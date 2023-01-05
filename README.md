@@ -1,28 +1,22 @@
-# obs_dev2
+# obs_dev
 
 
-## *This repository is the collection of notes taken on Obsidian (in markdown) on obs_vault2.*
+## *This repository is the collection of notes taken on Obsidian (in markdown) on obs_dev.*
 
-## Contents of obs_vault2
+## Contents of obs_dev
 
 - Daily notes:
 	- This folder contains .md files that correspond to that daily note. The daily note will contain links to the notes created that day, and information about the agenda and the tasks for that day.
+- Tags:
+	- These will organize the markdown files themselves. They will be dated with each daily note, and may contain links to other documents outside of that tag. The tag itself identifies what the note was taken for.
 
 ## Notes for use
 
 ### Git & GitHub:
-This note space is attached to a local repository and a github repository. With the use of plugin *Obsidian Git*, the command palette (brought up by using the command ctrl+p) can be used to commit, push, and do other commands. 
-The main Obsidian Git commands I use are:
+This note space is attached to a local repository and a github repository. With the use of plugin *Obsidian Git*, the command palette (brought up by using the command ctrl+p) can be used to commit, push, and other such commands. 
+The main Obsidian Git commands I use most often are:
 	`Commit all changes` and `Push`.
 I use these two commands on a single branch in the repository. Later I may work on using different branches, but for now I feel like just using a single repository per vault. 
-
-#### the process of linking a github repo includes:
-- installing git
-- creating a local repository and adding the related files
-- authenticating with SSH and connecting to a github repository
-- configuring Obsidian Git
-
-the plugins should transfer over because they are contained within the vault, as well as the theme.
 
 #### codespaces:
 I also have the option of editing my notes on the web with a *github codespace*, and I would be doing so in VS code.
@@ -46,6 +40,7 @@ The file `color.css` is the CSS snippet that is currently active.
 - advanced tables
 - auto link title
 - calendar
+- dataview
 - local images
 - note refactor
 - obsidian git

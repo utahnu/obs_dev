@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "color"
+    "color+mods"
   ],
   "theme": "moonstone",
   "interfaceFontFamily": "SF Pro Display",
