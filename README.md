@@ -72,6 +72,7 @@ The file `color.css` is the CSS snippet that is currently active.
 - auto link title
 - calendar
 - dataview
+- excalidraw
 - local images
 - note refactor
 - obsidian git

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-01-07.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-01-07.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_notes/2023-01-07.md"
+                "file": "README.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_notes/2023-01-07.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_notes/2023-01-07.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +194,9 @@
   },
   "active": "193ccabe7c6284ac",
   "lastOpenFiles": [
+    "_daily_notes/2023-01-07.md",
     "_general/New Semester Tasks.md",
     "_drawings/drawing_2023-01-07.md",
-    "_daily_notes/2023-01-07.md",
     "Untitled.canvas",
     "_drawings/drawing_2023-01-07 16.33.43.excalidraw.md",
     "README.md",
