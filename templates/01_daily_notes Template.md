@@ -1,4 +1,4 @@
-#dailynote [*created*:: {{date:YYYY-MM-DD}}]
+[*created*:: {{date:YYYY-MM-DD}}] #dailynote
 # Notes Created This Day:
 
 ```dataview
