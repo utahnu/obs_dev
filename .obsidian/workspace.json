@@ -183,25 +183,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "193ccabe7c6284ac",
   "lastOpenFiles": [
     "_general/New Semester Tasks.md",
+    "_drawings/drawing_2023-01-07.md",
     "_daily_notes/2023-01-07.md",
+    "Untitled.canvas",
+    "_drawings/drawing_2023-01-07 16.33.43.excalidraw.md",
     "README.md",
     "templates/01_daily_notes Template.md",
     "templates/00_general_notes Template.md",
     "_daily_notes/20230105 - 05 Jan 2023.md",
-    "_daily_notes/20230106 - 06 Jan 2023.md",
-    "relC130/new note test.md",
-    "cs235/new note test 2.md",
-    "_daily_notes/2023-01-06.md"
+    "_daily_notes/20230106 - 06 Jan 2023.md"
   ]
 }
