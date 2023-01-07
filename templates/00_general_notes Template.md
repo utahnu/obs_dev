@@ -1,1 +1,1 @@
-*created* [[{{date:YYYYMMDD - DD MMM YYYY}}]] 
+Daily Note: [[{{date:YYYY-MM-DD}}]] -- [*created*:: {{date:YYYY-MM-DD}}] #

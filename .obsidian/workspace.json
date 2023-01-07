@@ -4,70 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6d660ac635b2aa",
+        "id": "94ed8fece26dc522",
         "type": "tabs",
         "children": [
           {
-            "id": "1c69a5f866e8b72f",
+            "id": "bc08a746ac267297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
+                "file": "_daily_notes/2023-01-07.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "695349c579090064"
-          },
-          {
-            "id": "8730f8853000558f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "7f6fc79b089bb9da"
+            "group": "b076b88db659a8e4"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "fd8eb4e9f0b0da3a",
+        "id": "4f900a4b73e71fea",
         "type": "tabs",
         "children": [
           {
-            "id": "81e4cddac1c5ba1c",
+            "id": "1a5b61b09b9782f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
+                "file": "_daily_notes/2023-01-07.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "695349c579090064"
-          },
-          {
-            "id": "212043db91050967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "7f6fc79b089bb9da"
+            "group": "b076b88db659a8e4"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md"
+                "file": "_daily_notes/2023-01-07.md"
               }
             }
           },
@@ -171,8 +143,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
-                "collapseAll": false,
+                "file": "_daily_notes/2023-01-07.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -196,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_notes/20230105 - 05 Jan 2023.md",
+                "file": "_daily_notes/2023-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8730f8853000558f",
+  "active": "bc08a746ac267297",
   "lastOpenFiles": [
-    "templates/01_daily_notes Template.md",
-    "_daily_notes/20230105 - 05 Jan 2023.md",
-    "task experiment.md",
-    "This note.md",
-    "Experimentation.md",
     "README.md",
+    "templates/01_daily_notes Template.md",
     "templates/00_general_notes Template.md",
-    "daily_notes/20230105 - 05 Jan 2023.md",
-    "light_tag/lights.md",
-    "daily_notes/05 Dec 2022.md"
+    "_daily_notes/2023-01-07.md",
+    "_daily_notes/20230105 - 05 Jan 2023.md",
+    "_daily_notes/20230106 - 06 Jan 2023.md",
+    "relC130/new note test.md",
+    "cs235/new note test 2.md",
+    "_daily_notes/2023-01-06.md",
+    "_daily_notes/20230106 - 06Jan2023.md"
   ]
 }
