@@ -33,3 +33,35 @@ Daily Note: [[2023-01-10]] -- [*created*:: 2023-01-10] #hist221
 	government can & should be limited in its powers
 	its authority depends on its observation of their limits of power
 
+[[Economic Systems]]
+## - Capitalism
+*an economic system*
+
+	the means of production are privately owned
+	the distribution of resources is determined by the flow of the free market (supply & demand)
+
+## - Socialism
+*an economic system*
+
+	the means of production are commonly owned [usually via the state]
+	the state enforces equitable distribution of resources
+
+## - Modernization
+*a process*
+
+	socioeconomic development:
+	formal education, internal markets, industrializaiton, democratic political institutions
+
+## - Democracy
+*a system of government*
+
+	government by the people: all citizens are equal, majority rules
+
+### The United States progresses from a traditional republic to a democracy
+
+- Supreme Court, Electoral College
+- Thomas Jefferson & the Democratic Republicans
+	- introduce more democracy
+- Andrew Jackson and the Democratic Party
+	- after losing presidency with the popular vote
+- Abraham Lincoln and the Republican Party
