@@ -2,7 +2,7 @@ Daily Note: [[2023-01-10]] -- [*created*:: 2023-01-10] #cs180
 
 ## First week to do:
 - [ ] cs180 ZyBook
-- [ ] Clone GitHub repository
+- [x] Clone GitHub repository ✅ 2023-01-10
 - [ ] Chapter 1 Reading Quiz
-- [ ] Python lab 1
-- [ ] Data science 1
+- [x] Python lab 1 ✅ 2023-01-10
+- [ ] Data science lab 1
