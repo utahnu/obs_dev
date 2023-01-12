@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/Reconstruction & Jim Crow.md",
+                "file": "cs235/Functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/Reconstruction & Jim Crow.md",
+                "file": "cs235/Functions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/Reconstruction & Jim Crow.md"
+                "file": "cs235/Functions.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/Reconstruction & Jim Crow.md",
+                "file": "cs235/Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/Reconstruction & Jim Crow.md",
+                "file": "cs235/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750c003338c52698",
+  "active": "66fac32f377f3406",
   "lastOpenFiles": [
-    "hist221/Economic Systems.md",
-    "hist221/Reconstruction & Jim Crow.md",
+    "cs235/Basic IO.md",
+    "cs235/Functions.md",
+    "cs235/C++ Types.md",
     "_daily_notes/2023-01-12.md",
-    "hist221/Chronology.md",
-    "hist221/Key Terms for US History.md",
     "cs180/Python Crash Course.md",
     "cs180/cs180_first lecture.md",
-    "_daily_notes/2023-01-10.md",
-    "README.md",
-    "_daily_notes/2023-01-09.md"
+    "hist221/Reconstruction & Jim Crow.md",
+    "hist221/Economic Systems.md",
+    "hist221/Chronology.md",
+    "hist221/Key Terms for US History.md"
   ]
 }
