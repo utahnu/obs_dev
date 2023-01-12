@@ -1,5 +1,7 @@
 Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #cs235 
 
+# Defining a Function
+
 ```cpp
 int add(int a, int b) {
 	return a + b;
