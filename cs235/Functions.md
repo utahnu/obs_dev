@@ -25,3 +25,5 @@ int main(int argc, char* argv[]) {
 	//return 0 (is not required)
 }
 ```
+
+## Functions cannot be defined inside of other functions (except for lambdas)
