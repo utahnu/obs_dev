@@ -33,7 +33,6 @@ Daily Note: [[2023-01-10]] -- [*created*:: 2023-01-10] #hist221
 	government can & should be limited in its powers
 	its authority depends on its observation of their limits of power
 
-[[Economic Systems]]
 ## - Capitalism
 *an economic system*
 
