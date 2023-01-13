@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "school",
+      "query": "tag:#hist221",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#cs235",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#cs180",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#dailynote",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -21,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.627604166666667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6476740968595854,
+  "linkDistance": 95,
+  "scale": 0.31641857512596583,
   "close": true
 }
