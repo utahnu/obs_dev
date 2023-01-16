@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f07ab4119b67add1",
+        "id": "15be16c1a1e8ffde",
         "type": "tabs",
         "children": [
           {
-            "id": "66fac32f377f3406",
+            "id": "cede8a941cb47529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/Functions.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "9616ea8baa1bb607"
-          }
-        ]
-      },
-      {
-        "id": "0c1e33521ae9bfe1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f56b61ffc648eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs235/Functions.md",
+                "file": "hist221/01 Reconstruction & Jim Crow.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "9616ea8baa1bb607"
+            }
           }
         ]
       }
@@ -133,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/Functions.md"
+                "file": "hist221/01 Reconstruction & Jim Crow.md"
               }
             }
           }
@@ -142,7 +122,7 @@
       {
         "id": "064199e7d9b2a6d0",
         "type": "tabs",
-        "dimension": 44.29783223374175,
+        "dimension": 37.51178133836004,
         "children": [
           {
             "id": "728ec59041e4c6f6",
@@ -150,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/Functions.md",
+                "file": "hist221/01 Reconstruction & Jim Crow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +141,7 @@
       {
         "id": "e7107a73b9b66790",
         "type": "tabs",
-        "dimension": 32.32799245994345,
+        "dimension": 39.114043355325165,
         "children": [
           {
             "id": "08557acb7aa3ddf7",
@@ -169,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/Functions.md",
+                "file": "hist221/01 Reconstruction & Jim Crow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66fac32f377f3406",
+  "active": "cede8a941cb47529",
   "lastOpenFiles": [
-    "cs235/C++ Types.md",
-    "cs235/Basic IO.md",
+    "hist221/01-05 Jim Crow Laws.md",
+    "_daily_notes/2023-01-12.md",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/01-04 Radical Reconstruction.md",
     "hist221/_Chronology.md",
     "hist221/_Key Terms for US History.md",
-    "hist221/01 Reconstruction & Jim Crow.md",
-    "hist221/01-01 The Civil War.md",
-    "hist221/01-02 Wartime Reconstruction.md",
-    "_general/New Semester Tasks.md",
-    "_drawings/drawing_2023-01-07.md",
-    "hist221/01-05 Jim Crow Laws.md"
+    "cs235/Functions.md",
+    "cs235/C++ Types.md",
+    "cs235/Basic IO.md",
+    "hist221/01-01 The Civil War.md"
   ]
 }
