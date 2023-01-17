@@ -1,6 +1,6 @@
 Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221 
 
-- [ ] Finish Amendments
+- [x] Finish Amendments ✅ 2023-01-17
 - [x] Finish Chronology ✅ 2023-01-12
 - [x] Refactor Notes
 
