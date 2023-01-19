@@ -43,3 +43,13 @@ Daily Note: [[2023-01-17]] -- [*created*:: 2023-01-17] #hist221
 # Development of the West
 
 ![[02-05 Development of the West]]
+
+# Politics and Corruption in the Gilded Age
+
+![[02-06 Politics and Corruption in the Gilded Age]]
+
+<br>
+
+# The Panic of 1893, and the End of the Gilded Age
+
+![[02-07 The Panic of 1893, and the End of the Gilded Age]]

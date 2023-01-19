@@ -12,4 +12,10 @@ Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221
 # 1870-1900
 
 ### [[02 The Gilded Age|The Gilded Age]]
-- 
+- [[02-01 Industrialization|Industrialization]]
+- [[02-02 Urbanization|Urbanization]]
+- [[02-03 Robber Barons|Robber Barons]]
+- [[02-04 Labor in the Gilded Age|Labor in the Gilded Age]]
+- [[02-05 Development of the West|Development of the West]]
+- [[02-06 Politics and Corruption in the Gilded Age|Politics and Corruption in the Gilded Age]]
+- [[02-07 The Panic of 1893, and the End of the Gilded Age|The Panic of 1893, and the End of the GIlded Age]]

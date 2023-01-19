@@ -65,6 +65,15 @@ Become popular industries in the open and resource-rich west
 
 ---
 
+## Western Democracy
+
+- Universal Male Suffrage
+- Early Female Suffrage
+	- in Wyoming: 1869
+	- in Utah: 1870
+
+---
+
 ## The Wild West (1865-1890)
 From [[_Key Terms for US History#- Pillars of the State]]:
 There is a lack of authority in the west, leading to a somewhat lawless west
