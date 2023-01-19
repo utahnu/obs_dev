@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/02 The Gilded Age.md",
+                "file": "cs235/02 Pointers and Arrays.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/02 The Gilded Age.md",
+                "file": "cs235/02 Pointers and Arrays.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/02 The Gilded Age.md"
+                "file": "cs235/02 Pointers and Arrays.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/02 The Gilded Age.md",
+                "file": "cs235/02 Pointers and Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/02 The Gilded Age.md",
+                "file": "cs235/02 Pointers and Arrays.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cede8a941cb47529",
+  "active": "33ebbcdc0e93683a",
   "lastOpenFiles": [
-    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
-    "hist221/02-06 Politics and Corruption in the Gilded Age.md",
-    "hist221/02-05 Development of the West.md",
-    "hist221/02-04 Labor in the Gilded Age.md",
-    "hist221/02-03 Robber Barons.md",
-    "hist221/02-02 Urbanization.md",
-    "hist221/02-01 Industrialization.md",
+    "_drawings/drawing_2023-01-19.md",
+    "cs235/01 C++ Types.md",
+    "cs235/01 Functions.md",
+    "cs235/02 Pointers and Arrays.md",
+    "README.md",
+    "_daily_notes/2023-01-19.md",
+    "cs180/03 NumPy.md",
     "hist221/02 The Gilded Age.md",
-    "hist221/01-05 Jim Crow Laws.md",
-    "hist221/01-04 Radical Reconstruction.md"
+    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
+    "hist221/02-06 Politics and Corruption in the Gilded Age.md"
   ]
 }
