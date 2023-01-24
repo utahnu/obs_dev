@@ -11,41 +11,48 @@
       "query": "tag:#hist221",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16728642
       }
     },
     {
       "query": "tag:#cs235",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16735457
       }
     },
     {
       "query": "tag:#cs180",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 7699199
       }
     },
     {
       "query": "tag:#dailynote",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 7039851
+      }
+    },
+    {
+      "query": "tag:#general",
+      "color": {
+        "a": 1,
+        "rgb": 16760253
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.21015625,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 1.00598958333333,
   "collapse-forces": false,
-  "centerStrength": 0.627604166666667,
+  "centerStrength": 0.755208333333333,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 95,
+  "linkDistance": 30,
   "scale": 0.35587484819123893,
   "close": true
 }

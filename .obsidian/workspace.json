@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5064bd35895c69ed"
+            "group": "320cc559ff45fd96"
           }
         ]
       },
       {
-        "id": "d50f6ed1ecfea02b",
+        "id": "f31306358b509c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "754a8dae46527e46",
+            "id": "678dcca488e0c006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "5064bd35895c69ed"
+            "group": "320cc559ff45fd96"
           }
         ]
       }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md"
+                "file": "hist221/03 The Progressive Era.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +200,15 @@
   },
   "active": "cede8a941cb47529",
   "lastOpenFiles": [
-    "_daily_notes/2023-01-24.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/03 The Progressive Era.md",
+    "hist221/_Chronology.md",
     "hist221/01 Reconstruction & Jim Crow.md",
-    "cs180/03 NumPy.md",
+    "_daily_notes/2023-01-24.md",
     "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+    "cs180/03 NumPy.md",
     "cs180/02 Reading & Writing Data in Python.md",
     "cs235/02 Pointers and Arrays.md",
-    "_drawings/drawing_2023-01-19.md",
-    "cs235/01 C++ Types.md",
-    "cs235/01 Functions.md",
-    "README.md"
+    "_drawings/drawing_2023-01-19.md"
   ]
 }

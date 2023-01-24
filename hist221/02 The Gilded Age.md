@@ -3,6 +3,9 @@ Daily Note: [[2023-01-17]] -- [*created*:: 2023-01-17] #hist221
 > *the derogatory name, **The Gilded Age**, was coined after the title of an 1873 novel by Mark Twain and Charles Dudley Warner. "Gilded" meaning covered with gold, but also suggesting a worthless and deceptive core.*
 
 # Bullet Points
+
+*The Gilded Age emerges out of Economic Development*
+
 - Modernization/Development
 	- Industrialization ->
 		- Massive wealth accumulation
