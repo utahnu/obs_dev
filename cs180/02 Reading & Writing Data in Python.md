@@ -1,7 +1,7 @@
 Daily Note: [[2023-01-17]] -- [*created*:: 2023-01-17] #cs180 
-- [ ] DataSci Lab 2
-- [ ] Python Lab 2
-- [ ] Chapter 2 Reading
+- [x] DataSci Lab 2 ✅ 2023-01-24
+- [x] Python Lab 2 ✅ 2023-01-24
+- [x] Chapter 2 Reading ✅ 2023-01-24
 
 ## Writing a file
 ```python

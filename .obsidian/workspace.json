@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/02 Pointers and Arrays.md",
+                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "718b60013d2f8541"
+            "group": "5064bd35895c69ed"
           }
         ]
       },
       {
-        "id": "4af4c528d223775c",
+        "id": "d50f6ed1ecfea02b",
         "type": "tabs",
         "children": [
           {
-            "id": "33ebbcdc0e93683a",
+            "id": "754a8dae46527e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/02 Pointers and Arrays.md",
+                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "718b60013d2f8541"
+            "group": "5064bd35895c69ed"
           }
         ]
       }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/02 Pointers and Arrays.md"
+                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/02 Pointers and Arrays.md",
+                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/02 Pointers and Arrays.md",
+                "file": "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ebbcdc0e93683a",
+  "active": "cede8a941cb47529",
   "lastOpenFiles": [
+    "_daily_notes/2023-01-24.md",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "cs180/03 NumPy.md",
+    "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
+    "cs180/02 Reading & Writing Data in Python.md",
+    "cs235/02 Pointers and Arrays.md",
     "_drawings/drawing_2023-01-19.md",
     "cs235/01 C++ Types.md",
     "cs235/01 Functions.md",
-    "cs235/02 Pointers and Arrays.md",
-    "README.md",
-    "_daily_notes/2023-01-19.md",
-    "cs180/03 NumPy.md",
-    "hist221/02 The Gilded Age.md",
-    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
-    "hist221/02-06 Politics and Corruption in the Gilded Age.md"
+    "README.md"
   ]
 }
