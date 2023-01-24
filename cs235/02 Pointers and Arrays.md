@@ -66,7 +66,7 @@ When C++ makes an array, it returns the address of the first element of the arra
 ```cpp
 //to create an array on the heap:
 int size = 10;
-int* my_array = new int[size];
+int* my_array = new int[size]{};
 
 //to free the memory of an array on the heap:
 delete[] my_array;

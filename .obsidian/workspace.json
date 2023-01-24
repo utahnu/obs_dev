@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/03 The Progressive Era.md"
+                "file": "cs235/03 Classes.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +200,15 @@
   },
   "active": "cede8a941cb47529",
   "lastOpenFiles": [
-    "hist221/02 The Gilded Age.md",
     "hist221/03 The Progressive Era.md",
-    "hist221/_Chronology.md",
+    "cs235/03 Classes.md",
+    "cs235/02 Pointers and Arrays.md",
+    "_drawings/drawing_2023-01-24.md",
     "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/_Chronology.md",
     "_daily_notes/2023-01-24.md",
     "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
-    "cs180/03 NumPy.md",
-    "cs180/02 Reading & Writing Data in Python.md",
-    "cs235/02 Pointers and Arrays.md",
-    "_drawings/drawing_2023-01-19.md"
+    "cs180/03 NumPy.md"
   ]
 }
