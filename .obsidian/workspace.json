@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/_Chronology.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/_Chronology.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/_Chronology.md"
+                "file": "hist221/03 The Progressive Era.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/_Chronology.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/_Chronology.md",
+                "file": "hist221/03 The Progressive Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,15 +193,15 @@
   },
   "active": "cede8a941cb47529",
   "lastOpenFiles": [
-    "hist221/02-Z The Gilded Age - Chapter Chronology.md",
-    "hist221/_Chronology.md",
-    "hist221/03 The Progressive Era.md",
-    "hist221/02 The Gilded Age.md",
-    "hist221/02-01 Industrialization.md",
-    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
-    "hist221/02-06 Politics and Corruption in the Gilded Age.md",
     "hist221/02-05 Development of the West.md",
-    "hist221/02-04 Labor in the Gilded Age.md",
-    "hist221/02-03 Robber Barons.md"
+    "hist221/03 The Progressive Era.md",
+    "hist221/01-02 Wartime Reconstruction.md",
+    "hist221/01-01 The Civil War.md",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/02-Z The Gilded Age - Chapter Chronology.md",
+    "hist221/_Chronology_Timeline.md",
+    "hist221/_Chronology.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/02-01 Industrialization.md"
   ]
 }

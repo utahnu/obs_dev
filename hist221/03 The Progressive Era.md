@@ -307,16 +307,21 @@ Theodore Roosevelt (1858-1919) becomes president after the assassination of Will
 
 --- 
 
-## Ford Motor Company
+## Henry Ford (1863-1947)
 *Henry Ford creates a new business model*
+
+### Founds the Ford Motor Company in 1905
 
 Pays high wages for:
 
-- Contractual agreement to not unionize
-- His workers make enough money to buy his products (Ford-ism)
+- Anti-Union 
+	- Contractual agreement to not unionize
+- His workers make enough money to buy his products (==Fordism==)
 	- Ford creates his own market
 
 Develops factories and factory lines to increase production
+- Standardization/Interchangeable Parts
+- Affordable Cars
 
 ---
 
@@ -418,3 +423,256 @@ The area to build the Canal is sold to the US by the leader of Panama
 - Segregated labor
 - ==Completed in 1914==
 - **A Massive Strategic and Economic point**
+
+---
+
+## Russo-Japanese War (1904-1905)
+*The Russians lose to the Japanese*
+
+- Roosevelt brokers peace in 1905
+- ==Roosevelt receives the Nobel Peace Prize in 1906==
+
+### Roosevelt - Citizenship in a Republic and the Man in the Arena (1910)
+
+==*A speech Roosevelt gives after reception of the Nobel Peace Prize*==
+
+	Democratic republics depend on their citizens for survival
+
+>  “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+>  \- Theodore Roosevelt
+
+	Paraphrased: Get of the sidelines, and do something
+
+--- 
+
+## The 1908 Election
+
+- Roosevelt worries about the democratic consequences of running again (more than 2 terms)
+	- Roosevelt uses his influence to select his successor:
+
+### William Howard Taft (1857-1930)
+*A Federal Judge, who was hand-picked by Roosevelt*
+
+Taft wins election:
+- 321 electoral votes to 162
+- Debs wins 1% of the popular vote
+
+- The South is more democratic, regionally divided
+
+<br>
+
+# Taft's Presidency (1909-1913)
+
+## Margaret Sanger (1879-1966)
+*Becomes a writer, explaining sex, contraception, and pregnancy*
+*Is considered radical, as traditionally, men are educated as such, and women aren't*
+
+Sanger was  #6 of 11 children
+
+### *What Every Girl Should Know* (1916)
+
+- Links between unwanted pregnancies and poverty & death
+- Pushes a birth control movement
+
+---
+
+## The Triangle Shirtwaist Factory Fire (1911)
+*A Textile factory, women and younger girls are employed*
+
+The building doors are locked to prevent workers leaving
+
+*146 people killed* - In the fire, jumping out of the building
+
+Spurs New York City Reforms
+
+---
+
+## Ida Tarbell (1857-1944)
+*A Muckraker writer/journalist*
+
+### *The History of the Standard Oil Company (1904)*
+- A detailed expose of Standard Oil
+	- Monopolization and oppression of Labor
+
+Roosevelt originally identified Standard Oil as a good trust
+
+### 1911 - Taft administration breaks up the Standard Oil Company
+
+---
+
+## 16th Amendment (1913)
+
+> "The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration."
+
+Grants Congress ability to levy income taxes
+Allows for progressive taxation (more +$, more tax)
+
+---
+
+## Dollar Diplomacy
+*Replaces Roosevelt's Big Stick Policy*
+
+Use economic incentives and punishments for foreign interests
+
+- The US loans makes business investments in countries that are in favor of the US foreign policy
+- Latin American heads of state and politicians are removed from office to secure loans
+
+---
+
+## The 1912 Election
+
+### Roosevelt-Taft Split
+- Roosevelt and Taft have growing differences
+- Roosevelt: Democracy vs. Taft: Liberalism
+
+==Republican leadership gives the nomination to Taft (worried about Roosevelt's influence)==
+
+### The Progressive Party
+
+*A new party founded by Theodore Roosevelt*
+
+- Referendums on Supreme Court decisions
+	- (votes on Supreme Court Decisions)
+- Female Suffrage
+- 8-hour workday
+- Social Security
+- High taxes on large corporations
+
+### The Socialist Party
+*Eugene V. Debs for the fourth time*
+
+- Other candidates are tools of the establishment
+- Nationalization of railroads & factories
+- Female suffrage
+- Abolish Electoral College
+- Abolish the Senate
+
+Pushes Democratic systems
+
+### The Democratic Party
+*Nominate Woodrow Wilson (1856-1924) [a southerner]*
+
+- Progressive
+- New Freedom Platform
+- State's Rights
+- There are no good trusts
+- Low tariffs
+
+### Results
+
+#### Woodrow Wilson wins the election
+
+Wilson wins 435/531 electoral votes, with 42% of electoral vote
+==*Because the republican voters are all split between Taft and Roosevelt*==
+
+- Roosevelt wins 88 electoral votes and 27% of popular vote
+	- Best results from a third part in US History
+- Taft wins 8 electoral votes and 23% of the popular vote
+- Debs wins 6% of the popular vote
+
+<br>
+
+# Wilson's Presidency (1913-1921)
+
+## National American Woman Suffrage Association
+*Founded in 1890*
+
+Pushes Wilson and Congress to approve a constitutional amendment to grant full suffrage to 
+
+### Carrie Chapman Catt (1849-1947)
+
+---
+
+## The 17th Amendment (1913)
+
+> "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures."
+
+- Sponsored by multiple progressive politicians:
+	- Popular election of Senators
+		- Democratization
+
+---
+
+## Federal Reserve Act (1913)
+*The start of a series of progressive policy by Wilson*
+
+- Creates the Federal Reserve
+- A Central banking system (centralized monetary authority)
+- ==The Government now has control over monetary policy, instead of banks==
+
+---
+
+## Federal Trade Commission Act of 1914
+
+- Federal Trade Commission (FTC) established
+- Fights against:
+	- Unfair competition
+	- Dishonest practices
+
+---
+
+## Underwood Tariff (1913)
+*Extremely low tariff rate*
+Reintroduces competition with foreign goods
+
+*Progressive income tax*
+compensates for lost revenue from reducing tariffs
+
+---
+
+## Clayton Act (1914)
+
+- Exempts unions from anti-trust laws
+- Prevents court orders from curtailing the right to strike
+	- Police can't be ordered to stop a strike
+
+---
+
+## Keating-Owen Act (1916)
+
+- Outlawed child labor in all establishments involved with interstate commerce
+	- Overturned in 1918 by the Supreme Court
+
+---
+
+## Adamson Act (1916)
+
+Institutes an 8-hour workday for all railroad workers
+
+Other companies match Railroad policy as well
+
+---
+
+## Warehouse Act (1916)
+
+Creates a public system of warehouses where farmers can affordably store their products
+- Makes agricultural products more reliable and cheaper
+
+---
+
+## Wilson mandates segregation within the Federal Govermnent
+
+Praises the Klu Klux Klan and White Supremacy
+*Birth of a Nation* (a supremacist film) comes out during Wilson's presidency
+
+==Democratization is not a upward linear process==
+
+---
+
+## Moral Imperialism
+- Imperialism based in American values of democracy and free trade is morally sound
+- The United States has a right to intervene in countries who do not uphold these values
+	- Military and economic interventions in Latin America increase
+
+<br>
+
+
+# ==Conclusions of the Progressive Era==
+
+## Government Power dramatically expands
+
+## The Government takes on new roles:
+
+- Adjudicator of Labor Relations
+- Enforcer of Capitalism
+- Protector of the Consumer
