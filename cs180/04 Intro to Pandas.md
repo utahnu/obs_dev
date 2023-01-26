@@ -2,6 +2,8 @@ Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #cs180
 
 # Pandas (==Pan==el==Da==taAnaly==s==is)
 
+### Contents:
+
 - DataFrame
 - Reading Data
 - Selecting Data
