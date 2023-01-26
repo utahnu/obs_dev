@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "15be16c1a1e8ffde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cede8a941cb47529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hist221/03 The Progressive Era.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "320cc559ff45fd96"
-          }
-        ]
-      },
-      {
         "id": "f31306358b509c6f",
         "type": "tabs",
         "children": [
@@ -32,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b411203b2ada9f96"
+          }
+        ]
+      },
+      {
+        "id": "5e245ec32b60c8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a6a06696b29419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs235/03 Classes.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "320cc559ff45fd96"
+            "group": "b411203b2ada9f96"
           }
         ]
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/03 The Progressive Era.md"
+                "file": "cs235/03 Classes.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/03 The Progressive Era.md",
+                "file": "cs235/03 Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cede8a941cb47529",
+  "active": "b5a6a06696b29419",
   "lastOpenFiles": [
-    "hist221/03-10 Conclusions of the Progressive Era.md",
+    "hist221/_Chronology_Timeline.md",
+    "cs235/03 Classes.md",
+    "Untitled.md",
+    "hist221/_Chronology.md",
+    "hist221/_Key Terms for US History.md",
     "hist221/02-Z The Gilded Age - Chapter Chronology.md",
+    "hist221/03-02 Social Structures in the Progressive Era.md",
     "hist221/03-01 Progressivism.md",
     "hist221/03 The Progressive Era.md",
-    "hist221/02-05 Development of the West.md",
-    "hist221/01-02 Wartime Reconstruction.md",
-    "hist221/01-01 The Civil War.md",
-    "hist221/01 Reconstruction & Jim Crow.md",
-    "hist221/_Chronology_Timeline.md",
-    "hist221/_Chronology.md"
+    "hist221/03-10 Conclusions of the Progressive Era.md"
   ]
 }
