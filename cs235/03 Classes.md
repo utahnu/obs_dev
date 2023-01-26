@@ -135,3 +135,10 @@ stringstream ss;
 ss << this->function() << " " << "etc"
 return ss.str();
 ```
+
+
+# You should have 
+
+- destructor
+- constructor
+- assignment operator

@@ -19,8 +19,21 @@
               }
             },
             "group": "b411203b2ada9f96"
+          },
+          {
+            "id": "d2af8be9e620ab77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operator Overloading.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e245ec32b60c8b1",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/03 Classes.md"
+                "file": "Operator Overloading.md"
               }
             }
           }
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "Operator Overloading.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "Operator Overloading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5a6a06696b29419",
+  "active": "d2af8be9e620ab77",
   "lastOpenFiles": [
-    "hist221/_Chronology_Timeline.md",
     "cs235/03 Classes.md",
-    "Untitled.md",
+    "hist221/_Chronology_Timeline.md",
+    "Operator Overloading.md",
     "hist221/_Chronology.md",
     "hist221/_Key Terms for US History.md",
     "hist221/02-Z The Gilded Age - Chapter Chronology.md",
