@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "cs180/04 Intro to Pandas.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "cs180/04 Intro to Pandas.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/03 Classes.md"
+                "file": "cs180/04 Intro to Pandas.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "cs180/04 Intro to Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/03 Classes.md",
+                "file": "cs180/04 Intro to Pandas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cede8a941cb47529",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "hist221/03 The Progressive Era.md",
+    "_daily_notes/2023-01-26.md",
+    "_daily_notes/2023-01-24.md",
+    "cs180/04 Intro to Pandas.md",
     "cs235/03 Classes.md",
+    "hist221/03 The Progressive Era.md",
     "cs235/02 Pointers and Arrays.md",
     "_drawings/drawing_2023-01-24.md",
     "hist221/01 Reconstruction & Jim Crow.md",
     "hist221/02 The Gilded Age.md",
-    "hist221/_Chronology.md",
-    "_daily_notes/2023-01-24.md",
-    "cs180/guest_speakers/Brad Ferguson @ BENlabs.md",
-    "cs180/03 NumPy.md"
+    "hist221/_Chronology.md"
   ]
 }
