@@ -16,7 +16,7 @@ Daily Note: [[2023-01-24]] -- [*created*:: 2023-01-24] #hist221
 > 	- Prevent monopolies
 > 	- Improve democracy
 
-Positive freedom - freedom is given, not only being untied from control
+==Positive freedom== - freedom is proactive, not just being untied from control
 
 ---
 
@@ -25,7 +25,7 @@ Positive freedom - freedom is given, not only being untied from control
 | Socialism                          | Progressivism                  |
 | ---------------------------------- | ------------------------------ |
 | Based on Class Struggle            | Harmony between classes        |
-| A Democratic ideology - free/equal | Enforcing Capitalsm/Liberalism |
+| A Democratic ideology - free/equal | Enforcing Capitalism/Liberalism |
 
 ---
 
@@ -41,7 +41,7 @@ Positive freedom - freedom is given, not only being untied from control
 
 <br>
 
-# Social Structures
+# Social Structures in the Progressive Era
 
 ## Economic growth continues at a slower rate
 
@@ -50,7 +50,9 @@ Positive freedom - freedom is given, not only being untied from control
 13 Million immigrations between 1901 and 1915
 
 ### Mass Consumer Culture
+
 *Own more stuff*
+
 - Department Stores
 - Chain stores
 - Mail-ordering
@@ -67,7 +69,7 @@ Positive freedom - freedom is given, not only being untied from control
 ## Middle Class Expands
 
 - Consumerism develops
-- Have Living wages
+- Middle Class has Living wages
 - American Standard of Living
 	- American Pride for quality of life
 
@@ -91,7 +93,7 @@ Positive freedom - freedom is given, not only being untied from control
 - Equal Rights
 - Right to Vote
 - Sexual Freedom
-	- Contraception
+	- Contraception (rights and social acceptance)
 	- Legal Protection
 
 ### Career Opportunities for Women
@@ -108,19 +110,19 @@ Positive freedom - freedom is given, not only being untied from control
 *Cuba is fighting for independence*
 *The United States is concerned with economic and political interests*
 
-The United States has high economic interests in Cuba, and Americans are generally sympathetic with colonies fighting for independence.
+The United States gets involved in this conflict because it has high economic interests in Cuba, and Americans are generally sympathetic with colonies fighting for independence.
 
 ---
 
 ## The USS Maine
 
-Worried businesses push the navy to send a ship to Cuba
+Worried businesses push the navy to send a ship to Cuba to protect their economic interests
 
 While parked in the harbor, the USS Maine explodes (later found to be a ship failure)
 
 - 260 Killed
 - Blamed on the Spanish
-- Initiates war
+- ==Initiates war==
 
 Ends up being a 3-month conflict
 
@@ -141,19 +143,7 @@ Roosevelt and the "Rough Riders" win against a struggling Spain with US Naval Po
 
 ## The Beginnings of the American Empire
 
-Emergence of the United States as a world power
-
-<br>
-
-# The Assassination of William McKinley (1901)
-
-- Pan-American Exposition in New York
-- Anarchist assassin
-- Secret Service is expanded
-
-## Vice President Theodore Roosevelt becomes President
-
-The First Progressive President
+The obtaining of these new US colonies evidence the emergence of the United States as a world power
 
 <br>
 
@@ -202,12 +192,23 @@ Non-elected officials, selected by the government, to remove elected interests
 
 - Limited Female Suffrage
 - Workers' Compensation Laws
+- 
+<br>
+
+# The Assassination of William McKinley (1901)
+
+- Pan-American Exposition in New York
+- Anarchist assassin
+- Secret Service is expanded
+
+## Vice President Theodore Roosevelt becomes President
+
+The First Progressive President
+
 
 <br>
 
-# Theodore Roosevelt's Presidency (1901-1909)
-
-Theodore Roosevelt (1858-1919) becomes president after the assassination of William McKinley, to whom he was the Vice President
+# Theodore Roosevelt's Context
 
 ## Booker T. Washington (1856-1915)
 
@@ -263,7 +264,11 @@ There are 400 settlement houses by 1910
 
 ## The Wright Brothers - First Flight (1903)
 
----
+<br>
+
+# Theodore Roosevelt's Presidency (1901-1909)
+
+Theodore Roosevelt (1858-1919) becomes president after the assassination of William McKinley, to whom he was the Vice President
 
 ## The Socialist Party of America
 
@@ -361,7 +366,7 @@ A Fictional story that describes real conditions
 
 ---
 
-## National Parks
+## National Parks, 'Teddy'
 
 *Teddy's Bear - Teddy isn't going to shoot a sedated bear*
 
@@ -394,8 +399,8 @@ The United States won't say a lot, but if you act improperly, the US will interv
 ---
 
 ## The Panama Canal
-*France failed repeatedly to create this canal*
 *The Largest Construction Project in history*
+*(France failed repeatedly to create this canal)*
 
 At first, Columbia rejects US Proposal to get land and build a canal
 So >>>
@@ -409,7 +414,7 @@ The area to build the Canal is sold to the US by the leader of Panama
 
 ### Construction of the canal:
 
-- Mosquito Eradication
+- Facilitated by Mosquito Eradication
 - Segregated labor
 - ==Completed in 1914==
-- Strategic and Economic point
+- **A Massive Strategic and Economic point**
