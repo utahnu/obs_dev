@@ -13,6 +13,13 @@
 
 ## The 14th Amendment (1868)
 
+- Extension of citizenship
+- Equal Protection under the Law
+- Liberal Guarantees
+- Representation Clause
+
+> All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the state wherein they reside. No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property without due process of law; nor deny to any person within its jurisdiction the equal protection of laws.
+
 ---
 
 ## The 15th Amendment (1870)
@@ -20,6 +27,9 @@
 	- Race
 	- Color
 	- Former Condition of Servitude
+
+> Section 1: The right of citizens of the United States to vote shall not be denied or abridged by the United states or by any State on account of race, color, or previous condition of servitude.
+> Section 2: The Congress shall have the power to enforce this article by appropriate legislation.
 
 Loopholes are accordingly found
 There is a wave of Black American elected officials

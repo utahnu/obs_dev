@@ -29,7 +29,7 @@ This was meant to shorten the Civil War.
 	- It is a punishment
 - give 50 acres and a mule to your slaves
 	- redistributes 400k acres
-		- The land is later returned
+		- The land is later returned by President Johnson
 
 ---
 

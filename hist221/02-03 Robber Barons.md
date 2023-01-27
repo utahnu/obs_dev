@@ -5,6 +5,13 @@ Captains of Industry, or robber barons without accountability in the free market
 
 ---
 
+## Staggering inequality
+### By 1890:
+- The Top 1% earns as much as the bottom 50%
+- The Top 1% own more property than the bottom 99%
+
+---
+
 ## Built on principles of Social Darwinism
 
 ### ==Survival of the fittest is applied to societal and political structure==
@@ -52,6 +59,7 @@ The Vanderbilts have a monopoly on shipping and logistics, and control such pric
 ---
 
 ## Andrew Carnegie (1835-1937)
+*Born a poor Scottish immigrant, starts as a low-level employee and invests in railroads and coal*
 
 ### Founds US Steel in 1901
 
@@ -65,19 +73,13 @@ The Vanderbilts have a monopoly on shipping and logistics, and control such pric
 
 ## John D. Rockefeller (1839-1937) - Standard Oil
 
-- Born into the middle class
-- Invests early in the oil industry
+*Born into the middle class, invests early in the oil industry*
+
+### Standard Oil was founded in 1870
+
 - Started with ==Horizontal Integration==, develops to vertical
-- Standard Oil was founded in 1870
 - Aggressively opposes unionization
 - Provides generous funding for education/healthcare
-
----
-
-## Staggering inequality
-### By 1890:
-- The Top 1% earns as much as the bottom 50%
-- The Top 1% own more property than the bottom 99%
 
 ---
 

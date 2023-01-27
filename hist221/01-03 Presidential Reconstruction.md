@@ -17,6 +17,12 @@ This plan is lenient for Southerners (Johnson was a southerner). It allowed Sout
 
 ## 13th Amendment Passed
 
+- Abolishes slavery except as a punishment for crime
+	- Southern States oppose the amendment
+
+> Section 1: Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+> Section 2: Congress shall have power to enforce this article by appropriate legislation.
+
 ## Black Codes (starting in 1865)
 
 "laws" for Black Americans

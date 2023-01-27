@@ -43,7 +43,7 @@ Creates a massive private welfare system
 - Railroad bosses and federal politicians own stock
 - Railroads are protected from oversight by shareholder politicians
 - Vice Presidenet implicated
-- 1872 NYC Expose publicizes this scandal
+- ==1872 NYC Expose publicizes this scandal==
 
 ### Whiskey Ring Scandal (1875)
 
@@ -88,7 +88,7 @@ A Journalist's work of shocking photography that depicts the harsh conditions of
 
 *Killed by a delusional patronage seeker, spurs legislation*
 
-Introduction of a ==Merit System== proven by examination-
+Results in the  **Introduction of a ==Merit System== proven by examination-**
 Now, not all positions are appointed by the President or other leaders only
 
 ---

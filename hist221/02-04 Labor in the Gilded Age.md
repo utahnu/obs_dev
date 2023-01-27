@@ -14,8 +14,9 @@ For the rest of the labor force, however;
 
 ---
 
-## Strikes
-Workers strike, Companies and the Government repress
+## Repression of Strikes
+
+*Workers strike, Companies and the Government repress*
 
 - Repression of Unions
 - Dispatch State Police
@@ -86,7 +87,7 @@ What is the government's role socially? Do they have a role past political prote
 Laurence Gronlund - *The Co-Operative Commonwealth: An Exposition of Modern Socialism* (1884)
 - Writes about socialism and the control of the government
 
-Emergence as the head of Socialism: Eugene V. Debs (1855-1926)
+**Emergence as the head of Socialism: Eugene V. Debs (1855-1926)**
 
 ### Social Gospel Movement (1870-1920)
 

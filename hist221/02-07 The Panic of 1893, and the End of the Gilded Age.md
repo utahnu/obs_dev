@@ -16,6 +16,8 @@ With the stock market panic, and a massive run on banks;
 
 President Grover Cleveland puts down the strike with military force
 
+30 people killed
+
 ---
 
 ## Election of 1896

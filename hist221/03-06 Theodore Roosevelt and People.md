@@ -10,19 +10,6 @@
 
 ---
 
-## W.E.B. Dubois (1868-1963)
-*A Rival to Booker T. Washington*
-
-- An Academic and Bureaucrat
-- First black man to get a PhD from Harvard
-- Black Rights Campaigner
-- National Association for the Advancement of Colored People (NAACP) in 1909
-
-> "We say easily, for instance, 'The ignorant ought not to vote.' We would say, 'No civilized state should have citizens too ignorant to participate in government,' and this statement is but a step to the fact: that no state is civilized which has citizens too ignorant to help rule it."
-> \- WEB Dubois
-
----
-
 ## John Dewey (1859-1952)
 *Philosopher*
 

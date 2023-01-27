@@ -1,8 +1,12 @@
-A system of laws that were designed to keep Black Americans in a condition as close to Slavery as possible.
+*A system of laws that were designed to keep Black Americans in a condition as close to Slavery as possible.*
 
-> "The convention's goal is to esetablish white supremacy in the State, within the limits imposed by the Federal Constitution."
+> "The convention's goal is to establish white supremacy in the State, within the limits imposed by the Federal Constitution."
 > 
 >  \- John B. Knox
+
+- Segregation of all public spaces
+- Interracial marriage outlawed
+	- Job restrictions for Black Americans
 
 ## Limits on voting
 

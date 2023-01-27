@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31306358b509c6f",
+        "id": "9fa71ae1f564b4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "678dcca488e0c006",
+            "id": "4857827e4074628a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/03 Classes.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "b411203b2ada9f96"
-          },
-          {
-            "id": "d2af8be9e620ab77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operator Overloading.md",
-                "mode": "source",
+                "file": "_daily_notes/2023-01-26.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5e245ec32b60c8b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5a6a06696b29419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs235/03 Classes.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "b411203b2ada9f96"
           }
         ]
       }
@@ -93,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 256.5110321044922
   },
   "right": {
     "id": "afbf28199f99273f",
@@ -138,7 +106,7 @@
       {
         "id": "a0ef7ccc1abb4a97",
         "type": "tabs",
-        "dimension": 53.962264150943405,
+        "dimension": 48.45094664371773,
         "children": [
           {
             "id": "d0c44b3b67624abd",
@@ -146,51 +114,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operator Overloading.md"
+                "file": "_daily_notes/2023-01-26.md"
               }
             }
           }
         ]
       },
       {
-        "id": "a32033451a652605",
+        "id": "75315e4fabb3954c",
         "type": "tabs",
-        "dimension": 46.037735849056595,
+        "dimension": 51.54905335628227,
         "children": [
           {
-            "id": "08557acb7aa3ddf7",
+            "id": "e9a0f9563cce03f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_daily_notes/2023-01-26.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29e994b1d9a87e76",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operator Overloading.md",
+                "file": "_daily_notes/2023-01-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "6ecfa9e4267d590e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Operator Overloading.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2af8be9e620ab77",
+  "active": "e2a5bbfd842853f7",
   "lastOpenFiles": [
-    "cs235/03 Classes.md",
-    "hist221/_Chronology_Timeline.md",
-    "Operator Overloading.md",
-    "hist221/_Chronology.md",
-    "hist221/_Key Terms for US History.md",
-    "hist221/02-Z The Gilded Age - Chapter Chronology.md",
-    "hist221/03-02 Social Structures in the Progressive Era.md",
-    "hist221/03-01 Progressivism.md",
+    "_daily_notes/2023-01-26.md",
+    "hist221/02-00 Timeline for The Gilded Age.md",
+    "hist221/01-00 Timline for Reconstruction & Jim Crow.md",
     "hist221/03 The Progressive Era.md",
-    "hist221/03-10 Conclusions of the Progressive Era.md"
+    "hist221/03-01 Progressivism.md",
+    "hist221/03-06 Theodore Roosevelt and People.md",
+    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
+    "hist221/02-06 Politics and Corruption in the Gilded Age.md",
+    "hist221/02-05 Development of the West.md",
+    "hist221/02-04 Labor in the Gilded Age.md"
   ]
 }

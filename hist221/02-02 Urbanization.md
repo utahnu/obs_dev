@@ -18,7 +18,7 @@
 ## Electricity and Telephones
 - Alexander Graham Bell (1847-1922)
 	- Telephone
-- Thomas Edison
+- Thomas Edison (1847-1931)
 	- Power Distribution
-- Nikola Tesla
+- Nikola Tesla (1856-1943)
 	- AC Electric Motor
