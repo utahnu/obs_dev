@@ -35,3 +35,8 @@ Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221
 - [[03-08 William Howard Taft's Presidency (1909-1913)|William Howard Taft's Presidency (1909-1913)]]
 - [[03-09 Woodrow Wilson's Presidency (1913-1921)|Woodrow Wilson's Presidency (1913-1921)]]
 - [[03-10 Conclusions of the Progressive Era|Conclusions of the Progressive Era]]
+
+# 1916-1920
+
+## [[World War I and its Effects]]
+- NIL

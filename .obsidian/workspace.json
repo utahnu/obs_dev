@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa71ae1f564b4a7",
+        "id": "830ab97c3ca883c5",
         "type": "tabs",
         "children": [
           {
-            "id": "4857827e4074628a",
+            "id": "f3438607890a51b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-01-26.md",
+                "file": "hist221/03 The Progressive Era.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4998aa1c5ab7c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc00f85b1c184c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hist221/03-00 People in The Progressive Era.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -114,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_notes/2023-01-26.md"
+                "file": "hist221/03-00 People in The Progressive Era.md"
               }
             }
           }
@@ -131,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_notes/2023-01-26.md",
+                "file": "hist221/03-00 People in The Progressive Era.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_notes/2023-01-26.md",
+                "file": "hist221/03-00 People in The Progressive Era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2a5bbfd842853f7",
+  "active": "cc00f85b1c184c23",
   "lastOpenFiles": [
-    "_daily_notes/2023-01-26.md",
-    "hist221/02-00 Timeline for The Gilded Age.md",
-    "hist221/01-00 Timline for Reconstruction & Jim Crow.md",
     "hist221/03 The Progressive Era.md",
-    "hist221/03-01 Progressivism.md",
+    "hist221/03-00 People in The Progressive Era.md",
     "hist221/03-06 Theodore Roosevelt and People.md",
-    "hist221/02-07 The Panic of 1893, and the End of the Gilded Age.md",
-    "hist221/02-06 Politics and Corruption in the Gilded Age.md",
-    "hist221/02-05 Development of the West.md",
-    "hist221/02-04 Labor in the Gilded Age.md"
+    "hist221/03-00 Timeline for The Progressive Era.md",
+    "hist221/03-01 Progressivism.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/01-00 Timline for Reconstruction & Jim Crow.md",
+    "hist221/02-00 Timeline for The Gilded Age.md",
+    "hist221/02-00 People in the Gilded Age.md",
+    "hist221/01 Reconstruction & Jim Crow.md"
   ]
 }

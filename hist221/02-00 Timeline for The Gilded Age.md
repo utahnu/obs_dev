@@ -1,5 +1,7 @@
 Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #hist221 
 
+---
+
 ```timeline
 + 1862
 + The Homestead Act
@@ -17,7 +19,7 @@ Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #hist221
 + Transcontinental Railroad
 	Knights of Labor founded
 + [[02-01 Industrialization#Transcontinental Railroad (1869)|Industrialization - Transcontinental Railroad]]
-[[02-04 Labor in the Gilded Age#Repression of Strikes - Labor in the Gilded Age - Repression of Strikes]]
+[[02-04 Labor in the Gilded Age#Repression of Strikes|Labor in the Gilded Age - Repression of Strikes]]
 
 + 1872
 + Credit Mobilier Scandal
@@ -60,7 +62,7 @@ Dawes Act
 + 1890
 + Sherman Antitrust Act
 Jacob Riis's *How the Other Half Lives*
-Massacre at Wounded Knee
+Massacre at Wounded Knee [Ghost Dancers]
 + [[02-05 Development of the West#The Wounded Knee Massacre (1890)|Development of the West - The Wounded Knee Massacre]]
 [[02-06 Politics and Corruption in the Gilded Age#Sherman Antitrust Act (1890)|Politics and Corruption in the Gilded Age - Sherman Antitrust Act]]
 [[02-06 Politics and Corruption in the Gilded Age#Muckraker Journalism|Politics and Corruption in the Gilded Age - Muckraker Journalism]]
@@ -82,3 +84,5 @@ Massacre at Wounded Knee
 	Utah gains statehood
 + [[02-07 The Panic of 1893, and the End of the Gilded Age#Election of 1896|The Panic of 1893, and the End of the Gilded Age - Election of 1896]]
 ```
+
+[[02-00 People in the Gilded Age]]

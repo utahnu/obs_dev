@@ -15,7 +15,7 @@
 
 This plan is lenient for Southerners (Johnson was a southerner). It allowed Southerners pardons and allow them to be in government leadership positions
 
-## 13th Amendment Passed
+## 13th Amendment Passed (1865)
 
 - Abolishes slavery except as a punishment for crime
 	- Southern States oppose the amendment

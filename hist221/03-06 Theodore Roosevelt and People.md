@@ -17,17 +17,6 @@
 - Democracy is a way of life
 - Democracy is strengthened by education
 
-
-## Booker T. Washington (1856-1915)
-
-- Was born a slave
-- Was an Education Activist
-- Opposed Segregation
-- Advisor and a Friend to Roosevelt
-- Invited to a 1901 White House Dinner
-	- Becomes a massive controversy
-	- the President takes a position opposed to white supremacy
-
 ---
 
 ## W.E.B. Dubois (1868-1963)
@@ -40,15 +29,6 @@
 
 > "We say easily, for instance, 'The ignorant ought not to vote.' We would say, 'No civilized state should have citizens too ignorant to participate in government,' and this statement is but a step to the fact: that no state is civilized which has citizens too ignorant to help rule it."
 > \- WEB Dubois
-
----
-
-## John Dewey (1859-1952)
-*Philosopher*
-
-### *Democracy and Education* (1916)
-- Democracy is a way of life
-- Democracy is strengthened by education
 
 ---
 

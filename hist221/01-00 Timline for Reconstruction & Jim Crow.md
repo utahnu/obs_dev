@@ -1,5 +1,7 @@
 Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #hist221 
 
+---
+
 ```timeline
 + 1861-1865
 + The Civil War
@@ -23,8 +25,10 @@ Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #hist221
 + [[01-03 Presidential Reconstruction|Presidential Reconstruction]]
 
 + 1865
-+ Klu Klux Klan established
-+ [[01-04 Radical Reconstruction|Radical Reconstruction]]
++ 13th Amendment Ratified
+	Klu Klux Klan established (see 1871)
++ [[01-03 Presidential Reconstruction#13th Amendment Passed (1865)|Presidential Reconstruction - 13th Amendment Passed]]
+ [[01-04 Radical Reconstruction#The Ku Klux Klan|Radical Reconstruction - The Ku Klux Klan]]
 
 + 1867
 + Reconstruction Act of 1867
@@ -62,7 +66,7 @@ Daily Note: [[2023-01-26]] -- [*created*:: 2023-01-26] #hist221
 + 
 
 + 1875
-+ The Civil Rights Act of 1875
++ The Civil Rights Act of 1875 (overturned in 1883)
 + [[01-04 Radical Reconstruction#The Civil Rights Act of 1875|Radical Reconstruction - The Civil Rights Act of 1875]]
 
 + 1877
