@@ -38,5 +38,5 @@ Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221
 
 # 1916-1920
 
-## [[World War I and its Effects]]
+## [[04 World War I and its Effects]]
 - NIL

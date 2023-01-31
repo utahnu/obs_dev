@@ -76,5 +76,6 @@ The file `color.css` is the CSS snippet that is currently active.
 - local images
 - note refactor
 - obsidian git
+- timeline
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I and its Effects.md",
+                "file": "cs235/07 Vectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I and its Effects.md",
+                "file": "cs235/07 Vectors.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I and its Effects.md"
+                "file": "cs235/07 Vectors.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I and its Effects.md",
+                "file": "cs235/07 Vectors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I and its Effects.md",
+                "file": "cs235/07 Vectors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "f3438607890a51b1",
   "lastOpenFiles": [
+    "cs235/03 Classes.md",
+    "cs235/04 Polymorphism.md",
+    "cs235/05 Templates.md",
+    "cs235/06 Data Structues.md",
+    "cs235/07 Vectors.md",
+    "README.md",
+    "hist221/04 World War I and its Effects.md",
     "hist221/_Chronology.md",
     "hist221/_Chronology Timeline.md",
-    "World War I and its Effects.md",
-    "cs180/05 Principles of Explaoratory Data Analysis (EDA).md",
-    "cs180/04 Intro to Pandas.md",
-    "cs180/02 Reading & Writing Data in Python.md",
-    "cs180/03 NumPy.md",
-    "_daily_notes/2023-01-31.md",
-    "hist221/03-00 Timeline for The Progressive Era.md",
-    "hist221/03-00 People in The Progressive Era.md"
+    "cs180/05 Principles of Explaoratory Data Analysis (EDA).md"
   ]
 }
