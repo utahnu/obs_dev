@@ -147,4 +147,15 @@ for id, block in groups:
 groups.mean() #DataFrame with means
 
 iris.groupby("class").mean()
+
+DataFrame[[]].groupby().mean()
+
+pd.pivot_table()
+```
+
+## Joining
+```python
+merged = pd.merge(left=iris, cost_data=right, on="class_col", how="inner")
+
+merged[costs["class"]=="Iris-versicolor"].head()
 ```
