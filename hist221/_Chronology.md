@@ -39,4 +39,11 @@ Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221
 # 1916-1920
 
 ## [[04 World War I and its Effects]]
-- NIL
+### [[04-00 Timeline for World War I]]
+- [[04-01 The Great War (Background)|The Great War (Background)]]
+- [[04-02 Causes of the War|Causes of the War]]
+- [[04-03 A Brief History|A Brief History]]
+- [[04-04 The Homefront - Political, Social, Labor|The Homefront - Political, Social, Labor]]
+- [[04-05 The Homefront - War Efforts|The Homefront - War Efforts]]
+- [[04-06 Fighting the War|Fighting the War]]
+- [[04-07 Finishing the War|Finishing the War]]
