@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Big O.md",
+                "file": "cs235/10 Big O.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Big O.md",
+                "file": "cs235/10 Big O.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Big O.md"
+                "file": "cs235/10 Big O.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Big O.md",
+                "file": "cs235/10 Big O.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Big O.md",
+                "file": "cs235/10 Big O.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e67e3bafd786257",
+  "active": "d97abfb5bbd0eb82",
   "lastOpenFiles": [
-    "_daily_notes/2023-02-09.md",
-    "10 Big O.md",
-    "05 The 1920s and the Great Depression.md",
-    "hist221 Readings.md",
-    "cs180/04 Intro to Pandas.md",
     "cs180/05 Principles of Explaoratory Data Analysis (EDA).md",
+    "cs235/10 Big O.md",
     "cs235/09 Linked Lists and Iterators.md",
     "cs235/01 Basic IO.md",
     "cs235/01 C++ Types.md",
-    "cs235/01 Functions.md"
+    "cs235/01 Functions.md",
+    "cs235/02 Pointers and Arrays.md",
+    "cs235/03 Classes.md",
+    "cs235/04 Polymorphism.md",
+    "cs235/05 Templates.md"
   ]
 }
