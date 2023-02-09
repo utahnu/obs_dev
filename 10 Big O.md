@@ -37,14 +37,14 @@ Which of the two above would be faster?
 
 ## Different growths:
 
-$$ \Theta(1) = \text{constant} $$
-$$ \Theta(n) = \text{linear} $$
-$$ \Theta(\log n) = \text{logarithmic} $$
-$$ \Theta(n\log n) = n\log n $$
-$$ \Theta(n^2) = \text{quadratic} $$
-$$ \Theta(n^3, n^6, ...) = \text{polynomial} $$
-$$ \Theta(2^n) = \text{exponential} $$
-$$ \Theta(n!) = \text{factorial} $$
+$$\Theta(1) = \text{constant}$$
+$$\Theta(n) = \text{linear}$$
+$$\Theta(\log n) = \text{logarithmic}$$
+$$\Theta(n\log n) = n\log n$$
+$$\Theta(n^2) = \text{quadratic}$$
+$$\Theta(n^3, n^6, ...) = \text{polynomial}$$
+$$\Theta(2^n) = \text{exponential}$$
+$$\Theta(n!) = \text{factorial}$$
 
 In order: 
 1. Logarithmic - $\Theta(\log n)$
@@ -57,11 +57,11 @@ In order:
 
 ### Definition of $\Theta$:
 
-#### $$ \Theta $$
+#### $$\Theta$$
 
-$$ T(n) \text{ is } \Theta(f(n)) \text{ if there exists two constants, } c \text{ and } n_{0} \text{ such that:} $$
+$$T(n) \text{ is } \Theta(f(n)) \text{ if there exists two constants, } c \text{ and } n_{0} \text{ such that:}$$
 
-#### $$ T(n) \leq c \cdot f(n) \text{ } \forall n \geq n_{0} $$
+#### $$T(n) \leq c \cdot f(n) \text{ } \forall n \geq n_{0}$$
 
 ---
 
