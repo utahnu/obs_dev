@@ -13,12 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/09 Linked Lists and Iterators.md",
+                "file": "_daily_notes/2023-02-09.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "c7a1e0cdc83aad4b"
+          }
+        ]
+      },
+      {
+        "id": "bac29d58c67cd6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97abfb5bbd0eb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_notes/2023-02-09.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "c7a1e0cdc83aad4b"
           }
         ]
       }
@@ -114,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/09 Linked Lists and Iterators.md"
+                "file": "_daily_notes/2023-02-09.md"
               }
             }
           }
@@ -131,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/09 Linked Lists and Iterators.md",
+                "file": "_daily_notes/2023-02-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/09 Linked Lists and Iterators.md",
+                "file": "_daily_notes/2023-02-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +196,15 @@
   },
   "active": "fac339cf274aff40",
   "lastOpenFiles": [
+    "05 The 1920s and the Great Depression.md",
+    "hist221 Readings.md",
+    "_daily_notes/2023-02-09.md",
+    "cs180/04 Intro to Pandas.md",
+    "cs180/05 Principles of Explaoratory Data Analysis (EDA).md",
+    "cs235/09 Linked Lists and Iterators.md",
     "cs235/01 Basic IO.md",
     "cs235/01 C++ Types.md",
     "cs235/01 Functions.md",
-    "cs235/02 Pointers and Arrays.md",
-    "cs235/03 Classes.md",
-    "cs235/04 Polymorphism.md",
-    "cs235/05 Templates.md",
-    "cs235/06 Data Structues.md",
-    "cs235/07 Vectors.md",
-    "cs235/08 Streams and Exceptions.md"
+    "cs235/02 Pointers and Arrays.md"
   ]
 }

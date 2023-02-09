@@ -295,3 +295,138 @@ Campaigning for
 Sets up a pro-US dictatorship:
 
 #### Somoza Dictatorship (1933-1978)
+
+---
+
+## The Scopes Trial (1925)
+
+*In Tennessee, draws massive public attention*
+
+*A teacher is arrested for violating a law that **prohibited teaching evolution** *
+Creationism is the only acceptable form
+
+Famous Lawyers are involved -
+- Clarence Darrow
+	- Defends Scopes
+- William Jennings Bryan
+	- Defends Creationism
+
+Darrow embarrasses Bryan (Bryan cannot defend creationism - anti-evolution falls apart)
+
+Ultimately, Scopes is found guilty
+
+<br>
+
+# Herbert Hoover's Presidency (1929-1933)
+
+## The 1928 Election
+
+*Hoover v. Smith*
+Herbert Hoover (Coolidge's Secretary of Commerce) easily wins
+(becomes the first republican to win Texas)
+
+---
+
+## Al Capone (1899-1947)
+
+*Head of the Chicago Outfit (1925-1932)*
+A Massive illegal network of alcohol importation
+
+- Runs brothels
+- Voter intimidation
+- Has a massive Miami estate
+- Has several judges and police officers on his payroll
+
+##### The Chicago Outfit has a gang war with the North Side Gang
+
+##### Capone gets a friend as Mayor of Chicago in 1927
+
+By 1929, the Chicago Outfit is making around 1 billion dollars a year in today's money
+
+##### Valentine's Day Massacre (1929)
+
+- Northside Gang leadership is tricked into a fake alcohol deal
+- 7 gang leaders murdered
+	- Gains National media attention
+
+##### March 1929 - Capone arrested for contempt of court
+
+- Lies about being sick to avoid grand jury
+- Pays bail
+
+##### May 1929 - Capone arrested for illegally carrying a deadly weapon
+
+- Released from prison after 9 months for good behavior
+- Runs his gang from prison
+
+##### Hoover directs the FBI to investigate Capone's finances
+
+##### 1930 - Prohibition agents (the Untouchables) start raiding Capone's organization
+
+##### 1931 - Arrested for tax evasion, charged 5,000 counts of violating prohibition
+
+- Guilty, 11 years in prison
+- Required to pay tax
+
+##### Spends 7 years in prison
+- Released early due to Syphilis
+- Lost mental capacity
+- Dies of a stroke in 1947
+
+---
+
+# The Great Depression (1929-1941)
+
+## The Stock Market Crash (October 1929)
+
+### Build-up:
+
+- Stock ownership becomes widespread
+- Margin loans are offered
+	- Loans for stocks, pay off the stock
+- Overheated, Overconfident shareholders
+- Interest rates increase
+- Current agricultural depression
+
+The stock market starts to lose value in the last week of October,
+Creates a panic and sell-off
+Market crashes
+
+Banks lose margin loans
+People lose savings
+
+---
+
+## The Dust Bowl (1930-1931)
+
+*Widespread dust storm across the American Midwest*
+Due to over-farming and environment changes
+
+- Midwest in drought
+- "Black Blizzards" hit East Coast
+- 150 million acres of farmland is destroyed
+- 2.5 million people displaced
+- Banks repossess useless land
+- Food & Water shortages
+
+---
+
+## Depression
+
+- 7,000 banks collapse
+- Unemployment rates rise to 25%
+- US (real) GDP contracts by 30%
+
+Hoover issues some loans to failing banks,
+Maintains that government intervention should be restrained
+(Hoover's and Republican's popularity plummets)
+
+- 2 million homeless people (2% of population)
+	- Hoovervilles, Hoover flags, Hoover blankets
+- US economic depression spreads globally
+	- (Resulting from US Global economic influence)
+
+<br>
+
+- [ ] HIST221 Exam (Feb 13-18, Late Fee Friday@4pm)
+
