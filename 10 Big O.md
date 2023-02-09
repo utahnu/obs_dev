@@ -1,4 +1,4 @@
-# $$ \Theta $$
+# Big $\Theta$
 
 ---
 
