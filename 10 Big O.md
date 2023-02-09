@@ -28,7 +28,7 @@ The "order" of an algorithm describes the dominating term in the algorithm's per
 
 $$T(n) = n^2 + n + 5$$
 
-This would be $$\Theta(n^2)$$  because it is dominated by the n^2 term.
+This would be $$\Theta(n^2)$$  because it is dominated by the $n^2$ term.
 
 $$T_{1} = 3n + 20$$
 $$T_{2} = n^2 + 10$$
