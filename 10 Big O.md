@@ -31,6 +31,7 @@ $$T(n) = n^2 + n + 5$$
 This would be $$\Theta(n^2)$$  because it is dominated by the $n^2$ term.
 
 $$T_{1} = 3n + 20$$
+
 $$T_{2} = n^2 + 10$$
 
 Which of the two above would be faster?
