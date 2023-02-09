@@ -18,7 +18,7 @@ How do you measure time/space?
 $$\text{Linear Time: } T(n) = 3n+5$$
 $$\text{Exponential Time: } 2^n + 5n^3 + 2n^2$$
 
-2^n is a big deal - the smaller ones don't matter as much 
+$2^n$ is a big deal - the smaller ones don't matter as much 
 
 ---
 
@@ -91,7 +91,7 @@ for (int i=0; i<n; i++) {
 //Nested loops and would multiply
 ```
 
-big $\Theta$ gets bigger as we have n\*n or nested loops or other factors
+big $\Theta$ gets bigger as we have $n \cdot n$ or nested loops or other factors
 
 ### ==this loop is constant==
 ```cpp
