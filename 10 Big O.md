@@ -37,21 +37,21 @@ Which of the two above would be faster?
 
 ## Different growths:
 
-$$ \Theta(1) = constant $$
-$$ \Theta(n) = linear $$
-$$ \Theta(\log n) = logarithmic $$
+$$ \Theta(1) = \text{constant} $$
+$$ \Theta(n) = \text{linear} $$
+$$ \Theta(\log n) = \text{logarithmic} $$
 $$ \Theta(n\log n) = n\log n $$
-$$ \Theta(n^2) = quadratic $$
-$$ \Theta(n^3, n^6, ...) = polynomial $$
-$$ \Theta(2^n) = exponential $$
-$$ \Theta(n!) = factorial $$
+$$ \Theta(n^2) = \text{quadratic} $$
+$$ \Theta(n^3, n^6, ...) = \text{polynomial} $$
+$$ \Theta(2^n) = \text{exponential} $$
+$$ \Theta(n!) = \text{factorial} $$
 
 In order: 
-1. Logarithmic - O(log n)
-2. Linear - O(n)
-3. Polynomial - O(n^c)
-4. Exponential - O(c^n)
-5. Factorial - O(n!)
+1. Logarithmic - $\Theta(\log n)$
+2. Linear - $\Theta(n)$
+3. Polynomial - $\Theta(n^c)$
+4. Exponential - $\Theta(c^n)$
+5. Factorial - $\Theta(n!$)
 
 *Exponential and factorial time is pretty bad*
 
@@ -74,7 +74,7 @@ int a = 42;
 ```
 
 ## Loops:
-- Determine bigO of loop body
+- Determine big $\Theta$ of loop body
 - Multiply by number of loops
 ```cpp
 for (int i=0; i<n; i++) {
@@ -84,7 +84,7 @@ for (int i=0; i<n; i++) {
 //Nested loops and would multiply
 ```
 
-bigO gets bigger as we have n\*n or nested loops or other factors
+big $\Theta$ gets bigger as we have n\*n or nested loops or other factors
 
 ### ==this loop is constant==
 ```cpp
@@ -102,8 +102,8 @@ if () {
 }
 ```
 
-If the probability of each is similar, bigO would take the more costly condition
-One could argue for bigO of the cheaper option if it is more likely
+If the probability of each is similar, big $\Theta$ would take the more costly condition
+One could argue for big $\Theta$ of the cheaper option if it is more likely
 
 ---
 
