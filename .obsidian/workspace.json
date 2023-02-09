@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9bed336bdac190",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fac339cf274aff40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Big O.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "c7a1e0cdc83aad4b"
-          }
-        ]
-      },
-      {
         "id": "bac29d58c67cd6d4",
         "type": "tabs",
         "children": [
@@ -38,8 +18,7 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "c7a1e0cdc83aad4b"
+            }
           }
         ]
       }
@@ -194,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fac339cf274aff40",
+  "active": "d97abfb5bbd0eb82",
   "lastOpenFiles": [
     "_daily_notes/2023-02-09.md",
     "10 Big O.md",

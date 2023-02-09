@@ -64,11 +64,11 @@ In order:
 
 ### Definition of $\Theta$:
 
-#### $$\Theta$$
+### $$\Theta$$
 
 $$T(n) \text{ is } \Theta(f(n)) \text{ if there exists two constants, } c \text{ and } n_{0} \text{ such that:}$$
 
-#### $$T(n) \leq c \cdot f(n) \text{ } \forall n \geq n_{0}$$
+### $$T(n) \leq c \cdot f(n) \text{ } \forall n \geq n_{0}$$
 
 ---
 
