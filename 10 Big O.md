@@ -15,8 +15,8 @@ How do you measure time/space?
 	- eg. look at code
 
 
-$$ \text{Linear Time: } T(n) = 3n+5 $$
-$$ \text{Exponential Time: } 2^n + 5n^3 + 2n^2 $$
+$$\text{Linear Time: } T(n) = 3n+5$$
+$$\text{Exponential Time: } 2^n + 5n^3 + 2n^2$$
 
 2^n is a big deal - the smaller ones don't matter as much 
 
@@ -26,25 +26,32 @@ $$ \text{Exponential Time: } 2^n + 5n^3 + 2n^2 $$
 
 The "order" of an algorithm describes the dominating term in the algorithm's performance (in CS)
 
-$$ T(n) = n^2 + n + 5 $$
+$$T(n) = n^2 + n + 5$$
 
 This would be $$ \Theta(n^2) $$ because it is dominated by the n^2 term.
 
-$$ T_{1} = 3n + 20 $$
-$$ T_{2} = n^2 + 10$$
+$$T_{1} = 3n + 20$$
+$$T_{2} = n^2 + 10$$
 
 Which of the two above would be faster?
 
 ## Different growths:
 
-- $$\Theta(1) = \text{constant}$$
-- $$\Theta(n) = \text{linear}$$
-- $$\Theta(\log n) = \text{logarithmic}$$
-- $$\Theta(n\log n) = n\log n$$
-- $$\Theta(n^2) = \text{quadratic}$$
-- $$\Theta(n^3, n^6, ...) = \text{polynomial}$$
-- $$\Theta(2^n) = \text{exponential}$$
-- $$\Theta(n!) = \text{factorial}$$
+$$\Theta(1) = \text{constant}$$
+
+$$\Theta(n) = \text{linear}$$
+
+$$\Theta(\log n) = \text{logarithmic}$$
+
+$$\Theta(n\log n) = n\log n$$
+
+$$\Theta(n^2) = \text{quadratic}$$
+
+$$\Theta(n^3, n^6, ...) = \text{polynomial}$$
+
+$$\Theta(2^n) = \text{exponential}$$
+
+$$\Theta(n!) = \text{factorial}$$
 
 In order: 
 1. Logarithmic - $\Theta(\log n)$
