@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c1493eaf560f3195",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26bc81a030027a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Intro to Probability.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "a2426b166ba96676"
-          }
-        ]
-      },
-      {
         "id": "29404b307fd2df87",
         "type": "tabs",
         "children": [
@@ -33,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Intro to Probability.md",
+                "file": "hist221/05 The 1920s and the Great Depression.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "a2426b166ba96676"
+            }
           }
         ]
       }
@@ -135,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Intro to Probability.md"
+                "file": "hist221/05 The 1920s and the Great Depression.md"
               }
             }
           }
@@ -152,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 Intro to Probability.md",
+                "file": "hist221/05 The 1920s and the Great Depression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Intro to Probability.md",
+                "file": "hist221/05 The 1920s and the Great Depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26bc81a030027a2c",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "_daily_notes/2023-02-14.md",
-    "06 Intro to Probability.md",
-    "cs180/02 Reading & Writing Data in Python.md",
-    "cs180/02 File Systems & Python OS Library.md",
-    "cs235/09 Linked Lists and Iterators.md",
-    "cs180/04 Intro to Pandas.md",
-    "cs180/03 NumPy.md",
+    "Women in the 1920s.md",
+    "05-02 Women in the 1920a.md",
+    "hist221/05 The 1920s and the Great Depression.md",
+    "cs235/11 STL Containers (Queues, Stacks).md",
     "cs235/10 Big O.md",
-    "cs180/05 Principles of Explaoratory Data Analysis (EDA).md",
-    "cs235/01 Basic IO.md"
+    "cs235/04 Polymorphism.md",
+    "_daily_notes/2023-02-15.md",
+    "cs180/06 Intro to Probability.md",
+    "_daily_notes/2023-02-14.md",
+    "cs180/02 Reading & Writing Data in Python.md"
   ]
 }
