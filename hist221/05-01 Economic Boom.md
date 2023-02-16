@@ -1,5 +1,5 @@
 *Major economic growth takes place*
-*Government shifts away from progressivism - gov is an ally of big businesses*
+*==Government shifts away from progressivism== - gov is an ally of big businesses*
 
 - Inequality increases
 	- But poverty does not, the working class salaries rise as well

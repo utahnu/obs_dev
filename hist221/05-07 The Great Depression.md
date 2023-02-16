@@ -46,3 +46,29 @@ Maintains that government intervention should be restrained
 	- Hoovervilles, Hoover flags, Hoover blankets
 - US economic depression spreads globally
 	- (Resulting from US Global economic influence)
+
+---
+
+## Hoover's Response
+
+Hoover remained hands-off with the economy:
+retaining the ideal that government shouldn't intervene with economy
+
+### Smoot-Hawley Tariff (1930)
+
+With some reluctance, Hoover signed this tariff:
+
+- Raising already high taxes on imported goods
+- Reducing international trade entirely
+- Worsened the Economic scene
+
+### Reconstruction Finance Corporation
+
+Hoover signed laws that:
+- Loaned money to failing:
+	- Banks
+	- Railroads
+	- Other businesses
+
+And other systems for homeowners with foreclousre
+

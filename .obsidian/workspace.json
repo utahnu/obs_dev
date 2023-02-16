@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29404b307fd2df87",
+        "id": "710c7859e208911b",
         "type": "tabs",
         "children": [
           {
-            "id": "c31ba37bf994dea7",
+            "id": "1133eceff3148b9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -61,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tulsa ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a907b9189592d3d",
+  "active": "1133eceff3148b9a",
   "lastOpenFiles": [
-    "Women in the 1920s.md",
-    "05-02 Women in the 1920a.md",
+    "hist221/_Chronology Timeline.md",
+    "hist221/_Chronology.md",
     "hist221/05 The 1920s and the Great Depression.md",
-    "cs235/11 STL Containers (Queues, Stacks).md",
-    "cs235/10 Big O.md",
-    "cs235/04 Polymorphism.md",
-    "_daily_notes/2023-02-15.md",
-    "cs180/06 Intro to Probability.md",
-    "_daily_notes/2023-02-14.md",
-    "cs180/02 Reading & Writing Data in Python.md"
+    "hist221/_Key Terms for US History.md",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/04-00 Timeline for World War I.md",
+    "hist221/05-07 The Great Depression.md",
+    "hist221/05-06 Herbert Hoover's Presidency.md",
+    "hist221/05-05 Calvin Coolidge's Presidency.md",
+    "hist221/05-04 Warren G. Harding's Presidency.md"
   ]
 }

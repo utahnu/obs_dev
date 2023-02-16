@@ -48,5 +48,12 @@ Daily Note: [[2023-01-12]] -- [*created*:: 2023-01-12] #hist221
 - [[04-06 Fighting the War|Fighting the War]]
 - [[04-07 Finishing the War|Finishing the War]]
 
-
++ 1920-1941
++ [[05 The 1920s and the Great Depression|The 1920s and The Great Depression]]
++ - [[05-01 Economic Boom|Economic Boom]]
+- [[05-02 Women in the 1920s|Women in the 1920s]]
+- [[05-03 Race in the 1920s|Race in the 1920s]]
+- [[05-04 Warren G. Harding's Presidency|Warren G. Harding's Presidency]]
+- [[05-06 Herbert Hoover's Presidency|Herbert Hoover's Presidency]]
+- [[05-07 The Great Depression|The Great Depression]]
 ```

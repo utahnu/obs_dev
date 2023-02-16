@@ -2,7 +2,7 @@
 
 ## Wartime agencies regulate every aspect of the Economy
 
-### The War  Industries Board/Bond
+### The War  Industries Board
 
 #### The government controls:
 - Agriculture
