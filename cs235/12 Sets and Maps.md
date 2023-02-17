@@ -1,4 +1,4 @@
-Daily Note: [[2023-02-16]] -- [*created*:: 2023-02-16] #cs235 
+pDaily Note: [[2023-02-16]] -- [*created*:: 2023-02-16] #cs235 
 
 ## A set is a *set* of values with no duplicates
 
