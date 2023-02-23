@@ -4,21 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "7e57040ed97ed547",
+        "id": "7330265e66f86df1",
         "type": "tabs",
         "children": [
           {
-            "id": "98669f4682f7b82f",
+            "id": "d5b375def43c48e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
+                "file": "hist221/06 The New Deal and the 1930s.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "afd4b857f547f81e"
+          }
+        ]
+      },
+      {
+        "id": "762b3c84db08ddec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233651509a6b92bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hist221/06 The New Deal and the 1930s.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "afd4b857f547f81e"
           }
         ]
       }
@@ -92,6 +113,35 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "29e994b1d9a87e76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hist221/06 The New Deal and the 1930s.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9a0f9563cce03f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hist221/06 The New Deal and the 1930s.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -106,7 +156,6 @@
       {
         "id": "a0ef7ccc1abb4a97",
         "type": "tabs",
-        "dimension": 48.45094664371773,
         "children": [
           {
             "id": "d0c44b3b67624abd",
@@ -114,52 +163,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md"
+                "file": "hist221/06 The New Deal and the 1930s.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "75315e4fabb3954c",
-        "type": "tabs",
-        "dimension": 51.54905335628227,
-        "children": [
-          {
-            "id": "e9a0f9563cce03f5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "29e994b1d9a87e76",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "hist221/05 The 1920s and the Great Depression.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,17 +185,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98669f4682f7b82f",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
+    "hist221/05 The 1920s and the Great Depression.md",
+    "hist221/06 The New Deal and the 1930s.md",
+    "hist221/05-07 The Great Depression.md",
+    "hist221/05-06 Herbert Hoover's Presidency.md",
+    "hist221/05-05 Calvin Coolidge's Presidency.md",
+    "hist221/05-04 Warren G. Harding's Presidency.md",
+    "hist221/05-03 Race in the 1920s.md",
+    "hist221/05-02 Women in the 1920s.md",
+    "hist221/05-01 Economic Boom.md",
     "hist221/04 World War I and its Effects.md",
-    "hist221/03 The Progressive Era.md",
-    "hist221/03-01 Progressivism.md",
-    "hist221/03-00 Timeline for The Progressive Era.md",
-    "hist221/02-00 People in the Gilded Age.md",
-    "hist221/02 The Gilded Age.md",
-    "hist221/01-05 Jim Crow Laws.md",
-    "hist221/01-04 Radical Reconstruction.md",
-    "hist221/01-03 Presidential Reconstruction.md",
-    "hist221/01-02 Wartime Reconstruction.md"
+    "hist221/04-00 Timeline for World War I.md",
+    "hist221/04-07 Finishing the War.md",
+    "hist221/04-06 Fighting the War.md",
+    "hist221/04-05 The Homefront - War Efforts.md",
+    "hist221/04-04 The Homefront - Political, Social, Labor.md",
+    "hist221/04-03 A Brief History.md",
+    "hist221/04-02 Causes of the War.md",
+    "hist221/04-01 The Great War (Background).md",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/_Readings.md",
+    "_daily_notes/2023-02-23.md",
+    "cs180/07 Monte Carlo Approximations.md",
+    "cs235/10 Big O.md",
+    "cs180/06 Intro to Probability.md",
+    "cs180/04 Intro to Pandas.md",
+    "hist221/03 The Progressive Era.md"
   ]
 }
