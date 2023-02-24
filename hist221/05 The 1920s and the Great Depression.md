@@ -553,5 +553,5 @@ And other systems for homeowners with foreclousre
 
 <br>
 
-- [ ] HIST221 Exam (Feb 13-18, Late Fee Friday@4pm)
+- [x] HIST221 Exam (Feb 13-18, Late Fee Friday@4pm) ✅ 2023-02-23
 

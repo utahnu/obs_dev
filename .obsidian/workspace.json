@@ -13,33 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "cs180/07 Monte Carlo Approximations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "afd4b857f547f81e"
+            "group": "05751a8fd4ca7246"
           }
         ]
       },
       {
-        "id": "762b3c84db08ddec",
+        "id": "b32bb7712275a786",
         "type": "tabs",
         "children": [
           {
-            "id": "233651509a6b92bb",
+            "id": "0e51119b86dbabae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "cs180/07 Monte Carlo Approximations.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "afd4b857f547f81e"
+            "group": "05751a8fd4ca7246"
           }
         ]
       }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "cs180/07 Monte Carlo Approximations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "cs180/07 Monte Carlo Approximations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md"
+                "file": "cs180/07 Monte Carlo Approximations.md"
               }
             }
           }
@@ -185,33 +185,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a907b9189592d3d",
+  "active": "d5b375def43c48e2",
   "lastOpenFiles": [
-    "hist221/05 The 1920s and the Great Depression.md",
-    "hist221/06 The New Deal and the 1930s.md",
-    "hist221/05-07 The Great Depression.md",
-    "hist221/05-06 Herbert Hoover's Presidency.md",
-    "hist221/05-05 Calvin Coolidge's Presidency.md",
-    "hist221/05-04 Warren G. Harding's Presidency.md",
-    "hist221/05-03 Race in the 1920s.md",
-    "hist221/05-02 Women in the 1920s.md",
-    "hist221/05-01 Economic Boom.md",
-    "hist221/04 World War I and its Effects.md",
-    "hist221/04-00 Timeline for World War I.md",
-    "hist221/04-07 Finishing the War.md",
-    "hist221/04-06 Fighting the War.md",
-    "hist221/04-05 The Homefront - War Efforts.md",
-    "hist221/04-04 The Homefront - Political, Social, Labor.md",
-    "hist221/04-03 A Brief History.md",
-    "hist221/04-02 Causes of the War.md",
-    "hist221/04-01 The Great War (Background).md",
-    "hist221/01 Reconstruction & Jim Crow.md",
-    "hist221/_Readings.md",
-    "_daily_notes/2023-02-23.md",
-    "cs180/07 Monte Carlo Approximations.md",
     "cs235/10 Big O.md",
-    "cs180/06 Intro to Probability.md",
-    "cs180/04 Intro to Pandas.md",
-    "hist221/03 The Progressive Era.md"
+    "cs235/13 Recursion.md",
+    "cs180/07 Monte Carlo Approximations.md",
+    "14 Binary Search.md",
+    "_drawings/drawing_2023-02-23.md",
+    "_drawings/drawing_2023-02-07_0.md",
+    "_drawings/drawing_2023-02-07.md",
+    "_drawings/drawing_2023-01-19.md",
+    "_drawings/drawing_2023-01-17.md",
+    "_drawings/drawing_2023-01-07.md",
+    "_general/New Semester Tasks.md",
+    "hist221/XX-XX/02-0X/02-01 Industrialization.md",
+    "hist221/XX-XX/01-0X/01-05 Jim Crow Laws.md",
+    "hist221/XX-XX",
+    "hist221/XX-XX/01-0X/01-01 The Civil War.md",
+    "hist221/XX-XX/01-0X",
+    "hist221/01 Reconstruction & Jim Crow.md",
+    "hist221/XX-XX/01-0X/01-04 Radical Reconstruction.md",
+    "hist221/XX-XX/01-0X/01-03 Presidential Reconstruction.md",
+    "hist221/XX-XX/01-0X/01-02 Wartime Reconstruction.md",
+    "hist221/XX-XX/02-0X/02-07 The Panic of 1893, and the End of the Gilded Age.md",
+    "hist221/02-00 People in the Gilded Age.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/XX-XX/02-0X",
+    "hist221/XX-XX/02-0X/02-06 Politics and Corruption in the Gilded Age.md",
+    "hist221/XX-XX/02-0X/02-05 Development of the West.md",
+    "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
+    "hist221/XX-XX/02-0X/02-03 Robber Barons.md",
+    "hist221/XX-XX/02-0X/02-02 Urbanization.md",
+    "hist221/XX-XX/03-0X",
+    "hist221/XX-XX/04-0X",
+    "hist221/XX-XX/05-0X"
   ]
 }
