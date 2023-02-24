@@ -26,7 +26,7 @@ $$\mathbb{E}_x[\alpha f(x) + \beta g(x)] = \alpha \mathbb{E}_x[f(x)] + \beta \ma
 
 $$\mathrm{where \ \alpha \ and \ \beta \ are \ not \ dependent \ on \ x}$$
 
-Example: $\mathbb{E}_{p(x)} [2f(x)] = 2\mathbb{E}_{p(x)}[f(x)]$
+Example: $\mathbb{E}_{p(x)}[2f(x)]=2\mathbb{E}_{p(x)}[f(x)]$
 Goes into this table:
 
 | x          | 0   | 1   | 2   | 3   |
