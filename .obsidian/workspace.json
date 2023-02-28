@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs180/07 Monte Carlo Approximations.md",
+                "file": "hist221/06 The New Deal and the 1930s.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs180/07 Monte Carlo Approximations.md",
+                "file": "hist221/06 The New Deal and the 1930s.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tulsa ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs180/07 Monte Carlo Approximations.md",
+                "file": "hist221/06 The New Deal and the 1930s.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs180/07 Monte Carlo Approximations.md",
+                "file": "hist221/06 The New Deal and the 1930s.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs180/07 Monte Carlo Approximations.md"
+                "file": "hist221/06 The New Deal and the 1930s.md"
               }
             }
           }
@@ -185,11 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b375def43c48e2",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "cs235/10 Big O.md",
-    "cs235/13 Recursion.md",
+    "hist221/05 The 1920s and the Great Depression.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/06 The New Deal and the 1930s.md",
     "cs180/07 Monte Carlo Approximations.md",
+    "cs235/13 Recursion.md",
+    "cs235/10 Big O.md",
     "14 Binary Search.md",
     "_drawings/drawing_2023-02-23.md",
     "_drawings/drawing_2023-02-07_0.md",
@@ -209,13 +212,10 @@
     "hist221/XX-XX/01-0X/01-02 Wartime Reconstruction.md",
     "hist221/XX-XX/02-0X/02-07 The Panic of 1893, and the End of the Gilded Age.md",
     "hist221/02-00 People in the Gilded Age.md",
-    "hist221/02 The Gilded Age.md",
     "hist221/XX-XX/02-0X",
     "hist221/XX-XX/02-0X/02-06 Politics and Corruption in the Gilded Age.md",
     "hist221/XX-XX/02-0X/02-05 Development of the West.md",
     "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
-    "hist221/XX-XX/02-0X/02-03 Robber Barons.md",
-    "hist221/XX-XX/02-0X/02-02 Urbanization.md",
     "hist221/XX-XX/03-0X",
     "hist221/XX-XX/04-0X",
     "hist221/XX-XX/05-0X"

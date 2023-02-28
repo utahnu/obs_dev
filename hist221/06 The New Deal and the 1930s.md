@@ -131,7 +131,7 @@ Opposes Keynes
 
 ---
 
-## The First 100 Days
+## ==The First 100 Days==
 
 *A flurry of executive government action*
 Day one of promises
@@ -156,9 +156,7 @@ Creates a ==Federal Deposit Insurance Corporation==
 	- With great success
 - Talks about a socially and economically active government as necessary for true liberty
 
----
-
-## The 21st Amendment (1933)
+### The 21st Amendment (1933)
 
 ==Repeals the 18th Amendment and Prohibition==
 
@@ -166,9 +164,7 @@ Creates a ==Federal Deposit Insurance Corporation==
 - Ends bootlegging
 - Frees up government resources fighting prohibition
 
----
-
-## Tennessee Valley Authority Act (1933)
+### Tennessee Valley Authority Act (1933)
 
 - Created the TVA as a public corporation
 	- Building and maintenance of a series of dams along the Tennessee River
@@ -176,9 +172,7 @@ Creates a ==Federal Deposit Insurance Corporation==
 
 Creates a major new source of electric power in the underdeveloped South
 
----
-
-## Agricultural Adjustment Act (1933)
+### Agricultural Adjustment Act (1933)
 
 - Government buys and slaughters excess cattle
 - Government pays farmers to not farm parts of their fields (subsidies)
@@ -186,13 +180,173 @@ Creates a major new source of electric power in the underdeveloped South
 - Tax on corporations that process farm products
 	- To balance out government spending/losses
 
----
-
-## National Industrial Recovery Act (1933)
+### National Industrial Recovery Act (1933)
 
 - Industry-wide standards for wages, prices, production
 - Rights to unionize
 	- Workers cannot be fired for joining/not joining a union
 
 Declared unconstitutional in 1935 and repealed,
-many of these provisions are reimposed in other pieces of legislation
+many of these provisions are reimposed in other pieces of legislation 
+
+### Homeowners Refinancing Act (1933)
+
+- Creates the **Homeowners Loan Corporation**
+- Provides low-interest loans to families 
+	- Helps those who are in danger of losing their homes
+- about 20% of homes in the country have one of these loans
+
+==The end of the first 100 days==
+
+- [ ] Review slides for missing information in this header
+
+---
+
+## ==Second New Deal (1935)==
+
+*The first 100-days measures fail to recreate economic growth*
+
+### Works Progress Administration
+
+*Ubiquitous works*
+
+- [ ] Update missing info from WPA
+
+#### Hoover Dam (1935)
+
+#### LaGuardia Airport (1939)
+
+### National Labor Relations Act (1935)
+
+- Establishes a right to private unions
+- Prohibits company unions
+- Bans:
+	- unfair labor practices
+	- company interference in unionization
+
+### Social Security Act (1935)
+
+*Form a safety-net to help prevent such economic downturn*
+
+- Government guaranteed pensions
+- Insurance for:
+	- Unemployment
+	- Disability
+- Dependent children benefits (poverty)
+- Privately funded social safety net
+
+**Intense debate:**
+Southern congresspeople secure the exclusion of most agricultural workers and domestic workers from Social Security (lots of Black Americans)
+
+---
+
+## The Election of 1936
+
+- Republicans accuse Roosevelt of authoritarianism
+	- Complain of centralized power, away from judiciary and legislative
+- Democrats & Roosevelt campaign based on the New Deal
+
+**Roosevelt performs even better than previous election in 1932**
+
+---
+
+## *Supreme Court strikes down lots of new deal legislation, and key provisions/agencies* -->
+
+## Roosevelt's Court-packing plan (1937)
+
+- Go from 9 to 15 justices
+- Outweigh Conservative justices
+	- Protecting New Deal policies
+
+*Congress rejects the Judicial Procedures Reform Bill of 1937*
+
+Justices narrowly start to support New Deal legislation (intimidated)
+(including the Social Security Act)
+
+---
+
+## The Election of 1940
+
+- Republicans condemn Roosevelt as an authoritarian
+- Republicans favor isolationism, oppose foreign wars (WWII)
+- Roosevelt believes that political moment is too precarious
+	- Runs for a third term, campaigning on New Deal
+- Wins a third term
+	- Political bases and profies are shifting
+
+> "I have said this before, but I shall say it again and again and again; your boys are not going to be sent into any foreign wars."
+> 
+> \- Franklin Delano Roosevelt
+
+---
+
+## Socioeconomic Changes
+
+*The United States shifts from a production economy to a services-based economy*
+
+### Women and Black Americans are included in the FDR administration on an unprecedented level
+
+- Secretary of Labor: Frances Perkins (1880-1965)
+- Special Advisor on Minority Affairs: Mary McLeod Bethune (1875-1955)
+	- First woman in a presidential cabinet
+
+Women and Black Americans are driven from the labor market,
+by discrimination and stigmas
+
+### Labor organization expands dramatically
+
+#### Congress of Industrial Organizations
+
+- Founded in 1935
+- Creates and unites unions for unskilled industrial workers
+- Allows Black Americans to join
+- Organizes strikes
+- Encourages support of the New Deal
+
+*The number of strikes increases significantly in the 1930s*
+
+### Communist Part of the United States of America
+
+*Founded in 1919*
+- Grows to 100,000 members in the 1930s, overtakes socialist party
+- Pushes for New Deal to go further
+- Pushes for civil rights
+- Idolizes Soviet Union, Joseph Stalin
+
+### Expanded consumer culture develops
+
+- Pop culture
+	- Widespread by radio
+- United Airlines, American Airlines, TWA
+- Big-name, national, mass-produced brands
+	- Twinkies, Snickers, Span, Wonder Bread, Walgreens
+
+<br>
+
+---
+---
+
+<br>
+
+# Outcomes of the New Deal
+
+## Socialism is undercut by American Liberalism
+
+*The social-fabric of the United States stays the same*
+
+- Economic interventions are relatively conservative
+- No social revolution
+- No transfer (or control of) the means of production
+- Many corporations support the New Deal
+	- Levels the playing-field, competition++
+
+## Power of the Federal Government dramatically expands
+
+*Particularly Executive Power*
+
+### Size of the federal bureaucracy dramatically increases
+### Government intervention in the economy is re-legitimized
+
+*Government intervention returns from the Progressive Era*
+
+## ==*Depression Continues*==
