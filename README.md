@@ -1,7 +1,7 @@
 # obs_dev
 
 
-## *This repository is the entirety of my notes vault for the Winter 2023 semester.*
+## *This repository contains my notes [Obisdian vault] for the Winter 2023 semester.*
 
 # Contents of obs_dev
 
@@ -55,6 +55,10 @@ I also have the option of editing my notes on the web with a codespace (rocky). 
 The only alteration I have made to the theme of Obsidian is the colors. The colors come from the theme *primary*. The section of code that defines each color variable has been copied, altered somewhat to account for missing the rest of the code, and enabled. 
 Only the colors of the theme have been transferred into the CSS snippet., No other element is changed from the default Obsidian theme.
 The file `color.css` is the CSS snippet that is currently active.
+
+## Obsidian-specific Syntax
+
+Some .md syntax that is specific to Obsidan will not display in GitHub or some other markdown software. Particularly `dataview` queries, `timeline` from the Obsidian Timeline plugin, highlighting syntax using two equal signs (\==text\==), and the double-bracket link format (\[[text\]]) $\LaTeX$ also sometimes has issues. In most cases, the notes are still legible with these differences, though difficult.
 
 ## Plugins
 

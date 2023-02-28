@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/06 The New Deal and the 1930s.md"
+                "file": "README.md"
               }
             }
           }
@@ -185,11 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a907b9189592d3d",
+  "active": "d5b375def43c48e2",
   "lastOpenFiles": [
-    "hist221/05 The 1920s and the Great Depression.md",
-    "hist221/02 The Gilded Age.md",
     "hist221/06 The New Deal and the 1930s.md",
+    "hist221/05 The 1920s and the Great Depression.md",
+    "_daily_notes/2023-02-28.md",
+    "hist221/02 The Gilded Age.md",
     "cs180/07 Monte Carlo Approximations.md",
     "cs235/13 Recursion.md",
     "cs235/10 Big O.md",
@@ -215,7 +216,6 @@
     "hist221/XX-XX/02-0X",
     "hist221/XX-XX/02-0X/02-06 Politics and Corruption in the Gilded Age.md",
     "hist221/XX-XX/02-0X/02-05 Development of the West.md",
-    "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
     "hist221/XX-XX/03-0X",
     "hist221/XX-XX/04-0X",
     "hist221/XX-XX/05-0X"
