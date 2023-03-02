@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "cs235/15 Merge Sort and Quick sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "cs235/15 Merge Sort and Quick sort.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "cs235/15 Merge Sort and Quick sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "cs235/15 Merge Sort and Quick sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md"
+                "file": "cs235/15 Merge Sort and Quick sort.md"
               }
             }
           }
@@ -185,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b375def43c48e2",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "_daily_notes/2023-03-02.md",
     "hist221/07 World War II and the Emergence of American Dominance.md",
+    "cs235/15 Merge Sort and Quick sort.md",
+    "_daily_notes/2023-03-02.md",
     "cs180/08 Least Squares and Gradient Descent.md",
     "_drawings/drawing_2023-03-02.md",
     "_drawings/drawing_2023-01-07.md",
@@ -214,7 +215,6 @@
     "hist221/XX-XX/01-0X/01-01 The Civil War.md",
     "hist221/XX-XX/01-0X",
     "hist221/01 Reconstruction & Jim Crow.md",
-    "hist221/XX-XX/01-0X/01-04 Radical Reconstruction.md",
     "hist221/XX-XX/02-0X",
     "hist221/XX-XX/03-0X",
     "hist221/XX-XX/04-0X",
