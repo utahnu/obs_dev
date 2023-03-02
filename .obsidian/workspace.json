@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md"
               }
             }
           }
@@ -187,7 +187,14 @@
   },
   "active": "d5b375def43c48e2",
   "lastOpenFiles": [
+    "_daily_notes/2023-03-02.md",
+    "hist221/07 World War II and the Emergence of American Dominance.md",
+    "cs180/08 Least Squares and Gradient Descent.md",
+    "_drawings/drawing_2023-03-02.md",
+    "_drawings/drawing_2023-01-07.md",
+    "cs235/14 Sorting.md",
     "hist221/06 The New Deal and the 1930s.md",
+    "README.md",
     "hist221/05 The 1920s and the Great Depression.md",
     "_daily_notes/2023-02-28.md",
     "hist221/02 The Gilded Age.md",
@@ -200,7 +207,6 @@
     "_drawings/drawing_2023-02-07.md",
     "_drawings/drawing_2023-01-19.md",
     "_drawings/drawing_2023-01-17.md",
-    "_drawings/drawing_2023-01-07.md",
     "_general/New Semester Tasks.md",
     "hist221/XX-XX/02-0X/02-01 Industrialization.md",
     "hist221/XX-XX/01-0X/01-05 Jim Crow Laws.md",
@@ -209,13 +215,7 @@
     "hist221/XX-XX/01-0X",
     "hist221/01 Reconstruction & Jim Crow.md",
     "hist221/XX-XX/01-0X/01-04 Radical Reconstruction.md",
-    "hist221/XX-XX/01-0X/01-03 Presidential Reconstruction.md",
-    "hist221/XX-XX/01-0X/01-02 Wartime Reconstruction.md",
-    "hist221/XX-XX/02-0X/02-07 The Panic of 1893, and the End of the Gilded Age.md",
-    "hist221/02-00 People in the Gilded Age.md",
     "hist221/XX-XX/02-0X",
-    "hist221/XX-XX/02-0X/02-06 Politics and Corruption in the Gilded Age.md",
-    "hist221/XX-XX/02-0X/02-05 Development of the West.md",
     "hist221/XX-XX/03-0X",
     "hist221/XX-XX/04-0X",
     "hist221/XX-XX/05-0X"
