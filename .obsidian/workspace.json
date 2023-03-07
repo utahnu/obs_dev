@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "7330265e66f86df1",
+        "id": "c0a3b5dde3849338",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b375def43c48e2",
+            "id": "de2c3a430fa9d809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/15 Merge Sort and Quick sort.md",
+                "file": "09 Intro to Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "05751a8fd4ca7246"
+            "group": "fab7bad061a517d4"
           }
         ]
       },
       {
-        "id": "b32bb7712275a786",
+        "id": "e93576f3c18582cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e51119b86dbabae",
+            "id": "c90437942fdacbd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs235/15 Merge Sort and Quick sort.md",
+                "file": "09 Intro to Machine Learning.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "05751a8fd4ca7246"
+            "group": "fab7bad061a517d4"
           }
         ]
       }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs235/15 Merge Sort and Quick sort.md",
+                "file": "09 Intro to Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs235/15 Merge Sort and Quick sort.md",
+                "file": "09 Intro to Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs235/15 Merge Sort and Quick sort.md"
+                "file": "09 Intro to Machine Learning.md"
               }
             }
           }
@@ -185,15 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a907b9189592d3d",
+  "active": "de2c3a430fa9d809",
   "lastOpenFiles": [
+    "cs180/08 Least Squares and Gradient Descent.md",
+    "09 Intro to Machine Learning.md",
+    "_daily_notes/2023-03-07.md",
     "hist221/07 World War II and the Emergence of American Dominance.md",
+    "cs235/14 Sorting.md",
     "cs235/15 Merge Sort and Quick sort.md",
     "_daily_notes/2023-03-02.md",
-    "cs180/08 Least Squares and Gradient Descent.md",
     "_drawings/drawing_2023-03-02.md",
     "_drawings/drawing_2023-01-07.md",
-    "cs235/14 Sorting.md",
     "hist221/06 The New Deal and the 1930s.md",
     "README.md",
     "hist221/05 The 1920s and the Great Depression.md",
@@ -212,9 +214,7 @@
     "hist221/XX-XX/02-0X/02-01 Industrialization.md",
     "hist221/XX-XX/01-0X/01-05 Jim Crow Laws.md",
     "hist221/XX-XX",
-    "hist221/XX-XX/01-0X/01-01 The Civil War.md",
     "hist221/XX-XX/01-0X",
-    "hist221/01 Reconstruction & Jim Crow.md",
     "hist221/XX-XX/02-0X",
     "hist221/XX-XX/03-0X",
     "hist221/XX-XX/04-0X",

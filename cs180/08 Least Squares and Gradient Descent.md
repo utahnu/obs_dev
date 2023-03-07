@@ -42,6 +42,6 @@ minimize the total sum of squared errors
 
 ![[drawing_2023-03-02]]
 
-$$\text{Gradient:} \quad \nabla f(x,y) = \bigl(\frac{df}{dx}\frac{df}{dy}\bigl)$$
+$$\text{Gradient:} \quad \nabla f(x,y) = \bigl(\frac{\partial f}{\partial x}\frac{\partial f}{\partial y}\bigl)$$
 
-$$x^{(i+1)}=x^{(i)} - a \cdot \frac{df}{dx}(x^{(i)}, y^{(i)}) = (1-a) \cdot x^{(i)}$$
+$$\text{Updates:} \quad x^{(i+1)}=x^{(i)} - a \cdot \frac{\partial f}{\partial x}(x^{(i)}, y^{(i)}) = (1-a) \cdot x^{(i)}$$
