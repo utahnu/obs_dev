@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Intro to Machine Learning.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Intro to Machine Learning.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 Intro to Machine Learning.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 Intro to Machine Learning.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Intro to Machine Learning.md"
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md"
               }
             }
           }
@@ -187,8 +187,8 @@
   },
   "active": "de2c3a430fa9d809",
   "lastOpenFiles": [
+    "cs180/09 Intro to Machine Learning.md",
     "cs180/08 Least Squares and Gradient Descent.md",
-    "09 Intro to Machine Learning.md",
     "_daily_notes/2023-03-07.md",
     "hist221/07 World War II and the Emergence of American Dominance.md",
     "cs235/14 Sorting.md",

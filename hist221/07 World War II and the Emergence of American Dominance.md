@@ -90,7 +90,7 @@ After 1933, Hitler removes many of the provisions of the Treaty of Versailles
 
 <br>
 
-# World War II
+# Beginnings of World War II
 
 ### 1937 (==a better WWII start year==) - Japan invades China
 
@@ -329,3 +329,440 @@ A World Order where *economic power* is global power - **empower the United Stat
 > \- Franklin D. Roosevelt
 
 ==Congress votes to declare war, only one opposing vote==
+
+### December 1941 - Germany declares war on the US
+
+### Italy declares war on someone here as well
+- [ ] Find who Italy declared war on
+
+<br>
+
+---
+---
+
+<br>
+
+# The Homefront
+
+## The Government takes over total control of the economy
+
+### Office of Price Administration (1941)
+
+- Sets the prices of goods according to government priorities
+- Prevents price gouging due to scarcity
+
+### War Production Board (1942)
+
+- Reorganizes industries to produce war material
+- Controls raw material distribution
+	- Ensures industrial war needs are met
+
+### War Manpower Commission (1942)
+
+Controls the distribution of labor between industry, agriculture, and the military
+
+---
+
+## Ships, Planes, Tanks
+
+The Auto industry is reoriented to produce planes, trucks, jeeps, tanks
+
+- 1944 - The US produces a naval ship a day, a plane every 5 minutes
+- Economic Growth explodes
+	- Companies make huge profits
+	- Congress deactivates New Deal programs/agencies
+- Organized labor makes major gains as labor becomes scarce
+	- Union membership grows
+	- Promise not to strike (to not oppose the war effort)
+		- Government forces employers to reach settlements
+
+---
+
+## Women and WWII
+
+*Women are needed for industry once more*
+
+Rosie the Riveter Propaganda is used,
+Women constitute 1/3 of the labor force during the war
+
+### 350k women serve in the military
+
+- Nurses
+- Secretaries
+- Radar assistants
+- Operators/communications
+- Military offices
+
+Women emerge with more culturally acceptable independence
+
+- Female professional baseball leagues form
+- Women have more independence
+	- Women are forced out of their jobs as men return
+
+---
+
+## WWII and Black Americans
+
+### The Second Great Migration
+
+*700k Black Americans leave the South for the North*
+
+- Seek industrial jobs
+- Seek escape from lynching
+
+### 1.5 million Black Americans serve in the military
+
+- Military units are still segregated
+	- Black Americans are allowed to serve in combat roles
+- Black blood donations are separated as to not be given to white soldiers
+
+## Birth of the Civil Rights Movement
+
+*Black Americans point to their contributions to the US and the current pro-democracy stance as evidence of a need for real equal rights*
+
+### The 1941 March on Washington
+
+Organized by A. Philip Randolph (1889-1979)
+
+- Equal access to defense jobs
+- Outlaw segregation
+- Federal anti-lynching laaw
+- Roosevelt convinces Randolph *not to hold the march*
+	- Issues ExOrder 8802 instead
+
+### Executive Order 8802 (June 1941)
+
+*Bans racial discrimination in employment related to national defense*
+
+- Creates the Fair Employment Practices Commission to investigate and expose discrimination
+	- First federal agency to enforce equal rights since Reconstruction
+- 1 million Black Americans get manufacturing jobs during war
+- National War Board prohibits racial differences in pay
+
+No end comes to segregation or anti-lynching
+
+## Further progress
+
+- NAACP membership increases from 50k to 500k
+- Congress of Industrial Organizations gives full access to Black Americans
+- Black Campaigns emphasize double V:
+	- Victory over the Axis abroad
+	- Victory over segregation at home
+- ***Smith v. Allwright*** (1944)
+	- Supreme Court rules that all white primaries violate the 14th and 15th amendments
+- Slowly, the idea of white supremacy falls out of mainstream
+
+Latinos, Native Americans, and other minority groups serve in the US military in large numbers
+
+---
+
+## Office of War Information (1942)
+
+The US Propaganda department
+
+- Encourages people to support war, buy bonds
+- Encourages people to cut back on consumption, ration
+- Hollywood and radio stations produce pro-war content
+
+US Propaganda focuses on themes of democracy, liberalism and the American way of life
+(the way of life that will cease to exist if the war is lost)
+
+- The US emphasizes unity through diversity
+	- In opposition to dogmatic view of fascism
+- No widespread attempts to restrict minority or immigrant communities
+	- Except for Japanese-Americans
+
+---
+
+## Internment of Japanese Americans (1942-1945)
+
+*Paranoia about Japanese Americans being loyal to Japan*
+Fueled by misinformation about Japanese Americans having aided in the attack on Pearl Harbor
+
+- Executive Order 9066
+- Japanese in coastal areas are sent to US concentration camps
+	- 120k people are relocated to concentration camps
+		- almost all are US citizens
+	- Violence is used to force cooperation
+		- prisoners are occasionally killed by guards
+- Factories are set up in the camps and the prisoners are forced to work
+- Houses are poorly constructed
+- Prisoners share many amenities and resources
+
+### Korematsu v. United States (1944)
+
+The US Supreme Court rules that, given the war conditions, Executive Order 9066 does not violate the US constitution
+
+- The US Government conducts loyalty investigations
+	- Families found to be loyal are allowed to leave
+
+Japanese Americans are subject to racist attacks, discrimination
+
+
+---
+
+## The Election of 1944
+
+Roosevelt runs again, promising to finish the war, create the United Nations
+Vice President Harry Truman is selected
+
+Republicans support war, but hey roosevelt has been president for a while
+
+Roosevelt wins easily
+
+<br>
+
+---
+---
+
+<br>
+
+# The Two Front War (Military History)
+
+## The First Battle of the Philippines (December 1941-May 1942)
+
+The day after the attack on Pearl Harbor
+
+- Japanese launch an invasion before US forces can prepare
+- The colony is defended by a combination of US and Filipino forces
+	- Defenders hold out for 6 months
+		- are starved out by a siege
+- The US surrenders
+- US General Douglas MacArthur (1880-1964) leads a small force in a retreat to Austraila
+	- > "I came out of Bataan and I shall return"
+- 46k US/Filipino casualties
+- 17k Japanese casualties
+- 100k US/Filipino captured
+
+### February 1942 
+
+- [ ] Fill out header for February 1942
+
+---
+
+## Japanese POW camps prove to be the most brutal
+
+- Random violent executions
+- Medical experiments
+- Torture to extract intelligence
+- Starvation
+- Slavery
+
+### The Bataan Death March (April 1942)
+
+*A Forced march of Filipino and US prisoners*
+
+- Prisoners are tortured, stragglers are murdered
+	- Approximately 18k are killed
+
+## Japanese Mass Extermination
+
+- Japanese racial superiority
+- Extermination of "inferior" populations
+	- especially Chinese
+
+Japan murders approximately 30 million civilians (23 million Chinese people)
+
+---
+
+## The Chinese Civil War (1927-1949)
+
+- 1912 - The Republic of China is founded
+	- China struggles with mass poverty and starvation
+- 1927 - Civil war breaks out between Republican and Communist forces (Mao Zedong)
+- 1937 - US allies with China against Japan
+
+---
+
+## The Battle of Midway (June 1942)
+
+*A US island, strategic point in supplying naval forces*
+The last operating naval base capable of servicing the US Pacific Fleet
+
+- Japan launches an attack on Midway and invasion of Alaska
+	- to capture US airbases in Alaska, for bombing US cities
+- 4 of Japan's 6 main aircraft carriers launch the attack
+- 3 main US carriers and the remnants of the Pacific Fleet defend the base
+	- Japanese forces are not quick enough to prevent US bombing runs
+	- US bombers and torpedo planes discover the location of the Japanese fleet
+		- All four Japanese carriers are sunk
+		- One American carrier is lost
+- Japan fails to take Midway, retreats from Alaska
+- Japanese Pacific fleet is crippled
+- US retains naval capacity in the Pacific
+
+---
+
+## The United States and Latin America
+
+### Office of the Coordinator of Inter-American Affairs (1941)
+
+*Instituted to secure the loyalty of the countries of Latin America*
+
+- The US promises investment and economic aid to Latin American countries during and after the war
+- US exports propaganda to Latin America
+- Walt Disney and Orson Welles are goodwill ambassadors
+- Disney's The Three Caballeros
+	- Cartoon Series
+	- Donald Duck, Jose Carioca (Brazil), Panchito Pistoles (Mexico)
+
+### The Rio Conference (1942)
+
+*Countries of the Americas decide on an official war stance*
+
+- The US enlists Brazil to push for a pro-US stance
+- Argentina supports the Axis powers, encourages neutrality
+	- Brazil successfully pressures conference to break off diplomatic relations with the Axis powers
+
+### The Brazil-United States Political-Military Agreement (1942)
+
+*Brazil and US form a military alliance*
+
+- Brazil allows the US to build a large network of airports/naval bases in Northern Brazil
+	- Safer routes to war theaters
+	- Brazil becomes the center of US logistical operation in Africa and Europe
+
+### August 1942 - Brazil declares war on Italy and Germany
+
+---
+
+## Europe First Strategy
+
+*The US decides that the military should concentrate on defeating Germany and Italy*
+
+- Axis forces in Europe can knock out UK or USSR
+	- US forces can be transferred to Pacific Theater afterwards
+
+### General Dwight D. Eisenhower named Supreme Allied Commander
+
+### Battle of the Atlantic (1939-1945)
+
+German U-boats target UK, US, and Brazilian shipping
+
+- Approximately 3,500 Allied ships sunk
+- US employs a convoy system
+- Allies employ a submarine-hunting network
+	- Approximately 900 Axis submarines are sunk
+
+### Allied Carpet-Bombing Attack (1942-1945)
+
+Carpeting an entire area with lots of bombs, near constantly
+
+- Target civilian industrial centers, German infrastructure
+	- 40 bombers at a time, protected by fighter planes
+		- US B-17 planes are effective, heavily armored and armed
+- Allies drop nearly 3 million tons of bombs on Axis targets
+- 20,000 Allied planes are shot down
+	- German industries are crippled
+	- Nearly 1 million civilian casualties
+
+---
+
+## North Africa Campaign (May 1942-May 1943)
+
+The Soviet Union requests that the US help divide Nazi forces
+
+US General George Patton leads an invasion of British North Africa
+(Italy, the weakest point of Axis territory, had failed to push out British forces)
+
+- Nazi tank divisions dispatched to reinforce Italians
+	- Allies secure the surrender of Axis forces in North Africa
+- About 3k Americans, 35 British killed
+- Approximately 42k Axis soldiers killed
+
+---
+
+## Island-Hopping Strategy
+
+- Only invade islands that can be supported by air power
+- Only invade islands that are strategically important
+- Avoids heavily fortified islands that don't pose a threat
+
+### Battle of Guadalcanal (August 1942-February 1943)
+
+The Solomon Islands, as an air supply base for future targets
+
+- US forces take Japanese off guard, take the island
+- Japan tries to retake it
+- Heavly losses of troops and ships on both sides
+	- no carriers are lost
+
+### Early 1943 - Allied leaders announce they will only accept unconditional surrender
+
+---
+
+## The Invasion of Italy (July 1943-May 1945)
+
+Allied forces convince the Axis that they plan to invade Greece
+
+- Capture Sicily in one month
+- Invade mainland Italy and commence bombing Italian cities, including Rome
+
+Italian public opinion shifts
+
+- July 1943 - Mussolini is fired by the King of Italy
+- September 1943 - Italy surrenders, and Germany launches an invasion of Italy
+- October 1943 - Italy rejoins on the Allied side
+- July 1944 - The Brazilian Army joins the invasion of Italy
+- April 1945 - Allied forces break the last Nazi resistance in Italy, conquer the country
+- Mussolini is captured while trying to flee, publicly executed by Italian communists
+
+---
+
+## The Second Battle of the Philippines (October 1944-August 1945)
+
+General Douglas MacArthur leads an invasion of the Philippines with both US and Filipino forces
+
+- Mexican Air Force provides air support, invasion supported by Australian Navy
+- Japanese honor-bound commitment to fight to the death becomes apparent
+	- Last Japanese soldier surrenders in 1974, after being discovered in the Filipino Jungle
+- Liberation from Japan improves Filipino opinion of the US
+
+---
+
+## D-Day and the Invasion of Normandy (June-August 1944)
+
+Led by General Eisenhower, mostly American forces
+The largest amphibious invasion in history
+
+- 2 million troops
+- 1,000 paratrooper planes
+- 5,000 planes
+
+Paratroopers are dropped behind enemy lines, main invasion force lands on the beaches
+
+- Allied troops secure control of the beaches, open way for invasion of Nazi Germany
+- Paris is liberated
+
+## The Battle of the Bulge (December 1914-January 1945)
+
+Major German offensive in Belgium - to defeat Allied forces before invasion of Germany
+A panicking last effort
+
+Hitler has taken over direct control of the German Army out of desperation
+
+- German surprise attack catches the Allies off guard, causes a bulge
+- Allied reinforcements and air support rescue the strained line
+
+---
+
+## The Battle of Iwo Jima (February-March 1945)
+
+Japanese have heavily fortified this island with bunkers and caves
+The most intense fighting of the war
+
+- The US has naval and air superiority, island is shelled and bombed before the invasion
+- Hand-to-hand combat
+- Flamethrowers used to finish Japanese resistance in caves/bunkers
+- Out of 21k Japanese defenders, only 200 surrender
+	- The rest fight to the death
+- 26k American casualties
+
+## Kamikaze Pilots (October 1944-August 1945)
+
+"Divine Wind" - Samurai had defeated Mongols with the assistance of a hurricane
+
+- Suicide pilots strap massive bombs to their planes, crash into ships
+	- more accurate than dropping a bomb
+- Approximately 2,800 Kamikaze missions are flown
+	- 34 US navy ships are sunk, killing nearly 5k sailors
