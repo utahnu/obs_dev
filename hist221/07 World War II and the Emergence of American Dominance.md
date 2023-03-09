@@ -765,4 +765,150 @@ The most intense fighting of the war
 - Suicide pilots strap massive bombs to their planes, crash into ships
 	- more accurate than dropping a bomb
 - Approximately 2,800 Kamikaze missions are flown
-	- 34 US navy ships are sunk, killing nearly 5k sailors
+	- 34 US navy ships are sunk, killing nearly 5k sailors	- Companies make huge profits
+
+## Battle of Okinawa (April-June 1945)
+
+The Island of Okinawa will be the launching point for an invasion of Japan itself
+
+- Largest US invasion of the war in the Pacific
+	- Nearly 1 million troops
+- Naval forces of Australia, Canada, New Zealand help
+- US suffers 50k casualties
+- 110k Japanese killed, 10k captured
+
+---
+
+## April 1945 - Roosevelt Dies of a cerebral hemorrhage
+
+Roosevelt's polio had worsened significantly
+
+- The US and World is shocked
+	- Huge crowds turn out to pay respects, Roosevelt is a national hero
+- Vice President Harry S. Truman becomes President
+
+---
+
+## The United States prepares for an invasion of mainland Japan
+
+- Carpet bombing Japanese cities
+- US submarine blockade of Japan
+
+The US has 1,200 new ships
+- 1,200 new ships
+	- 8 battleships
+	- 99 aircraft carriers
+
+Japan recalls all population and armies to the mainland
+
+---
+
+## Western Allied Invasion of Germany (March-May 1945)
+
+US, UK, Belgium, France, and Poland all contribute troops
+The US is the majority of soldiers
+(Approximately 5 million soldiers)
+
+German forces are tired out, Hitler is delusional
+
+---
+
+# The Holocaust (1941-1945)
+
+*The Allies had known about these concentration camps since 1942, but were unaware of their severity*
+
+The Nazi Government had organized the systematic mass murder of more than 6 million Jewish people, and nearly 1 million others
+
+Gas chambers had often been used as the most efficient form of mass murder
+
+- July 1944 - Soviet Union soldiers liberate the first concentration camp
+- April 1945 - US forces begin to liberate concentration camps in the west of Germany
+
+<br>
+
+---
+---
+
+<br>
+
+# The War comes to an End
+
+## US and Soviet Union forces engage in a race to Berlin
+
+A rivalry develops between the Soviet Union and the United States
+
+### May 1945 - The Soviet Army captures Berlin
+
+- Citizen army engages in street fighting
+- Hitler commits suicide
+- The Provisional German government unconditionally surrenders
+
+## VE Day - May 8th 1945
+
+Victory in Europe
+
+---
+
+## The Manhattan Project (1942-1945)
+
+Exodus of German Jewish scientists
+
+In 1939, Albert Einstein sends a letter to Roosevelt informing him of the German discovery of nuclear fission, and the possibility of a nuclear bomb
+
+The United States institutes the Manhattan Project, supported by UK and Canada
+
+- Directed by Robert Oppenheimer
+- Extremely expensive
+- Develop prototype atom bombs
+- Test in Nevada
+
+Soviet spies steal details of the project
+
+Oppenheimer and the team have mixed feelings of their creation
+
+> We knew the world would not be the seame. A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi armed fomr and says, 'Now I '
+> 
+
+- [ ] finish Oppenheimer's quote
+
+- Truman is informed of the Manhattan Project
+- Truman decides to use bombs instead of risking American lives
+
+### August 6th 1945 - US drops the first active nuclear weapon on Hiroshima
+
+- 80k are instantly vaporized
+- Another 70k suffer horrific injuries
+- Approximately 70% of the city is vaporized, severe damage everywhere else
+	- US awaits Japanese surrender, but Japan does not
+	- Truman decides to drop a second bomb
+
+### August 9th 1945 - US drops a second atomic bomb on Nagasaki
+
+- 755k people instantly killed
+- 60k injured
+- US prepares to drop the third bomb
+
+### August 10th - Japan communicates that it is prepared to surrender
+
+Refuses an unconditional surrender, demands the Emperor be kept
+
+---
+
+## September 2nd - Japan officially surrenders to Allied forces, WWII comes to an end
+
+---
+---
+
+# Approximately 60 million people are killed in war
+
+- Soviet Union: 25 million
+- China: 20 million
+- Japan: 3 million
+- Germany: 7.5 million
+- Italy: 500k
+- France: 600k
+- UK and other colonies: 450k
+- India: 3 million
+- USA: 400k
+
+The United States and Soviet Union emerge as World Leaders
