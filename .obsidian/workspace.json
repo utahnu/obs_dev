@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "16 Trees.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "16 Trees.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "16 Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
+                "file": "16 Trees.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/07 World War II and the Emergence of American Dominance.md"
+                "file": "16 Trees.md"
               }
             }
           }
@@ -185,18 +185,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a907b9189592d3d",
+  "active": "fda263aed2510e45",
   "lastOpenFiles": [
+    "cs235/15 Merge Sort and Quick sort.md",
+    "cs235/13 Recursion.md",
+    "cs235/14 Sorting.md",
+    "16 Trees.md",
+    "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
     "hist221/02 The Gilded Age.md",
-    "hist221/07 World War II and the Emergence of American Dominance.md",
-    "cs235/15 Merge Sort and Quick sort.md",
-    "cs235/14 Sorting.md",
     "cs235/10 Big O.md",
     "cs180/09 Intro to Machine Learning.md",
     "cs180/04 Intro to Pandas.md",
     "cs180/03 NumPy.md",
-    "cs235/13 Recursion.md",
     "cs235/12 Sets and Maps.md",
     "cs235/11 STL Containers (Queues, Stacks).md",
     "_daily_notes/2023-03-09.md",
@@ -212,7 +213,6 @@
     "cs180/07 Monte Carlo Approximations.md",
     "14 Binary Search.md",
     "_drawings/drawing_2023-02-23.md",
-    "_drawings/drawing_2023-02-07_0.md",
     "hist221/XX-XX",
     "hist221/XX-XX/01-0X",
     "hist221/XX-XX/02-0X",
