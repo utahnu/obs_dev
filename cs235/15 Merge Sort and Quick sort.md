@@ -81,3 +81,23 @@ Though, Quick Sort has been demonstrated to perform faster than Merge Sort
 
 return (4)
 ```
+
+```
+array = 1 3 ||| 10 2 9 7 -7 2 -2 9 -1 0 ||| 12 7 10 10 7 10 7 -3  
+sorter.partition(array, 2, 11, 3) = 8
+10 2 9 7 -7 2 -2 9 -1 0
+(2) 10 9 7 -7 2 -2 9 -1 0
+     u                  d
+(2) 0 9 7 -7 2 -2 9 -1 10
+      u              d
+(2) 0 -1 7 -7 2 -2 9 9 10
+         u         d
+(2) 0 -1 7 -7 2 -2 9 9 10
+           u       d
+(2) 0 -1 7 -7 2 -2 9 9 10
+              u    d
+(2) 0 -1 7 -7 2 -2 9 9 10
+                 u d
+(2) 0 -1 7 -7 2 -2 9 9 10
+                 d u      -->end
+```

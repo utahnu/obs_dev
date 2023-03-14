@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a3b5dde3849338",
+        "id": "508ff30aa302a4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "de2c3a430fa9d809",
+            "id": "fda263aed2510e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "fab7bad061a517d4"
+            "group": "a00803ab7b158144"
           }
         ]
       },
       {
-        "id": "e93576f3c18582cf",
+        "id": "4d885d7e8b4fc497",
         "type": "tabs",
         "children": [
           {
-            "id": "c90437942fdacbd2",
+            "id": "751415f519545917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "fab7bad061a517d4"
+            "group": "a00803ab7b158144"
           }
         ]
       }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/08 Building the Liberal World Order, Start of the Cold War.md"
+                "file": "hist221/07 World War II and the Emergence of American Dominance.md"
               }
             }
           }
@@ -187,14 +187,21 @@
   },
   "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
-    "_daily_notes/2023-03-09.md",
-    "cs180/09 Intro to Machine Learning.md",
+    "hist221/02 The Gilded Age.md",
+    "hist221/07 World War II and the Emergence of American Dominance.md",
+    "cs235/15 Merge Sort and Quick sort.md",
     "cs235/14 Sorting.md",
+    "cs235/10 Big O.md",
+    "cs180/09 Intro to Machine Learning.md",
+    "cs180/04 Intro to Pandas.md",
+    "cs180/03 NumPy.md",
+    "cs235/13 Recursion.md",
+    "cs235/12 Sets and Maps.md",
+    "cs235/11 STL Containers (Queues, Stacks).md",
+    "_daily_notes/2023-03-09.md",
     "cs180/08 Least Squares and Gradient Descent.md",
     "_daily_notes/2023-03-07.md",
-    "cs235/15 Merge Sort and Quick sort.md",
     "_daily_notes/2023-03-02.md",
     "_drawings/drawing_2023-03-02.md",
     "_drawings/drawing_2023-01-07.md",
@@ -202,17 +209,10 @@
     "README.md",
     "hist221/05 The 1920s and the Great Depression.md",
     "_daily_notes/2023-02-28.md",
-    "hist221/02 The Gilded Age.md",
     "cs180/07 Monte Carlo Approximations.md",
-    "cs235/13 Recursion.md",
-    "cs235/10 Big O.md",
     "14 Binary Search.md",
     "_drawings/drawing_2023-02-23.md",
     "_drawings/drawing_2023-02-07_0.md",
-    "_drawings/drawing_2023-02-07.md",
-    "_drawings/drawing_2023-01-19.md",
-    "_drawings/drawing_2023-01-17.md",
-    "_general/New Semester Tasks.md",
     "hist221/XX-XX",
     "hist221/XX-XX/01-0X",
     "hist221/XX-XX/02-0X",

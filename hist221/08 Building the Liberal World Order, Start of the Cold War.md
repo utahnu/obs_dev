@@ -187,3 +187,271 @@ Designed and implemented by Secretary of State: George C. Marshall
 - Directed to provide economic and political stability, create markets for US
 	- Allies in Latin America complain they are left out
 
+---
+
+## Intelligence/Espionage Agencies
+
+### The Central Intelligence Agency (1947)
+
+*Serves as an Espionage agency*
+Becomes key to US foreign policy during the Cold War
+
+- Enables US manipulation of internal politics of foreign countries
+
+### The KGB (1954)
+
+*The Soviet counterpart to the CIA, but also is a secret police force*
+Also engages in repression of local populations
+
+---
+
+## The Chinese Civil War (19297-1949)
+
+*Fighting continues after WWII*
+
+- The US supports Chiang Kai-shek and the Republican faction
+- The USSR supports the Communist faction
+	- US fails to broker peace
+- The Chinese Communist party gains popularity and contrrol
+
+### October 1949 - The People's Republic of China is established
+
+Soviet Union recognizes legitimacy, the US does not
+
+The United States helps Chiang Kai-Shek and the Republican government relocate to Taiwan
+*Over 2 million soldiers killed in conflict*
+
+**The Soviet Union and the People's Republic of China form a military alliance**
+*Truman is blamed*
+
+The US declares Republic of China as legitimate, places nuclear weapons in Taiwan
+1950 - US pushes UN to recognize the Republic of China (especially at the security council)
+- The Soviet Union boycotts the UN for one year
+
+---
+
+## Treaty Organizations
+
+### The North American Treaty Organization (NATO) (1949)
+
+*An institution of the Cold War and the Liberal World Order*
+
+- A Mutual-defense treaty: 
+	- An attack against any one is an attack against all
+
+The US avoids military development in Europe to prevent European conflicts
+
+- Allows Western Europe to focus on economic development
+- Prevents Western European rivalries/arms-races
+
+**Founding Members:**
+- Belgium
+- Canada
+- Denmark
+- France
+- Iceland
+- Italy
+- Luxembourg
+- Netherlands
+- Norway
+- Portugal
+- United Kingdom
+- United States
+
+#### The Southeast Asia Treaty Organization (SEATO) (1954)
+
+*NATO, but with interest in Asia*
+
+- Australia
+- France
+- New Zealand
+- Pakistan
+- Philippines
+- Thailand
+- United Kingdom
+- United States
+
+#### US-Japan Security Treaty (1951)
+
+*Formal US-Japan military alliance*
+
+### The Warsaw Pact (1955)
+
+*The Anti-NATO counterpart*
+
+---
+
+# The Korean War
+
+*The first "hot" conflict of the Cold War*
+*The first US war of "global maintenance"*
+
+Following WWII, the Soviet Union and USA divide Korea into North and South zones of control
+
+- US holds elections in South, Soviets in North
+- Republic of Korea
+- Democratic People's Republic of Korea
+
+### By 1949, the US and USSR have withdrawn troops
+
+### June 1950 - North launches an invasion on South
+
+### US debates joining the war
+
+- Domino Theory
+- Soviet Distraction?
+- World War III?
+
+### US & the UN Security Council condemns North Korean Invasion
+
+### Truman orders US military police action in Korea
+
+*No congressional approval is required, as is not a declaration of war*
+
+- 1.8 million US troops are deployed
+	- another approximate 600k UN troops
+- Douglas MacArthur
+- $12 billion from Congress
+
+<br>
+
+- UN and US forces are unprepared
+- over the summer of 1950, the North controls almost all of the country
+
+#### Battle of Incheon (September 1950)
+
+US/UN secure victory, North are forced into retreat
+
+- September-October 1950 - UN forces close in on capital
+- October 1950 - China deploys 1.5 million troops
+
+stalemates
+
+#### July 1953 - Permanent cease-fire, agree to pre-war borders
+
+- 40k Americans are killed, 100k wounded
+
+### 2018 - War is declared over
+
+
+<br>
+
+---
+---
+
+<br>
+
+# Post-War America
+
+## Servicemen's Readjustment Act of 1944 (GI Bill)
+
+- Established veteran hospitals, free or cheap healthcare
+- Provided funding for very low-interest home loans
+- Funded free college education
+- Extra unemployment benefits
+
+Dramatically improves social mobility in the US, expands the middle class
+
+Southern state governments, banks, and colleges deny these benefits to Black Americans
+Very few Black Americans receive these benefits
+
+### Desegregation of the Federal Government (1948)
+
+*Truman responds to discrimination of Black veterans*
+
+#### Executive Orders 99808, 9981
+
+Reverses segregation measures from Woodrow Wilson
+All racial segregation in government and military is banned
+
+---
+
+## The 22nd Amendment (1951)
+
+- Limits every president to 2 terms
+- Vice presidents who take over office can only be reelected once
+- Prevents Truman from running twice
+
+---
+
+## The Election of 1952
+
+*Eisenhower vs. Stevenson*
+Some say Eisenhower isn't a true Republican
+
+Eisenhower is popular because of WWII achievements
+
+---
+
+## McCarthyism (1947-1958)
+
+*Coined from Republican Senator Joseph McCarthy*
+
+Claims that government is full of communists, spreads conspiracy
+Drives national paranoia and fear
+
+- 1947 - Federal Government institutes loyalty screenings
+- 1951-1955 - FBI director J. Edgar Hoover oversees Responsibilities Program
+	- Illegally conducts espionage and surveillance
+- House Committee on Un-American Activities holds public hearings of Americans accusing communism
+	- Targets Hollywood celebrities - Hollywood blacklist
+- In Senate: McCarthy leads committee investigations of the CIA and Army
+	- Forces the State Department and some public libraries to destroy books
+	- Left-wing Americans are persecuted
+
+### 1956-1958 - Court Cases dismantle McCarthyism
+
+- Supreme Court rules that private entities cannot assume guilt if the 5th is invoked
+- Discrimination on the basis of political belief is a violation of constitutional rights
+- Congress cannot compel people to testify in public about their private lives on basis of suspicion
+
+Investigations of McCarthy's accusations prove fallacies and conspiracies
+
+- Eisenhower pushes back on McCarthy
+- Republican Party abandons and condemns McCarthy
+- 1954 - Senate votes to censure McCarthy
+- 1957 - McCarthy dies
+
+---
+
+## Suburbs and Population
+
+### The Baby Boom (1946-1964)
+
+*Soldiers return home and start families with economic security*
+
+**76 million babies are born**
+
+population in 1940: 132 million
+Suburbanizationpopulation in 1970: 203 million
+
+| year | population  |
+| ---- | ----------- |
+| 1940 | 132 million |
+| 1970 | 203 million | 
+
+
+### Suburbanization and the American Dream
+
+- Homes are cheaper to build/buy
+- Veterans loans
+- Increased college education
+- Increased middle class
+
+After WWII, the percentage of Americans in suburbs goes from 13% to majority
+
+> [!The American Dream]
+> America is prosperous enough that everyone can, at some point, own a home, car, modern appliances, have multiple children
+
+*Black Americans are continually rejected from this development*
+
+### Federal Aid Highway Act of 1956
+
+*Passed under Eisenhower*
+
+Provides $114 billion (560 billion in today's) of federal funding for a national (interstate) highway system
+
+- Connects every part of the country
+- 48k miles of highway
+- US becomes automobile-based
+- Standardizes the National Economy
