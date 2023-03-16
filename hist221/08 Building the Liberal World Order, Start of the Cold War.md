@@ -455,3 +455,98 @@ Provides $114 billion (560 billion in today's) of federal funding for a national
 - 48k miles of highway
 - US becomes automobile-based
 - Standardizes the National Economy
+
+---
+
+## American Cultures 
+
+### American Television Culture
+
+- 1950: 9% of households have a TV
+- 1959: 86% of households have a TV
+- ++consumer & advertiser culture
+
+### Rock and Roll music is nationally popular
+
+*Extremely popular among the younger generation*
+Emerges from Black American blues music
+
+#### Fats Domino
+A Black Artist, national fame as pioneer of rock/roll
+#### Elvis Presley
+"King of Rock and Roll"
+mainstreams rock/roll, sex symbol
+
+### Sports as National Pastimes
+
+NFL, NBA, MLB televised games
+*Baseball remains the most popular sport*
+
+#### The Integration of Baseball (1947)
+
+MLB commissioner Happy Chandler believes the country can no longer discriminate after their WWII services
+
+- Chandler authorizes the Brooklyn Dodgers to sign Jackie Robinson in the Major League
+	- The first Black American to play in Major League Baseball in 1947
+
+---
+
+# Other Cold War Events
+
+## The Hungarian Revolution of 1956
+
+*Hungary had been set up as a communist state by the USSR*
+
+In 1956, a mas movement demanding independence and self-determination ensues
+- Soviet forces suppress demonstration, with open gunfire
+- Hungarian Rebels overthrow the communist government
+- Soviet Union sends back an army and restores the comm
+	- 13k Hungarians killed
+	- 22k Hungarians imprisoned in Gulag political prisoner system
+- Soviet Union loses support as a democracy
+
+---
+
+## The Suez Crisis (1956)
+
+*Following WWII, the UK with US and UN support ==establishes the state of Israel== in the Middle East as a homeland for displaced Jews*
+Arab powers are furious, losing their holy land
+
+- 1952 - Military coup establishes an independent Egyptian Republic under President Gamal Abdul Nasser
+	- The Egyptian government demands the UK relinquishes control of the Suez Canal
+- UK does not want to lose control, and have trade routes controlled by someone not pro-West, anti-Israel
+- Nasser turns to Soviet Union's Kruschev 
+- 1956 - US refuses to fund the Aswan Dam project after Nasser recognizes the People's Republic of China
+	- UK funds it
+- July 1956 - Nasser nationalizes the Suez Canal - British out of control
+	- UK demands that US force Egypt to return the canal
+		- US refuses under Eisenhower
+	- Britain, France, and Israel reach a  secret agreement to retake the canal
+- October 1956 - Israel launches an invasion of Egypt with funding and weapons from the UK and France
+	- UK and France seize control of the Suez Canal for "national security"
+	- USSR demands the allies leave Egypt or they will launch nuclear attack on Western Europe
+- The United States condemns the Soviet Union, and also UK, France, Israel
+	- US promises economic sanctions against three countries if they don't withdraw
+		- UN dispatches a peacekeeping force to the region
+		- The Eisenhower Administration scorns the of the three countries for recklessness
+			- France and UK humiliated, no longer independent from US
+			- Marks the end of European Colonial world system
+				- 1950-1980 - European Empires are deconstructed
+
+---
+
+## Eisenhower's Farewell Address (1961)
+
+- Duty of Global Leadership
+
+> "We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence, we yet realize that American's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power int he interests of world peace and human betterment."
+> 
+> \- Dwight D. Eisenhower - 1961 Farewell Address
+
+> "Throughout America's adventure in free government, our basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among people and among nations. To strive for less would be unworthy of a free and religious people. Any failure traceable to arrogance, or our lack of comprehension or readiness to sacrifice would inflict upon us grievous hurt both at home and abroad. Progress toward these noble goals is persistently threatened by the conflict now engulfing the world.............
+
+> "In the Councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing or granted only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together."
+> 
+> \-Dwight D. Eisenhower - 1961 Farewell Address
+
+- [ ] Fill out Eisenhower's Farewell Adress
