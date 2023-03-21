@@ -13,33 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civil Rights and Womens' Liberation Movements.md",
+                "file": "cs235/17 AVL Trees.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "a00803ab7b158144"
+            "group": "a8a05887f05741d2"
           }
         ]
       },
       {
-        "id": "4d885d7e8b4fc497",
+        "id": "84cb81712fae50d2",
         "type": "tabs",
         "children": [
           {
-            "id": "751415f519545917",
+            "id": "c1dfa92606d87912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civil Rights and Womens' Liberation Movements.md",
+                "file": "cs235/17 AVL Trees.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "a00803ab7b158144"
+            "group": "a8a05887f05741d2"
           }
         ]
       }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Civil Rights and Womens' Liberation Movements.md",
+                "file": "cs235/17 AVL Trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Civil Rights and Womens' Liberation Movements.md",
+                "file": "cs235/17 AVL Trees.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Civil Rights and Womens' Liberation Movements.md"
+                "file": "cs235/17 AVL Trees.md"
               }
             }
           }
@@ -185,18 +185,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda263aed2510e45",
+  "active": "c1dfa92606d87912",
   "lastOpenFiles": [
-    "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
-    "Civil Rights and Womens' Liberation Movements.md",
-    "cs180/10 Clustering.md",
+    "_drawings/drawing_2023-03-21_1.md",
+    "cs235/17 AVL Trees.md",
+    "_drawings/drawing_2023-03-21_0.md",
+    "_drawings/drawing_2023-03-21.md",
+    "cs235/10 Big O.md",
+    "cs235/03 Classes.md",
+    "cs235/02 Pointers and Arrays.md",
     "cs235/16 Trees.md",
-    "cs235/15 Merge Sort and Quick sort.md",
+    "_images/Pasted image 20230321141720.png",
+    "cs235/15 Merge Sort and Quick Sort.md",
+    "_daily_notes/2023-03-21.md",
+    "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+    "_images",
+    "_images/Pasted image 20230316142034.png",
+    "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+    "cs180/10 Clustering.md",
     "cs235/13 Recursion.md",
     "cs235/14 Sorting.md",
     "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/02 The Gilded Age.md",
-    "cs235/10 Big O.md",
     "cs180/09 Intro to Machine Learning.md",
     "cs180/04 Intro to Pandas.md",
     "cs180/03 NumPy.md",
@@ -206,13 +216,6 @@
     "cs180/08 Least Squares and Gradient Descent.md",
     "_daily_notes/2023-03-07.md",
     "_daily_notes/2023-03-02.md",
-    "_drawings/drawing_2023-03-02.md",
-    "_drawings/drawing_2023-01-07.md",
-    "hist221/06 The New Deal and the 1930s.md",
-    "README.md",
-    "hist221/05 The 1920s and the Great Depression.md",
-    "_daily_notes/2023-02-28.md",
-    "cs180/07 Monte Carlo Approximations.md",
     "hist221/XX-XX",
     "hist221/XX-XX/01-0X",
     "hist221/XX-XX/02-0X",

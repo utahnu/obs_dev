@@ -45,6 +45,8 @@ Visit all children of a node before exploring their children
 
 ---
 
+## Traversal
+
 > [!Traversal]
 > The process of listing nodes inn a tree is called **Traversal**
 > DFS and BFS are two strategies. There is another question, however:
@@ -79,12 +81,16 @@ void dfs_recurse(Node<T>*& node) {
 }
 ```
 
+---
+---
+
 # Binary Search Trees
 (BST)
 
-**Extra Qualities:**
-- No Duplicate Values
-- Each node has at least two children:
+## Special Qualities of a BST:
+
+- ==No Duplicate Values==
+- ==Each node has at least two children:==
 	- a `left` subtree whose max value is ==smaller== than the current value
 	- a `right` subtree whose min value is ==larger== than the current value
 
@@ -93,6 +99,26 @@ void dfs_recurse(Node<T>*& node) {
 For generic trees, traversal order is undefined
 For BST, you always iterate from `left` to `right`
 
-inorder traversal:
-`left`,`this`,`right`
-always a sorted list ^^
+#### in-order traversal: 
+Process the left child before the right child
+i.e. `left`,`this`,`right`
+always a sorted list ^
+
+![[Pasted image 20230316142034.png|500]]
+
+```cpp
+template<class T>
+bool add(Node<T>*& node, T item) {
+	if (node == nullptr) {
+		node = new Node<T>(item);
+	}
+	if (node->falue == item) {
+		return false
+	}
+	if (iteem < node->value) {
+		return add(node->left, item);
+	} else {
+		return add(node->right, item);
+	}
+}
+```
