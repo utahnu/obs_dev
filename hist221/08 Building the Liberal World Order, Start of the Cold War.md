@@ -538,15 +538,15 @@ Arab powers are furious, losing their holy land
 ## Eisenhower's Farewell Address (1961)
 
 - Duty of Global Leadership
+- Must Defeat Soviet Union
+- Beware of the evil Military-Industrial Complex
 
-> "We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence, we yet realize that American's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power int he interests of world peace and human betterment."
-> 
-> \- Dwight D. Eisenhower - 1961 Farewell Address
+> "We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence, we yet realize that American's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on ==how we use our power int he interests of world peace and human betterment.=="
 
-> "Throughout America's adventure in free government, our basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among people and among nations. To strive for less would be unworthy of a free and religious people. Any failure traceable to arrogance, or our lack of comprehension or readiness to sacrifice would inflict upon us grievous hurt both at home and abroad. Progress toward these noble goals is persistently threatened by the conflict now engulfing the world.............
+> "Throughout America's adventure in free government, ==our basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among people and among nations.== To strive for less would be unworthy of a free and religious people. Any failure traceable to arrogance, or our lack of comprehension or readiness to sacrifice would inflict upon us grievous hurt both at home and abroad. Progress toward these noble goals is persistently threatened by the conflict now engulfing the world. It commands our whole attention, absorbs our very beings. We face a hostile ideology-global in scope, atheistic in character, ruthless in purpose, and insidious in method."
 
-> "In the Councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing or granted only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together."
+> "In the Councils of government, ==we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex.== The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted ==only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together.=="
 > 
 > \-Dwight D. Eisenhower - 1961 Farewell Address
 
-- [ ] Fill out Eisenhower's Farewell Adress
+- [x] Fill out Eisenhower's Farewell Address

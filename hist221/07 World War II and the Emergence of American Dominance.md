@@ -198,7 +198,7 @@ After 1933, Hitler removes many of the provisions of the Treaty of Versailles
 	- Germany suffers its first major loss of the war
 	- An invasion of the UK becomes unfeasible
 
-> "Hitler knows that he will have to break us in this island or lose the war ... But if we fail, then the whole world, including the United States, including all that we have known and cared for, will sink into the abyss of a new Dark Age made more sinister, and perhaps more protracted, by the lights of perverted science. Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say: This was their finest hour."
+> "Hitler knows that he will have to break us in this island or lose the war ... ==But if we fail, then the whole world, including the United States, including all that we have known and cared for, will sink into the abyss of a new Dark Age== made more sinister, and perhaps more protracted, by the lights of perverted science. Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say: This was their finest hour."
 > 
 > \- Winston Churchill
 
@@ -216,11 +216,11 @@ After 1933, Hitler removes many of the provisions of the Treaty of Versailles
 - 50 million men are registered
 - 10 million men are drafted into the military
 
-> "So I appeal to the owners pof plants, to the managers, to the eworkers, to our own governmetn employees to put every ounce of effort into producing these munitions swiftly and without stint...As planes and ships and guns and shells are produced, your government...can then determine how  best to use them to defend this hemisphere...We must be the great arsenal of demoracy. Ibelieve that the Ais powers are not going to win the war... We have no excuse for defeatism...I have the profound conviction that the American people are noe  determined democratic faith"
+> So I appeal to the owners of plants, to the managers, to the workers, to our own government employees to put every ounce of effort into producing these munitions swiftly and without stint. . . As planes and ships and guns and shells are produced, your government . . . can then determine how best to use them to defend this hemisphere. . . We must be the great arsenal of democracy. I believe that the Axis powers are not going to win this war. . . We have no excuse for defeatism. . . I have the profound conviction that the American people are now determined to put forth a mightier effort than they have ever yet made to ==increase our production of all the implements of defense, to meet the threat to our democratic faith.=="
 > 
 > \- Franklin Delano Roosevelt - 1940 Radio Address
 
-- [ ] Complete FDR's 1940 radio quote
+- [x] Complete FDR's 1940 radio quote
 
 ---
 
@@ -249,9 +249,9 @@ After 1933, Hitler removes many of the provisions of the Treaty of Versailles
 
 ### January 1941 State of the Union Address
 
-Franklin D. Roosevelt's vision of the post-war world
+Franklin D. Roosevelt's ==vision of the post-war world==
 
-- Four Freedoms
+- **Four Freedoms**
 	- Freedom of speech and Expression
 	- Freedom of Worship
 	- Freedom from Want
@@ -260,11 +260,11 @@ Franklin D. Roosevelt's vision of the post-war world
 *Modern Liberalism*
 (Protection of individual rights --> "Four Freedoms", freedom from...)
 
-> "empty quote"
+> "In the future days, which we seek to make secure, ==we look forward to a world founded upon four essential human freedoms.== The first is ==freedom of speech and expression==--everywhere in the world. The second is ==freedom of every person to worship God in his own way==--everywhere in the world. The third is ==freedom from want==--which, translated into world terms, means economic understandings which will secure to every nation a healthy peacetime life for its inhabitants-everywhere in the world. The fourth is ==freedom from fear==--which, translated into world terms, means a world-wide reduction of armaments to such a point and in such a thorough fashion that no nation will be in a position to commit an act of physical aggression against any neighbor--anywhere in the world. That is no vision of a distant millennium. It is a definite basis for a kind of world attainable in our own time and generation. That kind of world is the very antithesis of the so-called new order of tyranny which the dictators seek to create with the crash of a bomb. To that new order we oppose the greater conception--the moral order. A good society is able to face schemes of world domination and foreign revolutions alike without fear."
 > 
 > \- Franklin D. Roosevelt - State of the Union (1941)
 
-- [ ] Complete FDR's 1941 State of the Union quote
+- [x] Complete FDR's 1941 State of the Union quote
 
 #### The Atlantic Conference and Charter (August 1941)
 
@@ -332,8 +332,7 @@ A World Order where *economic power* is global power - **empower the United Stat
 
 ### December 1941 - Germany declares war on the US
 
-### Italy declares war on someone here as well
-- [ ] Find who Italy declared war on
+### US declares War on Italy
 
 <br>
 
@@ -534,9 +533,8 @@ The day after the attack on Pearl Harbor
 - 17k Japanese casualties
 - 100k US/Filipino captured
 
-### February 1942 
+### February 1942 - British Singapore and other British Asian Colonies are captured
 
-- [ ] Fill out header for February 1942
 
 ---
 
@@ -734,7 +732,7 @@ Paratroopers are dropped behind enemy lines, main invasion force lands on the be
 - Allied troops secure control of the beaches, open way for invasion of Nazi Germany
 - Paris is liberated
 
-## The Battle of the Bulge (December 1914-January 1945)
+## The Battle of the Bulge (December 1944-January 1945)
 
 Major German offensive in Belgium - to defeat Allied forces before invasion of Germany
 A panicking last effort
@@ -843,7 +841,7 @@ A rivalry develops between the Soviet Union and the United States
 - Hitler commits suicide
 - The Provisional German government unconditionally surrenders
 
-## VE Day - May 8th 1945
+## ==VE Day - May 8th 1945==
 
 Victory in Europe
 
@@ -866,10 +864,11 @@ Soviet spies steal details of the project
 
 Oppenheimer and the team have mixed feelings of their creation
 
-> We knew the world would not be the seame. A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi armed fomr and says, 'Now I '
+> "We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi-armed form and says, 'Now I am become Death, the destroyer of worlds.' I suppose we all thought that, one way or another."
 > 
+> Robert Oppenheimer - Recalling the first nuclear bomb test
 
-- [ ] finish Oppenheimer's quote
+- [x] finish Oppenheimer's quote
 
 - Truman is informed of the Manhattan Project
 - Truman decides to use bombs instead of risking American lives

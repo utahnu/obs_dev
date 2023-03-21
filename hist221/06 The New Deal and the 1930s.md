@@ -6,11 +6,13 @@ Daily Note: [[2023-02-23]] -- [*created*:: 2023-02-23] #hist221
 
 The end of World War I had seen a global increase in liberal democracy:
 - Female Suffrage
-	- Universal Suffrage
-- 1900:
-	- 21% of countries are democracies
-- 1921:
-	- 44% of countries are democracies
+- Universal Suffrage
+
+**Countries around the world:**
+
+| 1900                | 1921                |
+| ------------------- | ------------------- |
+| 21% are democracies | 44% are democracies | 
 
 > [!Liberal Democracy:]
 > An equality and majority-rules form of government where the power of the majority is constrained by institutions that protect individual and minority rights
@@ -19,11 +21,11 @@ The end of World War I had seen a global increase in liberal democracy:
 
 ==Depression --> Decline in Democracy==
 
-## The Global Great Depression initiates a worldwide decline in democracy
+## The Global Great Depression initiates a worldwide ==decline== in democracy
 
 By 1943, 23% of countries are democracies (13 countries)
 
-Fascism and totalitarianism spread across the world
+**Fascism and totalitarianism spread across the world**
 
 > [!Fascism:]
 > A political ideology of ==hyper-nationalism== that emphasizes dictatorship and the organization of society for the good of the nation, not of the individual.
@@ -47,7 +49,7 @@ Fascism and totalitarianism spread across the world
 ## Lawrence Lowell - "The Present Crisis in Democracy" - *Foreign Affairs* (1934)
 
 - Democracies across the world are falling apart
-- It is possible (though unlikely) that Franklin D. Roosevelt will emerge as first dictator of the United States
+- It is possible (though unlikely) that **Franklin D. Roosevelt will emerge as first dictator** of the United States
 
 > "When President Harding told the country to return to normalcy he was urging what did not - as we now see could not - take place; for human nature being as it is, speculation and inflated prices followed by a collapse were almost inevitable. He proved to be as mistaken as a prophet as President Wilson was when he said that we were fighting in the war to make the world safe for democracy; for three of the largest nations engaged have since repudiated popular government altogether, two of them on the side of the victors, and one of the vanquished."
 > 
@@ -60,11 +62,11 @@ Fascism and totalitarianism spread across the world
 *A British Economist*
 Develops Keynesian Theory:
 
-## Keynesian Theory (1936)
+### Keynesian Theory (1936)
 
 - The government can stabilize economies in crisis by increasing demand
 	- Capitalist free-markets have no self-balancing mechanisms
-- In times of economic crisis when demand collapses, the government should increase spending (to increase demand) [Deficit Spending]
+- In times of economic crisis when demand collapses, **the government should increase spending (to increase demand)** [Deficit Spending]
 	- Spending should be focused on labor intensive projects - especially infrastructure
 - When the demand side of the economy becomes to strong, governments should lower spending and raise taxes to prevent inflation
 
@@ -83,7 +85,7 @@ Develops Keynesian Theory:
 *An Austrian economist*
 Opposes Keynes
 
-## Hayekian Theory (1940)
+### Hayekian Theory (1940)
 
 - Free market capitalism is not a perfect solution - but is the best solution
 - Government intervention into the economy leads to authoritarianism (even if it's unintentional)
@@ -142,7 +144,7 @@ Stops people from withdrawing money from banks
 
 ### Emergency Banking Act (1933)
 
-Creates a ==Federal Deposit Insurance Corporation==
+Creates a ==Federal Deposit Insurance Corporation (FDIC)==
 - Places restrictions against banks practicing both commercial and investment banking
 	- You can be one or the other, but not both
 
@@ -198,7 +200,7 @@ many of these provisions are reimposed in other pieces of legislation
 
 ==The end of the first 100 days==
 
-- [ ] Review slides for missing information in this header
+- [x] Review slides for missing information in this header ✅ 2023-03-21
 
 ---
 
@@ -210,7 +212,12 @@ many of these provisions are reimposed in other pieces of legislation
 
 *Ubiquitous works*
 
-- [ ] Update missing info from WPA
+Hires unemployed people for public works projects
+- Employs 8.5 million people
+- Schools, highways, bridges, parks 
+- Sponsors artists, musicians, theater pieces
+
+*Some works include:*
 
 #### Hoover Dam (1935)
 
@@ -258,7 +265,7 @@ Southern congresspeople secure the exclusion of most agricultural workers and do
 - Outweigh Conservative justices
 	- Protecting New Deal policies
 
-*Congress rejects the Judicial Procedures Reform Bill of 1937*
+***Congress rejects the Judicial Procedures Reform Bill of 1937***
 
 Justices narrowly start to support New Deal legislation (intimidated)
 (including the Social Security Act)
