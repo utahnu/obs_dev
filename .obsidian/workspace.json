@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "508ff30aa302a4d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fda263aed2510e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "a8a05887f05741d2"
-          }
-        ]
-      },
-      {
         "id": "84cb81712fae50d2",
         "type": "tabs",
         "children": [
@@ -34,12 +14,32 @@
               "type": "markdown",
               "state": {
                 "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "f53e73bf45c3b364"
+          }
+        ]
+      },
+      {
+        "id": "e467cb25d2555349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66441e110009b22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "a8a05887f05741d2"
+            "group": "f53e73bf45c3b364"
           }
         ]
       }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NATO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,18 +185,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda263aed2510e45",
+  "active": "66441e110009b22a",
   "lastOpenFiles": [
     "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+    "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+    "cs235/17 AVL Trees.md",
+    "cs180/12 Intro to scikit-learn.md",
+    "cs180/11 K-Nearest Neighbor.md",
+    "cs180/03 NumPy.md",
+    "cs180/02 Reading & Writing Data in Python.md",
+    "hist221/05 The 1920s and the Great Depression.md",
+    "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
+    "10 The 1960s and 1970s.md",
+    "_daily_notes/2023-03-23.md",
+    "cs180/10 Clustering.md",
+    "cs180/09 Intro to Machine Learning.md",
+    "_images/Pasted image 20230323093929.png",
     "hist221/07-00 Timeline for World War II.md",
     "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/02-00 Timeline for The Gilded Age.md",
     "hist221/06 The New Deal and the 1930s.md",
     "hist221/04-00 Timeline for World War I.md",
     "_daily_notes/2023-03-21.md",
-    "hist221/09 Civil Rights and Womens' Liberation Movements.md",
-    "hist221/05 The 1920s and the Great Depression.md",
-    "cs235/17 AVL Trees.md",
     "_drawings/drawing_2023-03-21_1.md",
     "_drawings/drawing_2023-03-21_0.md",
     "_drawings/drawing_2023-03-21.md",
@@ -205,17 +215,8 @@
     "cs235/02 Pointers and Arrays.md",
     "cs235/16 Trees.md",
     "_images/Pasted image 20230321141720.png",
-    "cs235/15 Merge Sort and Quick Sort.md",
     "_images",
     "_images/Pasted image 20230316142034.png",
-    "cs180/10 Clustering.md",
-    "cs235/13 Recursion.md",
-    "cs235/14 Sorting.md",
-    "hist221/02 The Gilded Age.md",
-    "cs180/09 Intro to Machine Learning.md",
-    "cs180/04 Intro to Pandas.md",
-    "cs180/03 NumPy.md",
-    "cs235/12 Sets and Maps.md",
     "hist221/XX-XX",
     "hist221/XX-XX/01-0X",
     "hist221/XX-XX/02-0X",

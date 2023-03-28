@@ -232,7 +232,7 @@ The US declares Republic of China as legitimate, places nuclear weapons in Taiwa
 
 ## Treaty Organizations
 
-### The North American Treaty Organization (NATO) (1949)
+### The North Atlantic Treaty Organization (NATO) (1949)
 
 *An institution of the Cold War and the Liberal World Order*
 

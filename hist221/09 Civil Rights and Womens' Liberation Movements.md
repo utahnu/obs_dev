@@ -92,7 +92,7 @@ Restaurants across the South are forced to start desegregating
 
 ### Student Nonviolent Coordinating Committee (SNCC)
 
-founded in 1960 by students in North Caroline
+founded in 1960 by students in North Carolina
 
 ---
 
@@ -490,3 +490,338 @@ Roe v. Wade is overturned in 2022
 
 ### 1981 - Sandra Day O'Connor becomes the first woman appointed to US Supreme Court
 ### 2016 - Hillary Clinton becomes the first female candidate for President in 2016 for a major party
+
+---
+---
+
+# Outcomes of the Women's Liberation Movement
+
+- Constitutional protection of abortion
+- Legal protections against sex discrimination in education & employment
+- Increased cultural acceptance of female independence
+- Increased awareness of female safety issues (eg rape, sexual violence)
+- Increased debate on gender stereotypes in society
+
+### The Civil Rights and the Women's Liberation Movement are both parts of massive social unrest in America
+
+- Traditional ideas of American values and culture are challenged
+- Both movements support anti-Vietnam War protests
+- Political violence and polarization are at their highest since the Civil War
+
+---
+---
+
+# Kennedy and Civil Rights
+
+*John F. Kennedy supports Black American civil rights, but does not prioritize them*
+*He believes civil rights must progress slowly, better fought in congress*
+- Kennedy works closely with MLK, nominates a record number of Black Americans to his administrations
+- Oversees the passage of the 24th Amendment (poll tax)
+- Deploys troops to the South to protect demonstrators
+- 1963 - Declares opposition to segregation, pushes Civil Rights Act of 1964
+- 1963 - Equal Pay Act
+
+## Vietnam
+
+*During WWII, the USSR had supported communist opposition in Vietnam*
+*Following WWII, France tried to retake French Indochina with violence & repression*
+
+- 1964 - A communist uprising led by Ho Chi Minh resists French control
+- 1950 - The US funds French efforts to control Vietnam and Indochina, Eisenhower refuses to deploy US troops
+- 1954 - French forces in Indochina surrender, France grants French Indochina independence
+
+### The Geneva Conference (1954)
+
+USA, UK, USSR, People's Republic of China, North Korea, South Korea, Vietnam, Laos, Cambodia
+*Meant to decide how to form the countries of ==French Indochina==*
+
+- The President of South Vietnam, Ngo Dinh Diem, takes over, creates an anti-communist dictatorship
+- North Vietnam creates and sponsors the Viet Cong; a communist group of revolutionaries
+- 1963 - Kennedy increases the number of military advisors to 16k
+- 1963 - South Vietnam Coup (Diem is overthrown and executed)
+- The CIA increases efforts to infiltrate the Viet Cong
+
+---
+
+## The Assassination of John F. Kennedy (November 1963)
+
+*Kennedy makes a political visit to Dallas, Texas*
+
+While driving down the street, three shots are fired:
+One misses, one hits his neck, the other hits his head
+Rushed to the hospital, pronounced dead
+
+### Lee Harvey Oswald
+
+- A former Marine
+- Had adopted communism, moved to the Soviet Union in 1960
+- Oswald flees, kills a police officer
+- Hides in a movie theater, then caught and arrested
+- After 2 days of interrogation, Oswald is shot by Jack Ruby
+
+#### Conspiracy theories
+
+- Omnipotent but incompetent test:
+	- People want a more satisfying answer than reality
+	- No one messed up in a massive human group
+	- Good enough to fool the world, but not enough for a dude in a basement
+- Disproven theories:
+	- Second bullet?
+	- Magic bullet?
+- Alternative conspiracies:
+	- Government conspiracy, CIA
+	- Communist conspiracy, Oswald
+	- Mob conspiracy, hired kill
+
+### Warren Commission (1963-1964)
+
+*Led by Chief Justice Earl Warren*
+
+A massive investigation of Kennedy's assassination
+552 witnesses
+Both Oswald and Ruby acted alone out of personal reasons
+
+#### 1976 House Commission
+
+Likely a second unidentified shooter (disproven)
+
+### Lyndon B. Johnson sworn in immediately to avoid chaos
+
+- Kennedy's population reaches an all-time high
+- Kennedy's funeral becomes a unifying moment
+
+
+---
+---
+
+# Lyndon B. Johnson's Presidency
+
+## July 1964 - The Civil Rights Act is signed
+
+## The Election of 1964
+
+- LBJ campaigns on finishing what Kennedy started
+
+---
+
+## Johnson's Great Society, the War on Poverty
+
+*American society needs to be reformed to make prosperity accessible*
+*Johnson had grown up in poverty*
+
+### Housing Reform
+
+*Multiple pieces of legislation*
+
+- Increases federal funding for housing loans to the elderly, veterans, first-time home buyers, more
+- Increases federal funding to major cities to improve their infrastructure, build affordable housing
+
+### Tax Reform
+
+- Tax cuts for working class and middle class Americans
+
+### The Economic Opportunity Act of 1964 
+
+*==federal job training programs==*
+
+- Education and retraining for unemployed individuals
+- Basic education programs for illegible adults
+- Volunteer programs for community improvement
+
+### The Civil Rights Act of 1964
+
+*Legal ==prohibition of segregation==*
+
+==**After Re-election:**==
+
+### Voting Rights Act of 1965
+
+*Federal enforcement of 14th and 15th amendment*
+
+### Social Security Amendments of 1965
+
+- Creates Medicare for senior citizens
+- Creates Medicaid, under discretion of states
+
+### Higher Education Act of 1965
+
+- Dramatically increases federal funding for university scholarships and grants
+- Creates the federal student loan program
+
+### Fair Housing Act of 1968
+
+*Passed just after MLK's assassination*
+
+- Meant to overcome racial b arriers for low-income Americans
+
+
+#### ==Poverty Rate in America falls from 20% to 12% from 1964 to 1974==
+
+---
+
+## Johnson in Vietnam
+
+### The Gulf of Tonkin Incident (August 1964)
+
+*A US navy ship in the Gulf of Tonkin is attacked by North Vietnamese patrol boats*
+
+- The US claims 2 attacks, only 1 was made
+- Johnson requests force
+
+#### The Gulf of Tonkin Resolution (1964)
+
+- Johnson is given power to use the military in Vietnam
+
+### Operation Rolling Thunder (1964-1973)
+
+*Carpet bombing campaign by the US Air Force*
+
+- Hits North Vietnam, Laos, Cambodia
+	- Destructive, many casualties
+	- North Vietnam uses as proof of American opression
+
+#### Agent Orange
+
+*A Herbicide chemical, destroys jungles and kills vegetation*
+
+- Nearly 5 million acres of Vietnamese jungle are destroyed
+
+#### Napalm
+
+*Gaseous Fuel that burns when exposed to oxygen*
+
+- Effective at burning those hiding in jungles/caves
+- Civilian populations suspected of hiding Viet COng are targeted
+- 352k tons dropped on Vietnam
+
+### March 1965 - US troops arrive in South Vietnam
+
+- Starts at 82k, 3 million have served by the end of the war
+
+**==US strategy focuses on inflicting casualties==, not taking territory**
+
+- Flame throwers, napalm, mines
+	- Viet Cong suffer massive casualties
+		- Wait for US to leave, the retake afterwards
+	- USSR, China, North Vietnam supply the Viet Cong via the Ho Chi Ming Trail in Cambodia
+
+### Helicopter fighting
+
+- Viet Cong forces are identified, troops helicoptered in
+- Soldiers fighting constantly
+	- Constant threat of ambush
+- Soldiers had an average of 240 days of active combat per year
+- PTSD, mental breakdowns
+
++ Additionally, about 5k civilians killed, thousands raped
+
+### The Tet Offensive (Jaunary 1968)
+
+*North Vietnamese and Viet Cong launch a large-scale offensive against hundreds of targets*
+
+- US and South Vietnamese are caught off guard and pushed back
+- US regroup and retake all positions
+	- with heavy casualties
+	- approximately 2k American soldiers are killed, no closer to winning
+- A military request for 200k more soldiers is leaked to the public
+
+## 1968 - Johnson promises not to run for reelection
+
+## The Election of 1968
+
+- Leading candidate for Democratic party is ==Robert Kennedy==
+	- June 1968 - R. Kennedy is shot and killed at a campaign event
+		- Kennedy (1964), Malcolm X (1965), King (1968), Kennedy (1968)
+- Democrats nominate Hubert Humphrey
+- Republicans nominate Richard Nixon (again)
+	- Nixon directs his campaign to sabotage peace talks in Vietnam, to keep population angry
+		- Johnson Administration suspects foul play, does not want to create more instability
+
+---
+---
+
+# Richard Nixon's Presidency
+
+## Anti-War Movement, Counterculture
+
++ Social unrest
++ polarization, violence
+
+- 1969 - The US starts using a draft to reinforce the Army
+	- 2 million soldiers drafted
+
++ Soldiers throw medals away
++ Mass protests at universities
++ Kent State Massacre (May 1970)
+	+ 4 students killed when National Guard puts down an anti-war protest
+
+### The Counterculture Movement
+
+*==Hippies==*
+
+- A small, but visible movement among young white teenagers/young adults
+- anti-authority, anti-war, anti-religion
+- pro-free-sex, pro-drug-experimentation
+
+United by rock & roll with Jimi Hendrix and the Beatles
+
+#### The Woodstock Festival (August 1969)
+
+*A Nationally visible hippie event*
+
+- 3-day long outdoor music festival
+- 400k attendees
+- drugs, free love, nudity
+- Hendrix is the headline act
+
++ Lasting legacy:
+	+ Anti-authority activism
+	+ Normalization of drug use
+	+ Rock & Roll culture changed
+	+ Environmentalism
+
+---
+
+## Domestic Policy
+
+- Cuts government spending on welfare, abolishes many Great Society programs
+- ==Takes the US monetary system off the Gold Standard (1971)==
+- Environmentalism becomes popular
+	- **The National Environmental Policy Act of 1969**
+- 1970 - Nixon creates the **Environmental Protection Agency**
+- **Clean Air Act of 1970**
+
+## Foreign Policy (Vietnam)
+
+### Vietnamization
+
+*It's time for South Vietnam to defend itself*
+
+- US slowly removes troops, focuses on training and supplying Vietnam
+
+### The Madman Strategy (1969)
+
+*Nixon attempts to force the Soviet Union to push North Vietnam to back down*
+
+- Tries to convince Soviet leadership that he is a psycho
+- In October, the US Armed Forces make all preparations to launch a full-scale nuclear attack
+	- Soviet forces don't respond, the ==USSR had never detected it==
+
+### Operation Menu (1969-1970)
+
+*Nixon authorizes a large-scale bombing campaign of Cambodia*
+
+- Violation of international law
+- US bombing is intense, fails
+
+### The Pentagon Papers (1971)
+
+- Leaked to the New York Times
+- Authorities have been lying of how poorly the war is actually going
+
+**Nixon focuses on Peace agreements**
+
+### Operation Linebacker II (December 1972)
+
+- Carpet-bombing against North Vietnam industrial centers, Hanoi
+- Nixon forces agreement through this bombing campaign
