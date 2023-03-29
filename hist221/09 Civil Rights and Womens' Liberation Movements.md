@@ -12,8 +12,10 @@ The Civil Rights Movement had begun with WWII, shifting attitudes towards race/d
 
 - The 1941 March on Washington 
 - Executive Order 8802 (June 1941)
+	- Desegregate the Federal Government
 - The Double V Victory Campaign
 - *Smith v. Allwright (1914)*
+	- All-white primaries
 - Desegregation of the Federal Government (1948)
 - WWII and the Korean War increase exposition
 - Blacks Americans build a case from fighting in war
@@ -249,11 +251,11 @@ Prohibits discrimination concerning the sale, rental, and financing of housing b
 The Nation of Islam encourages Black Americans to honor their African roots
 Encourages separation and discourages cooperation interraically
 
-> "We are Africans, and we happen to be in America. We are not Americans. We are a people who formerly were Africans who were kidnapped and brought to America. Our forefathers weren't the Pilgrims. We didn't land on Plymouth Rock; the rock was landed on us. We were brought here against our will"
+> “We are Africans, and we happen to be in America. We are not Americans. We are a people who formerly were Africans who were kidnapped and brought to America. Our forefathers weren't the Pilgrims. We didn't land on Plymouth Rock; the rock was landed on us. We were brought here against our will; we were not brought here to be made citizens. We were not brought here to enjoy the constitutional gifts that they speak so beautifully about today.”
 > 
 > \- Malcolm X - 1964 Speech
 
-- [ ] Finish Malcolm X's quote
+- [x] Finish Malcolm X's quote
 
 - Malcolm X breaks with the Nation of Islam, believes they will not go far enough
 - 1965 - Assassinated by members of the Nation of Islam
@@ -339,13 +341,14 @@ Why hasn't economic progress and prosperity brought happiness to women?
 
 *Organizes movements and protests across the country*
 
-> "The problem lay buried, unspoken, for many years in the minds of American women. It was a strange stirring, a sense of dissatisfaction, a yearning that woemn suffered in the middle of the twentieth"
+> “The problem lay buried, unspoken, for many years in the minds of American women. It was a strange stirring, a sense of dissatisfaction, a yearning that women suffered in the middle of the twentieth century in the United States. Each suburban wife struggled with it alone. As she made the beds, shopped for groceries, matched slipcover material, ate peanut butter sandwiches with her children, chauffeured Cub Scouts and Brownies, lay beside her husband at night—she was afraid to ask even of herself the silent question—Is this all?”
 
-> "If the women had a problem in the 1950's and 1960's, she know that something must be wrong with her marriage, or with herself. Other women were satisfied  with their lives, she thought. What kind of a woman was she i fshe did not feel this mysterious fulfillment waxing the kitchen floor?"
+
+> “If the woman had a problem in the 1950's and 1960's, she knew that something must be wrong with her marriage, or with herself. Other women were satisfied with their lives, she thought. What kind of a woman was she if she did not feel this mysterious fulfillment waxing the kitchen floor? She was so ashamed to admit her dissatisfaction that she never knew how many other women shared it. . . It is no longer possible to ignore that voice, to dismiss the desperation of so many American women. This is not what being a woman means, no matter what the experts say. . . If I am right, the problem that has no name stirring in the minds of so many American women today is not a matter of loss of femininity or too much education, or the demands of domesticity. It is far more important than anyone recognizes. . . We can no longer ignore that voice within women that says: "I want something more than my husband and my children and my home.”
 > 
 > \- Betty Friedan - *The Feminine Mystique* (1963)
 
-- [ ] Complete Betty Friedan's Quotes (2)
+- [x] Complete Betty Friedan's Quotes (2)
 
 ---
 

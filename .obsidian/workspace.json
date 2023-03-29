@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84cb81712fae50d2",
+        "id": "d355ec14d183c0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "c1dfa92606d87912",
+            "id": "53dccb2ad7542fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,16 @@
                 "source": true
               }
             },
-            "group": "f53e73bf45c3b364"
+            "group": "60c2f383e68dd319"
           }
         ]
       },
       {
-        "id": "e467cb25d2555349",
+        "id": "a7722e638f0c795d",
         "type": "tabs",
         "children": [
           {
-            "id": "66441e110009b22a",
+            "id": "3a8b65616fa4ad2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +39,7 @@
                 "source": true
               }
             },
-            "group": "f53e73bf45c3b364"
+            "group": "60c2f383e68dd319"
           }
         ]
       }
@@ -185,35 +185,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66441e110009b22a",
+  "active": "53dccb2ad7542fc8",
   "lastOpenFiles": [
-    "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+    "09-00 Timeline for Civil Rights and Women's Liberation Movements.md",
     "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+    "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
+    "hist221/07 World War II and the Emergence of American Dominance.md",
+    "hist221/07-00 Timeline for World War II.md",
+    "hist221/06-00 Timeline for The New Deal and the 1930s.md",
+    "hist221/06 The New Deal and the 1930s.md",
+    "_daily_notes/2023-03-29.md",
+    "hist221/05 The 1920s and the Great Depression.md",
     "cs235/17 AVL Trees.md",
     "cs180/12 Intro to scikit-learn.md",
     "cs180/11 K-Nearest Neighbor.md",
     "cs180/03 NumPy.md",
     "cs180/02 Reading & Writing Data in Python.md",
-    "hist221/05 The 1920s and the Great Depression.md",
     "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
-    "10 The 1960s and 1970s.md",
+    "hist221/10 The 1960s and 1970s.md",
     "_daily_notes/2023-03-23.md",
     "cs180/10 Clustering.md",
     "cs180/09 Intro to Machine Learning.md",
     "_images/Pasted image 20230323093929.png",
-    "hist221/07-00 Timeline for World War II.md",
-    "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/02-00 Timeline for The Gilded Age.md",
-    "hist221/06 The New Deal and the 1930s.md",
     "hist221/04-00 Timeline for World War I.md",
     "_daily_notes/2023-03-21.md",
     "_drawings/drawing_2023-03-21_1.md",
     "_drawings/drawing_2023-03-21_0.md",
     "_drawings/drawing_2023-03-21.md",
     "cs235/10 Big O.md",
-    "cs235/03 Classes.md",
-    "cs235/02 Pointers and Arrays.md",
-    "cs235/16 Trees.md",
     "_images/Pasted image 20230321141720.png",
     "_images",
     "_images/Pasted image 20230316142034.png",

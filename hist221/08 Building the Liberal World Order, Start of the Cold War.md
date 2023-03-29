@@ -174,7 +174,7 @@ Economic and political stability are the best forms of defense
 
 ## Truman Doctrine (1947)
 
-The United States will provide financial and military support to any democracy in the world that is threatened by Soviet aggression
+==The United States will provide financial and military support to any democracy in the world that is threatened by Soviet aggression==
 
 ## The Marshall Plan (1948)
 
@@ -205,7 +205,7 @@ Also engages in repression of local populations
 
 ---
 
-## The Chinese Civil War (19297-1949)
+## The Chinese Civil War (1927-1949)
 
 *Fighting continues after WWII*
 
@@ -283,7 +283,7 @@ The US avoids military development in Europe to prevent European conflicts
 
 # The Korean War
 
-*The first "hot" conflict of the Cold War*
+*==The first "hot" conflict of the Cold War==*
 *The first US war of "global maintenance"*
 
 Following WWII, the Soviet Union and USA divide Korea into North and South zones of control
@@ -391,10 +391,10 @@ Claims that government is full of communists, spreads conspiracy
 Drives national paranoia and fear
 
 - 1947 - Federal Government institutes loyalty screenings
-- 1951-1955 - FBI director J. Edgar Hoover oversees Responsibilities Program
+- 1951-1955 - FBI director **J. Edgar Hoover** oversees Responsibilities Program
 	- Illegally conducts espionage and surveillance
 - House Committee on Un-American Activities holds public hearings of Americans accusing communism
-	- Targets Hollywood celebrities - Hollywood blacklist
+	- Targets Hollywood celebrities - **Hollywood blacklist**
 - In Senate: McCarthy leads committee investigations of the CIA and Army
 	- Forces the State Department and some public libraries to destroy books
 	- Left-wing Americans are persecuted
@@ -420,10 +420,7 @@ Investigations of McCarthy's accusations prove fallacies and conspiracies
 
 *Soldiers return home and start families with economic security*
 
-**76 million babies are born**
-
-population in 1940: 132 million
-Suburbanizationpopulation in 1970: 203 million
+==**76 million babies are born**==
 
 | year | population  |
 | ---- | ----------- |
@@ -462,9 +459,11 @@ Provides $114 billion (560 billion in today's) of federal funding for a national
 
 ### American Television Culture
 
-- 1950: 9% of households have a TV
-- 1959: 86% of households have a TV
-- ++consumer & advertiser culture
+| 1950                       | 1959                        |
+| -------------------------- | --------------------------- |
+| ==9%== of households have a TV | ==86%== of households have a TV | 
+
+**++ consumer & advertiser culture**
 
 ### Rock and Roll music is nationally popular
 
@@ -486,7 +485,7 @@ NFL, NBA, MLB televised games
 
 MLB commissioner Happy Chandler believes the country can no longer discriminate after their WWII services
 
-- Chandler authorizes the Brooklyn Dodgers to sign Jackie Robinson in the Major League
+- Chandler authorizes the Brooklyn Dodgers to sign ==Jackie Robinson== in the Major League
 	- The first Black American to play in Major League Baseball in 1947
 
 ---
@@ -503,7 +502,7 @@ In 1956, a mas movement demanding independence and self-determination ensues
 - Soviet Union sends back an army and restores the comm
 	- 13k Hungarians killed
 	- 22k Hungarians imprisoned in Gulag political prisoner system
-- Soviet Union loses support as a democracy
+- ==Soviet Union loses support as a democracy==
 
 ---
 
@@ -512,8 +511,8 @@ In 1956, a mas movement demanding independence and self-determination ensues
 *Following WWII, the UK with US and UN support ==establishes the state of Israel== in the Middle East as a homeland for displaced Jews*
 Arab powers are furious, losing their holy land
 
-- 1952 - Military coup establishes an independent Egyptian Republic under President Gamal Abdul Nasser
-	- The Egyptian government demands the UK relinquishes control of the Suez Canal
+- 1952 - Military coup establishes an independent ==Egyptian Republic under President Gamal Abdul Nasser==
+	- The Egyptian government ==demands the UK relinquishes control of the Suez Canal==
 - UK does not want to lose control, and have trade routes controlled by someone not pro-West, anti-Israel
 - Nasser turns to Soviet Union's Kruschev 
 - 1956 - US refuses to fund the Aswan Dam project after Nasser recognizes the People's Republic of China
@@ -521,11 +520,11 @@ Arab powers are furious, losing their holy land
 - July 1956 - Nasser nationalizes the Suez Canal - British out of control
 	- UK demands that US force Egypt to return the canal
 		- US refuses under Eisenhower
-	- Britain, France, and Israel reach a  secret agreement to retake the canal
+	- ==Britain, France, and Israel reach a  secret agreement to retake the canal==
 - October 1956 - Israel launches an invasion of Egypt with funding and weapons from the UK and France
 	- UK and France seize control of the Suez Canal for "national security"
 	- USSR demands the allies leave Egypt or they will launch nuclear attack on Western Europe
-- The United States condemns the Soviet Union, and also UK, France, Israel
+- ==The United States condemns the Soviet Union, and also UK, France, Israel==
 	- US promises economic sanctions against three countries if they don't withdraw
 		- UN dispatches a peacekeeping force to the region
 		- The Eisenhower Administration scorns the of the three countries for recklessness
@@ -539,7 +538,7 @@ Arab powers are furious, losing their holy land
 
 - Duty of Global Leadership
 - Must Defeat Soviet Union
-- Beware of the evil Military-Industrial Complex
+- Beware of the evil **Military-Industrial Complex**
 
 > "We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence, we yet realize that American's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on ==how we use our power int he interests of world peace and human betterment.=="
 

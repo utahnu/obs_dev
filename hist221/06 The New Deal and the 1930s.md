@@ -23,7 +23,7 @@ The end of World War I had seen a global increase in liberal democracy:
 
 ## The Global Great Depression initiates a worldwide ==decline== in democracy
 
-By 1943, 23% of countries are democracies (13 countries)
+==By 1943, 23% of countries are democracies (13 countries)==
 
 **Fascism and totalitarianism spread across the world**
 
@@ -51,7 +51,7 @@ By 1943, 23% of countries are democracies (13 countries)
 - Democracies across the world are falling apart
 - It is possible (though unlikely) that **Franklin D. Roosevelt will emerge as first dictator** of the United States
 
-> "When President Harding told the country to return to normalcy he was urging what did not - as we now see could not - take place; for human nature being as it is, speculation and inflated prices followed by a collapse were almost inevitable. He proved to be as mistaken as a prophet as President Wilson was when he said that we were fighting in the war to make the world safe for democracy; for three of the largest nations engaged have since repudiated popular government altogether, two of them on the side of the victors, and one of the vanquished."
+> "When President Harding told the country to return to normalcy he was urging what did not - as we now see could not - take place; for human nature being as it is, ==speculation and inflated prices followed by a collapse were almost inevitable.== He proved to be as mistaken as a prophet as President Wilson was when he said that we were fighting in the war to make the world safe for democracy; for three of the largest nations engaged have since repudiated popular government altogether, two of them on the side of the victors, and one of the vanquished."
 > 
 > \- Lawrence Lowell - *Foreign Affairs*
 
@@ -98,7 +98,7 @@ Opposes Keynes
 
 **Dominant in the 1980s**
 
-> "The recognition of the insuperable limits to his knowledge ought indeed to teach the student of society a lesson in humility which should guard him against becoming an accomplice in men's fatal striving to control society - a striving which makes him not only a tyrant over his fellows, but which may well make him the destroyer of a civilization which no brain has designed but which has grown from the free efforts of millions of individuals."
+> "The recognition of the insuperable limits to his knowledge ought indeed to teach the student of society a lesson in humility which should guard him against becoming an accomplice in men's fatal striving to control society - ==a striving which makes him not only a tyrant over his fellows, but which may well make him the destroyer of a civilization which no brain has designed but which has grown from the free efforts of millions of individuals."==
 > 
 > \-Friedrich August von Hayek - *The Pretence of Knowledge* (1974)
 
@@ -127,7 +127,7 @@ Opposes Keynes
 **Roosevelt wins 472 to 59**
 *The Father of the modern Democratic Party*
 
-> "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself - nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance ... I am convinced that you will again give that support to leadership in these critical days ... I shall ask the Congress for the one remaining instrument to meet the crisis - bread Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded  by a foreign foe."
+> "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself - nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance ... I am convinced that you will again give that support to leadership in these critical days ... ==I shall ask the Congress for the one remaining instrument to meet the crisis - broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded  by a foreign foe."==
 > 
 > \- Franklin D. Roosevelt - 1932 Inaugural address
 
@@ -160,7 +160,7 @@ Creates a ==Federal Deposit Insurance Corporation (FDIC)==
 
 ### The 21st Amendment (1933)
 
-==Repeals the 18th Amendment and Prohibition==
+==Repeals the 18th Amendment and **Prohibition**==
 
 - Ends unpopular policy
 - Ends bootlegging
@@ -174,7 +174,14 @@ Creates a ==Federal Deposit Insurance Corporation (FDIC)==
 
 Creates a major new source of electric power in the underdeveloped South
 
-### Agricultural Adjustment Act (1933)
+### Civilian Conservation Corps (CCC) (1933)
+
+- Set unemployed young men to work on nature projects including:
+	- Forest preservation
+	- Flood control
+	- National Parks and wildlife preserves
+
+### Agricultural Adjustment Act (AAA) (1933)
 
 - Government buys and slaughters excess cattle
 - Government pays farmers to not farm parts of their fields (subsidies)
@@ -188,15 +195,19 @@ Creates a major new source of electric power in the underdeveloped South
 - Rights to unionize
 	- Workers cannot be fired for joining/not joining a union
 
+#### Creates the National Recovery Administration (NRA)
+
 Declared unconstitutional in 1935 and repealed,
 many of these provisions are reimposed in other pieces of legislation 
 
 ### Homeowners Refinancing Act (1933)
 
-- Creates the **Homeowners Loan Corporation**
+- Creates the ==**Homeowners Loan Corporation**==
 - Provides low-interest loans to families 
 	- Helps those who are in danger of losing their homes
 - about 20% of homes in the country have one of these loans
+
+#### Creates the Federal Housing Administration (FHA)
 
 ==The end of the first 100 days==
 

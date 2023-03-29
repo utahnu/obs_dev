@@ -194,7 +194,7 @@ After 1933, Hitler removes many of the provisions of the Treaty of Versailles
 	- Air superiority is necessary to  destroy the Royal Navy, to cross the English Channel
 - Prime Minister Winston Churchill (1874-1965) pleads with US for support/war material
 	- Roosevelt declines because of US public opinion
-- The British Royal Air Force secures a miraculous victory
+- ==The British Royal Air Force secures a miraculous victory==
 	- Germany suffers its first major loss of the war
 	- An invasion of the UK becomes unfeasible
 
@@ -269,7 +269,7 @@ Franklin D. Roosevelt's ==vision of the post-war world==
 #### The Atlantic Conference and Charter (August 1941)
 
 *Roosevelt and Churchill meet in Canada*
-Lay out 8 goals for a post-war world
+==Lay out 8 goals for a post-war world==
 
 - The United States and UK would seek no territorial gains
 - Territorial changes must be in accord with wishes of the people concerned
@@ -279,7 +279,7 @@ Lay out 8 goals for a post-war world
 - Freedom from want and fear
 - Freedom of the seas
 - Disarmament of all nations (particularly aggressor nations)
-- Form the United Nations
+- Form the ==United Nations==
 
 A World Order where *economic power* is global power - **empower the United States**
 
@@ -290,9 +290,9 @@ A World Order where *economic power* is global power - **empower the United Stat
 *Japanese Navy is one of the most successful in the world*
 
 - Surprise attack to knock US off balance
-- Rapid overwhelming force to destroy US ability to wage war in the Pacific
+- ==Rapid overwhelming force== to destroy US ability to wage war in the Pacific
 	- Break will of Americans to fight
-	- In 6 months
+	- In ==6 months==
 
 ### November 1941 - A Japanese fleet secretly slips out to sea
 
@@ -419,6 +419,8 @@ Women emerge with more culturally acceptable independence
 
 *Black Americans point to their contributions to the US and the current pro-democracy stance as evidence of a need for real equal rights*
 
+**Double V Campaign**
+
 ### The 1941 March on Washington
 
 Organized by A. Philip Randolph (1889-1979)
@@ -433,7 +435,7 @@ Organized by A. Philip Randolph (1889-1979)
 
 *Bans racial discrimination in employment related to national defense*
 
-- Creates the Fair Employment Practices Commission to investigate and expose discrimination
+- Creates the ==Fair Employment Practices Commission== to investigate and expose discrimination
 	- First federal agency to enforce equal rights since Reconstruction
 - 1 million Black Americans get manufacturing jobs during war
 - National War Board prohibits racial differences in pay
@@ -448,7 +450,7 @@ No end comes to segregation or anti-lynching
 	- Victory over the Axis abroad
 	- Victory over segregation at home
 - ***Smith v. Allwright*** (1944)
-	- Supreme Court rules that all white primaries violate the 14th and 15th amendments
+	- Supreme Court rules that ==all white primaries violate the 14th and 15th amendments==
 - Slowly, the idea of white supremacy falls out of mainstream
 
 Latinos, Native Americans, and other minority groups serve in the US military in large numbers
@@ -457,7 +459,7 @@ Latinos, Native Americans, and other minority groups serve in the US military in
 
 ## Office of War Information (1942)
 
-The US Propaganda department
+The US ==Propaganda== department
 
 - Encourages people to support war, buy bonds
 - Encourages people to cut back on consumption, ration
@@ -520,7 +522,7 @@ Roosevelt wins easily
 
 ## The First Battle of the Philippines (December 1941-May 1942)
 
-The day after the attack on Pearl Harbor
+==The day after the attack on Pearl Harbor==
 
 - Japanese launch an invasion before US forces can prepare
 - The colony is defended by a combination of US and Filipino forces
@@ -621,6 +623,18 @@ The last operating naval base capable of servicing the US Pacific Fleet
 	- Brazil becomes the center of US logistical operation in Africa and Europe
 
 ### August 1942 - Brazil declares war on Italy and Germany
+
+### Bracero Program
+
+*Tens of thousands of contract workers come from Mexico to take up jobs as domestic & agricultural workers*
+
+- Ethnic enclaves of workers form
+- "Chicano" fusion culture forms
+- More interethnic marriages
+
+### Zoot-suit Riots (1943)
+
+*Sailors and policemen attacked Mexican-American youths wearing flamboyant clothing in Los Angeles*
 
 ---
 
@@ -833,7 +847,7 @@ Gas chambers had often been used as the most efficient form of mass murder
 
 ## US and Soviet Union forces engage in a race to Berlin
 
-A rivalry develops between the Soviet Union and the United States
+==A rivalry develops between the Soviet Union and the United States==
 
 ### May 1945 - The Soviet Army captures Berlin
 
@@ -864,7 +878,7 @@ Soviet spies steal details of the project
 
 Oppenheimer and the team have mixed feelings of their creation
 
-> "We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi-armed form and says, 'Now I am become Death, the destroyer of worlds.' I suppose we all thought that, one way or another."
+> "==We knew the world would not be the same.== A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi-armed form and says, 'Now I am become Death, the destroyer of worlds.' I suppose we all thought that, one way or another."
 > 
 > Robert Oppenheimer - Recalling the first nuclear bomb test
 
