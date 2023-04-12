@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d355ec14d183c0ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53dccb2ad7542fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "60c2f383e68dd319"
-          }
-        ]
-      },
-      {
         "id": "a7722e638f0c795d",
         "type": "tabs",
         "children": [
@@ -33,13 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+                "file": "hist221/12 The Rise and Fall of American Hegemony.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "0797586ea33ed43b"
+          }
+        ]
+      },
+      {
+        "id": "d0917d031533238f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371b685f419c6e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hist221/12 The Rise and Fall of American Hegemony.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "60c2f383e68dd319"
+            "group": "0797586ea33ed43b"
           }
         ]
       }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+                "file": "hist221/12 The Rise and Fall of American Hegemony.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+                "file": "hist221/12 The Rise and Fall of American Hegemony.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hist221/09 Civil Rights and Womens' Liberation Movements.md"
+                "file": "hist221/12 The Rise and Fall of American Hegemony.md"
               }
             }
           }
@@ -185,15 +185,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53dccb2ad7542fc8",
+  "active": "3a8b65616fa4ad2f",
   "lastOpenFiles": [
-    "09-00 Timeline for Civil Rights and Women's Liberation Movements.md",
+    "hist221/11 The 1980s and the End of the Cold War.md",
+    "hist221/10 The 1960s and 1970s.md",
+    "_daily_notes/2023-04-11.md",
+    "hist221/12 The Rise and Fall of American Hegemony.md",
+    "hist221/09-00 Timeline for Civil Rights and Women's Liberation Movements.md",
+    "hist221/00 Term Paper.md",
+    "cs235/19 Heaps.md",
+    "cs235/18 Hashing.md",
     "hist221/09 Civil Rights and Womens' Liberation Movements.md",
+    "_daily_notes/2023-04-04.md",
     "hist221/08 Building the Liberal World Order, Start of the Cold War.md",
-    "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/07-00 Timeline for World War II.md",
-    "hist221/06-00 Timeline for The New Deal and the 1930s.md",
+    "hist221/07 World War II and the Emergence of American Dominance.md",
     "hist221/06 The New Deal and the 1930s.md",
+    "hist221/06-00 Timeline for The New Deal and the 1930s.md",
     "_daily_notes/2023-03-29.md",
     "hist221/05 The 1920s and the Great Depression.md",
     "cs235/17 AVL Trees.md",
@@ -202,18 +210,10 @@
     "cs180/03 NumPy.md",
     "cs180/02 Reading & Writing Data in Python.md",
     "hist221/XX-XX/02-0X/02-04 Labor in the Gilded Age.md",
-    "hist221/10 The 1960s and 1970s.md",
     "_daily_notes/2023-03-23.md",
     "cs180/10 Clustering.md",
     "cs180/09 Intro to Machine Learning.md",
     "_images/Pasted image 20230323093929.png",
-    "hist221/02-00 Timeline for The Gilded Age.md",
-    "hist221/04-00 Timeline for World War I.md",
-    "_daily_notes/2023-03-21.md",
-    "_drawings/drawing_2023-03-21_1.md",
-    "_drawings/drawing_2023-03-21_0.md",
-    "_drawings/drawing_2023-03-21.md",
-    "cs235/10 Big O.md",
     "_images/Pasted image 20230321141720.png",
     "_images",
     "_images/Pasted image 20230316142034.png",
