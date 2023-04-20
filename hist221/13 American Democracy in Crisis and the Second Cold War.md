@@ -20,7 +20,7 @@ Daily Note: [[2023-04-18]] -- [*created*:: 2023-04-18] #hist221
 > A party or faction's demonization of the institutions that block, by legislative or judicial means, their agenda
 > Causes citizens to also demonize those institutions
 
-> It means that we obey the current law and use peaceful means to change it. It also means that we peacefully accept the 
+> It means that we obey the current law and use peaceful means to change it. It also means that we peacefully accept the results of elections. We will not participate in the violence threatened by those disappointed with the outcome. In a democratic society, we always have the opportunity and the duty to persist peacefully until the next election...Protesters have no right to destroy, deface, or steal property or to undermine the government’s legitimate police powers. The Constitution and laws contain no invitation to revolution or anarchy.
 > 
 > \- President Dallin H. Oaks - October 2020 General Conference
 
@@ -79,7 +79,8 @@ Trump announces his campaign, declaring illegal immigrants to be the main danger
 - No emphasis on balanced budgets
 - *Divides the party with old school Republicans in the minority, led by Mitt Romney*
 
-> "His is not the temperament of a stable, thoughtful leader. His imagination must not be married to real power...In the past, our residents"
+> His is not the temperament of a stable, thoughtful leader. His imagination must not be married to real power...In the past, our presidents have channeled that anger, and forged it into resolve, into endurance and high purpose, and into the will to defeat the enemies of freedom. Our anger was transformed into energy directed for good. Mr. Trump is directing our anger for less than noble purposes. He creates scapegoats of Muslims and Mexican immigrants, he calls for the use of torture and for killing the innocent children and family members of terrorists. He cheers assaults on protesters. He applauds the prospect of twisting the Constitution to limit first amendment freedom of the press. This is the very brand of anger that has led other nations into the abyss. Here's what I know. Donald Trump is a phony, a fraud. His promises are as worthless as a degree from Trump University. He's playing the American public for suckers: He gets a free rid to the White House and all we get is a lousy hat. His domestic policies would lead to recession. His foreign policies  would make America and the
+world less safe.
 > 
 > \- Mitt Romney - 2016 Speech
 
