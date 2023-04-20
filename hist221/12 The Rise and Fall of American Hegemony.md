@@ -67,11 +67,11 @@ Balances the budget by making cuts and raising taxes
 
 Strong economic growth
 
-> The era of big government is over. But we cannot go back to the time when our citizens were left to fend for themselves.
+> "The era of big government is over. But we cannot go back to the time when our citizens were left to fend for themselves. Instead, we must go forward as one America, one nation working together to meet the challenges we face together. Self-reliance and teamwork are not opposing virtues; we must have both. I believe our new, smaller government must work in an old-fashioned American way, together with all of our citizens through state and local governments, in the workplace, in religious, charitable and civic associations. Our goal must be to enable all our people to make the most of their own lives -- with stronger families, more educational opportunity, economic security, safer streets, a cleaner environment in a safer world."
 > 
 > \- Bill Clinton - 1996 State of the Union Address
 
-- [ ] finish Clinton's state of the union
+- [x] finish Clinton's state of the union
 
 ---
 
@@ -154,7 +154,7 @@ Helps the sides reach the **Good Friday Agreement** in 1998, ending 30 years of 
 - Clinton conditions this support on human rights in Tibet and among Muslim population
 - Clinton believes economic development will destabilize the communist dictatorship
 
-China joins the WTO in 2001
+**China joins the WTO in 2001**
 
 ### NATO Expansion
 
@@ -179,7 +179,7 @@ Yeltsin hopes Russia will eventually join the EU and NATO
 	- Starr expands his investigation to see if the President ordered Lewinsky to lie in a sexual harassment case
 - January 1998: The story is leaked to the press
 	- Clinton swears he never had any relations 
-	- > "But I want to say this one thing to the American people. I want you to listen to me. I'm going to say this again: I did not have sexual relations with that woman, Miss Lewinsky"
+	- > "But I want to say one thing to the American people. I want you to listen to me. I'm going to say this again: I did not have sexual relations with that woman, Miss Lewinsky. I never told anybody to lie, not a single time; never. These allegations are false"
 - July 1998: Lewinsky receives immunity in exchange for her testimony about her relationship with the President
 	- Lewinsky testifies that she had an affair, turns over a semen-covered dress
 - August 1998: Clinton testifies before a grand jury that he had inappropriate relations
@@ -194,7 +194,7 @@ His law license is suspended in Arkansas following an ethics investigation
 He is fined 90k in civil court for misleading testimony
 Gore is hurt in his campaign
 
-- [ ] finish Clinton's Lewinskey Quote
+- [x] finish Clinton's Lewinskey Quote
 
 ---
 
@@ -252,11 +252,11 @@ A very close election
 
 Gore officially concedes to Bush
 
-> Now the U.S. Supreme Court has spoken. Let there be no doubt, while I strongly disagree with the court's decision, I accept it. I accept the finaltiy of this outcome which will be ratified next Monday in the Electoral College.
+> "Now the U.S. Supreme Court has spoken. Let there be no doubt, while I strongly disagree with the court's decision, I accept it. I accept the finality of this outcome which will be ratified next Monday in the Electoral College. And tonight, for the sake of our unity of the people and the strength of our democracy, I offer my concession. . . Some have expressed concern that the unusual nature of this election might hamper the next president in the conduct of his office. I do not believe it need be so. President-elect Bush inherits a nation whose citizens will be ready to assist him in the conduct of his large responsibilities. I personally will be at his disposal, and I call on all Americans--I particularly urge all who stood with us--to unite behind our next president. This is America. Just as we fight hard when the stakes are high, we close ranks and come together when the contest is done."
 > 
 > Al Gore - 2000 Concession Speech
 
-- [ ] finish Al Gore's concession speech
+- [x] finish Al Gore's concession speech ✅ 2023-04-20
 
 ---
 ---
@@ -334,12 +334,12 @@ Creates a ==free trade zone==
 - Towers collapse
 - US Air Force secures all of US airspace
 
-2,977 people are killed (including first responders and bystanders)
+**2,977 people are killed (including first responders and bystanders)**
 
 al-Qaeda celebrates its victory
 Bush promises a strong response
 
-> Today, our fellow citizens, our way of life, our very freedom came under attack in a series of deliberate and deadly terrorist acts. The victims were in 
+> "Today, our fellow citizens, our way of life, our very freedom came under attack in a series of deliberate and deadly terrorist acts. The victims were in airplanes, or in their offices; secretaries, businessmen and women, military and federal workers; moms and dads, friends and neighbors. Thousands of lives were suddenly ended by evil, despicable acts of terror. The pictures of airplanes flying into buildings, fires burning, huge structures collapsing, have filled us with disbelief, terrible sadness, and a quiet, unyielding anger. These acts of mass murder were intended to frighten our nation into chaos and retreat. But they have failed; our country is strong. America was targeted for attack because we're the brightest beacon for freedom and opportunity in the world. And no one will keep that light from shining... We will make no distinction between the terrorists who committed these acts and those who harbor them."
 > 
 > \- George Bush - 9/11 speech
 
@@ -364,3 +364,258 @@ Afghanistan asks Bin laden to leave, but refuse to turn him over
 - NATO countries pledge their support to defeat those responsible for 9/11
 - October 2001: US and NATO forces launch invasion of Afghanistan
 - November 2001: US forces capture the capital, expel Taliban government
+- December 2001: Bin Laden's hideout is captured, he had fled to Pakistan the day before
+- December 2001: The UN invites Taliban opposition groups to form a new Afghan gov
+
+### Insurgency Period (2002-2021)
+
+*The Longest War in US History*
+
+- US forces fight al-Qaeda and Taliban resistance 
+- US government tries to stabilize Afghan government, construct a US-based democracy
+- US military trains the Afghan army to fight insurgents
+- al-Qaeda and the Taliban use guerrilla warfare and terrorist attacks
+- Locals assist insurgents
+
++ Bush claims that creating a democratic Afghanistan will spread democracy in the Middle East
+	+ Afghan government is unpopular
++ Bush says the Afghanistan war is successful, but more enemies for US form
+
+> "Our second goal is to prevent regimes that sponsor terror from threatening America or our friends and allies with weapons of mass destruction. Some of these regimes have been pretty quiet since September 11, but we know their true nature. North Korea is a regime arming with missiles and weapons of mass destruction, while starving its citizens. Iran aggressively pursues these weapons and exports terror, while an unelected few repress the Iranian people's hope for freedom. Iraq continues to flaunt its hostility toward America and to support terror. The Iraqi regime has plotted to develop anthrax and nerve gas and nuclear weapons for over a decade. States like these, and their terrorist allies, constitute an axis of evil, arming to threaten the peace of the world. "
+
+- [x] Finish Bush's 2002 State of the Union Address quote
+	 ✅ 2023-04-20
+- Bush claims to UN and NATO that there is evidence of weapons of mass destruction
+	- UN Security Council resolves demands for weapons inspectors in Iraq
+		- No evidence of nuclear or chemical weapons
+		- Bush Administration maintains that Iraq is hiding weapons and facilities
+- March 2003: Bush tells Hussein he has 48 hours to resign and leave or face invasion
+	- 80% of population and both parties support invasion
+- Iraq is conquered in 3 weeks by US, British, and other forces
+- May 2003: Bush declares operations "Mission Accomplished"
+	- US-controlled gov makes controversial decisions, becomes unpopular
+- December 2003: US forces locate and capture Hussein
+- January 2004: Bush Administration that weapons of mass destruction do not exist
+- US detains prisoners and suspected terrorists outside US territory, tortures to gather intelligence
+	- Guantanamo Bay
+	- Some soldiers are convicted of torture crimes
+	- Terrorist groups torture and mutilate American prisoners
+- 2004: Bush wins reelection
+- 2004-2005: Afghanistan and Iraq try to implement democracy
+- 2005: Public opinion in the US opposes wars in the Middle East
+- 2006: NATO complain of an unending commitment in Afghanistan
+- November-December 2006: Hussein is executed for crimes against humanity by Iraq
+- January 2007: Bush deploys 20k more troops to Iraq to stablize
+
+**By the end of 2007, 4k US soldiers have been killed in combat, 30k wounded**
+
+## The Great Recession (2007-2009)
+
+*Banks give out a huge amount of subprime or risky mortgages*
+
+- Clinton administration had ended regulation preventing investment and commercial banks concurrently
+- Housing market booms
+	- Investment firms buy large amounts of mortgages, with 401k accounts
+- Economic growth slowed significantly in 2007
+	- Wave of foreclosures leaving banks and investment firms with lots of worthless real estate
+- The Stock Market collapse, Americans lose trillions of dollars
+- nearly 9 million jobs lost
+
+### Emergency Economic Stabilization Act of 2008
+
+- Prints 700 billion dollars for the government to buy back bad investments and investment firms
+- Elite Socialism - big businesses are supported by gov
+- increases national debt
+
+### Economic Stimulus Act of 2008
+
+- Distributes 152 billion dollars in tax rebates to middle and low income Americans
+- *National Debt doubles*
+- Bush is unpopular as 2008 election year begins
+	- Blamed for war and recession
+
+---
+
+## The Election of 2008
+
+*Republicans nominate Arizona Senator and War Hero John McCain*
+*Democrats nominate Illinois Senator Barack Obama*
+
+- McCain campaigns on Vietnam War experience
+- Obama promises to end US involvement in Iraq, decrease war on Terror
+	- Promises universal healthcare access
+
+Obama wins in an election, highest turnout since 1960
+Majority share of the popular vote higher than any Democrat since LBJ
+
+> "We the people, in order to form a more perfect union. Two hundred and twenty-one years ago, in a hall that still stands across the street, a group of men gathered and, with these simple words, launched America's improbable experiment in democracy...The document they produced was eventually signed but ultimately unfinished. It was stained by this nation's original sin of slavery... Of course, the answer to the slavery question was already embedded within our Constitution -- a Constitution that had at its very core the ideal of equal citizenship under the law; a Constitution that promised its people liberty, and justice, and a union that could be and should be perfected over time... What would be needed were Americans in successive generations who were willing to do their part...to narrow that gap between the promise of our ideals and the reality of their time...I am the son of a black man from Kenya and a white woman from Kansas. I was raised with the help of a white grandfather who survived a Depression to serve in Patton's Army during World War II and a white grandmother who worked on a bomber assembly line at Fort Leavenworth while he was overseas...It's a story that hasn't made me the most conventional candidate. But it is a story that has seared into my genetic makeup the idea that this nation is more than the sum of its parts -- that out of many, we are truly one."
+> 
+> \- Barack Obama - 2008 Speech
+
+- [x] Finish Barack Obama's 2008 speech ✅ 2023-04-20
+
+---
+---
+
+# Barack Obama's Presidency
+
+## Fixing Economic Recession
+
+### American Recovery and Reinvestment Act of 2009
+
+*Return to Keynesian economics, unlike Clinton*
+
+- 831 billion dollars
+- Massive temporary tax cuts
+- Healthcare funding
+- Education funding
+- Infrastructure funding
+
+Implements a second bailout of 9.3 billion dollars
+
+- Chrysler
+- General Motors
+
+### Dodd-Frank Act (2010)
+
+*A series of new agencies and regulations to restrict the types of speculative investments banks can make*
+
+### The Affordable Care Act (2010)
+
+*Obama's top priority from campaigning*
+
+- Republicans push for a compromise bill, Democrats refuse
+- Creates a government marketplace where all individuals can buy insurance from private insurers
+- Government provides subsidies to people below poverty line
+- Imposes fines on people who do not buy health insurance
+- Insurance companies cannot deny insurance or charge extra for preexisting conditions
+
+## Obama and the Middle East
+
+- February 2009: Obama sends 17k more troops to Afghanistan
+	- goal is to eliminate al-Qaeda
+	- promises to shut down Guantanamo Bay, never does
+- February 2009: Obama Administration prepares to withdraw US troops from Iraq by 2011
+- December 2009: Obama sends 30k more troops to Afghanistan, promises to withdraw in 2011
+- May 2011: Osama Bin Laden is killed by US special forces in Pakistan
+- June 2011: The US starts negotiations with the Taliban for peaceful coexistence
+- Ocbober-December 2011: Obama withdraws 30k troops from Afghanistan, all US troops from Iraq
+	- Ends the war in Iraq
+	- Iraq war costs the US $800 billion, 4500 troops killed
+- June 2013: Most NATO forces leave Afghanistan
+	- Obama declares he will withdraw troops from Afghanistan by end of presidency
+
++ January-June 2014: ISIS terrorist group emerges and conquers nearly half of Iraq
+	+ Human rights violations including slavery and sex trafficking
++ September 2014: US convinces NATO, EU, and Arab League to form the Coalition to defeat ISIS
+	+ Obama deploys 5,000 troops back to Iraq
+	+ in 2019 coalition forces capture last remnants of ISIS territory
++ 2009-2017: The Obama Administration focuses on drone strikes to kill terrorist leaders and special targets
+	+ 542 publicly known
+	+ Nearly 4000 people killed, 324 innocent civilians
+
+**After 2010, Republicans take control of Congress, Obama focuses on executive action**
+*Significantly greater use of executive authority*
+
+---
+
+## Domestic Policy
+
+### American Taxpayer Relief Act of 2012
+
+- Renews Bush's tax cuts for everyone making 400k or less
+- Raises taxes on individuals making more than 400k and corporations
+
+National debt grows by 74%
+
+### Deferred Action for Childhood Arrivals, DACA (2013)
+
+- Executive order, protects all individuals that came to the US illegally as children from deportation, allows application for work permits if they have no criminal record
+- Approximately 700k immigrants benefit
+	- Considered likely to be unconstitutional
+
+### Government Shutdown of October 2013
+
+*Congress fails to pass a bill funding the government*
+
+- Republicans want to defund the ACA, Democrats refuse
+- For 16 days, the federal government completely shuts down, federal employees are not paid
+	- Compromise is reached after Republican fear
+	- Over 80% of Americans consider the shutdown a failure of governance
+
+### Clean Power Plan (2015)
+
+*Created system of goals to encourage transitions to clean energy*
+
+- Implemented via executive order
+
+---
+
+## Obama and Foreign Policy
+
+### Intervention in Libya (2011)
+
+- Anti-US dictator Muammar Gaddafi uses mass murder and violence to suppress pro-democratic, causes civil war
+- Obama Administration convinces US to authorize force, NATO intervention
+- NATO naval barrage and air bombing
+
+### The Russian Annexation of Crimea (2014)
+
+*Putin declares Crimea is historically Russian, Ukraine must return it*
+
+- Russia invades to defend Russian people from Ukrainian aggression
+- Crimean leaders are forced to sign agreement for annexation into Russia
+	- UN declares Russia in violation of international law
+	- US and EU impose economic sanctions
+		- Russian economy enters a depression
+
+### The Cuban Thaw (2014-2016)
+
+*Obama announces to restore diplomatic relations with Cuba after 54 years*
+*Obama says the rivalry with Cuba is outdated*
+
+- Cuba is removed from US terrorist sponsor list
+	- Sanctions and trade restrictions lifted
+- 2016: Obama becomes the first president to visit communist Cuba
+	- Obama takes delegation of businesspeople to invest in Cuba, requires pro-democracy campaign
+- 2017: Trump reverses decisions, cuts all ties with Cuba
+
+### The Trans-Pacific Partnership or TPP
+
+*Obama continues Reaganomics (emphasis on free trade)*
+
+- Grow US economy, link Pacific economies to the US and not to China
+	- China opposes TPP
+	- includes Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, Vietnam, US
+- Completed, never approved by Senate
+- Trump Administration withdraws the US from TPP
+	- China applies to join TPP in 2021
+
+### The Iran Nuclear Agreement (2015)
+
+*Members of UN Security Council and Germany reach a deal with Iran to limit nuclear program*
+
+- Limits amount of uranium Iran can enrich and significantly increases transparency by committing Iran to frequent nuclear inspections
+	- Experts generally agree delay, but not prevention of nuclear weapons
+- For Iran to agree, Obama Administration secretly sends a plane with 400 million dollars to the Iranian government
+- Trump immediately withdraws from the deal and reimposes sanctions
+	- Iran returns to preparing nuclear weapons secretly
+
+### The Paris Climate Accords (2016)
+
+*The first-ever global agreement to combat climate change*
+
+- Obama Administration plays a key role in convincing others to sign
+- Countries of the world commit to carbon reduction goals to keep the global temperature rise between 1.5 and 2 degrees Celsius compared to Industrial Revolution temperatures
+- Cut global emissions in half by 2030
+- 2017: Trump withdraws US from the accords, denies existence of climate change
+- 2021: Biden Administration rejoins
+
+### Obergefell v. Hodges (2015)
+
+- Supreme Court finds in a 5-4 decision that the constitutional right to privacy protects the right of same-sex marriage
+- State laws prohibiting/refusing recognition of same-sex marriage ruled unconstitutional
+
+<br>
+
+==**Obama ends his presidency as the most popular president since Ronald Reagan**==
