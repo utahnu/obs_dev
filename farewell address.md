@@ -34,3 +34,14 @@ To be known means intimacy - with all of its attendant fear of self-exposure, of
 > We’re never fully qualified to do the things Christ asks us to do. He asks us to do things we can’t do (like walk on water, rise up and walk, be made whole, etc.). But as we respond in faith to His invitations, He makes up the difference.
 > So don’t worry about whether you are qualified or not. Just focus on the Savior and He’ll perform the miracles.
 
+> We fear that our pain and loss is a mark of “accusation”—that being single, never married, divorced, or infertile; struggling in marriage; having suffered abuse; wrestling with questions of gender or sexuality; or any other seeming difference from the ideal marks us as less worthy, second tier, not belonging. Instead He says, “Come, share it all with me.” He tells us:
+
+> For I am the Lord thy God, the Holy One of Israel, thy Saviour. . . .
+> . . . Thou wast precious in my sight . . . , and I have loved thee. . . .
+> Fear not: for I am with thee.
+
+> Thus, the doctrine of belonging comes down to this—each one of us can affirm: Jesus Christ died for me; He thought me worthy of His blood. He loves me and can make all the difference in my life. As I repent, His grace will transform me. I am one with Him in the gospel covenant; I belong in His Church and kingdom; and I belong in His cause to bring redemption to all of God’s children.
+
+> “Once you and I have made a covenant with God, our relationship with Him becomes much closer than before our covenant. Now we are bound together. Because of our covenant with God, He will never tire in His efforts to help us, and we will never exhaust His merciful patience with us. Each of us has a special place in God’s heart. …
+
+``

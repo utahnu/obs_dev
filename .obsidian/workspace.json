@@ -35,6 +35,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "99680e2ea75e67d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddb241ca848a0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "farewell script.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "farewell address.md",
+                "file": "farewell script.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "farewell address.md",
+                "file": "farewell script.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "farewell address.md"
+                "file": "farewell script.md"
               }
             }
           }
@@ -186,10 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec91dc7c8b195a4c",
+  "active": "fddb241ca848a0cb",
   "lastOpenFiles": [
-    "Grace in the Plan of Salvation.md",
     "farewell address.md",
+    "farewell script.md",
+    "Grace in the Plan of Salvation.md",
+    "scratch.md",
     "_daily_notes/2023-04-24.md",
     "hist221/02 The Gilded Age.md",
     "hist221/09 Civil Rights and Womens' Liberation Movements.md",
@@ -212,8 +233,6 @@
     "hist221/_Chronology.md",
     "_daily_notes/2023-04-20.md",
     "_daily_notes/2023-04-18.md",
-    "hist221/07-00 Timeline for World War II.md",
-    "hist221/06-00 Timeline for The New Deal and the 1930s.md",
     "_images/Pasted image 20230323093929.png",
     "_images/Pasted image 20230321141720.png",
     "_images",
