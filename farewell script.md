@@ -55,4 +55,4 @@ I have been called of God the Eternal Father, by His living prophets and apostle
 [^6]: John 13:8
 [^7]: Voskamp, _WayMaker,_ 219; emphasis in original.
 [^8]: John 13:9
-[^9]: John 13:13-16
+[^9]:  John 13:13-16

@@ -32,14 +32,7 @@
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "99680e2ea75e67d6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "fddb241ca848a0cb",
             "type": "leaf",
@@ -47,13 +40,14 @@
               "type": "markdown",
               "state": {
                 "file": "farewell script.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
